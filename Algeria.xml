@@ -1,0 +1,108 @@
+<?xml version="1.0"  encoding="utf-8"  ?> 
+<Algeria> 
+<Wilayas>
+  <Wilaya> 
+    <arabic lang="ar">ادرار</arabic> 
+    <french>Adrar</french>
+	<matricule>01</matricule>
+	<Daïras>
+		<Daïra>
+			<arabic lang="ar">ادرار</arabic> 
+		    <french>Adrar</french>
+			<baladiyahs>
+			
+				<baladiyah>
+					 <arabic lang="ar">ادرار</arabic> 
+				     <french>Adrar</french>
+				</baladiyah>
+				
+				<baladiyah>
+					 <arabic lang="ar">بودة</arabic> 
+				     <french>Bouda </french>
+				</baladiyah>
+				
+				<baladiyah>
+					 <arabic lang="ar">أولاد أحمد تيمى</arabic> 
+   				     <french>Ouled Ahmed Tammi </french>
+				</baladiyah>
+		
+			</baladiyahs> 
+		</Daïra>
+		
+		<Daira>
+			<arabic lang="ar">أولف</arabic> 
+		    <french>Aoulef</french>
+			<baladiyahs>
+			
+				<baladiyah>
+					<arabic lang="ar">أولف</arabic> 
+				    <french>Aoulef</french>
+				</baladiyah>
+				
+				<baladiyah>
+					<arabic lang="ar">أقبلى</arabic> 
+				    <french>Akabli</french>
+				</baladiyah>
+				
+				<baladiyah>
+					<arabic lang="ar">تمقتن</arabic> 
+				    <french>Timekten</french>
+				</baladiyah>
+				
+				<baladiyah>
+					<arabic lang="ar">تيت</arabic> 
+				    <french>Tit</french>
+				</baladiyah>
+			
+		
+			</baladiyahs> 
+		</Daira>
+		
+		<Daira>
+			<arabic lang="ar">أوقروت</arabic> 
+		    <french>Aougrout</french>
+			<baladiyahs>
+			
+				<baladiyah>
+					<arabic lang="ar">أوقروت</arabic> 
+				    <french>Aougrout</french>
+				</baladiyah>
+				
+				<baladiyah>
+					<arabic lang="ar">دلدول</arabic> 
+				    <french>Deldoul</french>
+				</baladiyah>
+				
+				<baladiyah>
+					<arabic lang="ar">المطارفة</arabic> 
+				    <french>Metarfa</french>
+				</baladiyah>
+				
+			
+		
+			</baladiyahs> 
+		</Daira>
+		
+		<Daira>
+			<arabic lang="ar"> برج باجي مختار</arabic> 
+		    <french>Bordj Badji Mokhtar</french>
+			<baladiyahs>
+			
+				<baladiyah>
+					<arabic lang="ar"> برج باجي مختار</arabic> 
+				    <french>Bordj Badji Mokhtar</french>
+				</baladiyah>
+				
+				<baladiyah>
+					<arabic lang="ar">تيمياوين</arabic> 
+				    <french>Timiaouine</french>
+				</baladiyah>
+				
+			</baladiyahs> 
+		</Daira>
+		
+	
+	</Daïras>
+  </Wilaya> 
+ </Wilayas>
+</algeria>
