@@ -1,4 +1,10 @@
-Algeria
+Algeria // الجزائر
 =======
 
-Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML file //   التقسيم الاداري للجزائر (ولايات - دوائر - بلديات ) ملف XML
+التقسيم الاداري للجزائر (ولايات - دوائر - بلديات ) ملف XML
+لا يزال قيد الانشاء
+
+
+Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML file 
+Still under construction
+
