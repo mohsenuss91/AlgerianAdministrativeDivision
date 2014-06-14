@@ -101,6 +101,28 @@
 			</baladiyahs> 
 		</Daira>
 		
+			<Daira>
+			<arabic lang="ar">شروين</arabic> 
+		    <french>Charouine</french>
+			<baladiyahs>
+			
+				<baladiyah>
+					<arabic lang="ar">شروين</arabic> 
+					<french>Charouine</french>
+				</baladiyah>
+				
+				<baladiyah>
+					<arabic lang="ar">أولاد عيسى</arabic> 
+				    <french>Ouled Aïssa</french>
+				</baladiyah>
+				
+				<baladiyah>
+					<arabic lang="ar">طالمين</arabic> 
+				    <french>Talmine</french>
+				</baladiyah>
+				
+			</baladiyahs> 
+		</Daira>
 	
 	</Daïras>
   </Wilaya> 
