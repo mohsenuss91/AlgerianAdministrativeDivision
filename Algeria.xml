@@ -135,11 +135,12 @@ github.com/IamAyman
     </Wilaya>
 
 
-
+    
     <Wilaya>
       <arabic lang="ar">غرداية</arabic>
       <french>Ghardaïa</french>
       <matricule>47</matricule>
+
       <Dairas>
         <Daira>
           <arabic lang="ar">بنورة</arabic>
@@ -149,6 +150,130 @@ github.com/IamAyman
             <Baladiyah>
               <arabic lang="ar">بونورة</arabic>
               <french>Bounoura</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">العطف</arabic>
+              <french>El Atteuf</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+
+        <Daira>
+          <arabic lang="ar">غرداية</arabic>
+          <french>Ghardaïa</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">غرداية</arabic>
+              <french>Ghardaïa</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+
+        <Daira>
+          <arabic lang="ar">بريان</arabic>
+          <french>Berriane</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">بريان</arabic>
+              <french>Berriane</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+
+        <Daira>
+          <arabic lang="ar">القراراة</arabic>
+          <french>El Guerrara</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">القرارة</arabic>
+              <french>El Guerrara</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+
+        <Daira>
+          <arabic lang="ar">زلقانة<arabic/>
+          <french>Zelfana</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">زلفانة</arabic>
+              <french>Zelfana</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+
+        <Daira>
+          <arabic lang="ar">ضاية بن ضحوة<arabic/>
+          <french>Dhayet Bendhahoua</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">ضاية ين ضحوة</arabic>
+              <french>Dhayet Bendhahoua</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+
+        <Daira>
+          <arabic lang="ar">المنصورة</arabic>
+          <french>Mansoura</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">المنصورة</arabic>
+              <french>Mansoura</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">حاسي الفحل</arabic>
+              <french>Hassi Fehal</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+
+        <Daira>
+          <arabic lang="ar">المنيعة</arabic>
+          <french>Mniaa</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">المنيعة</arabic>
+              <french>Mniaa</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">حاسي القارة</arabic>
+              <french>Hassi Gara</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+
+        <Daira>
+          <arabic lang="ar">متليلي</arabic>
+          <french>Metlili</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">متليلي</arabic>
+              <french>Metlili</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">سبسب</arabic>
+              <french>Sebseb</french>
             </Baladiyah>
 
           </Baladiyahs>
