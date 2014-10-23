@@ -8,11 +8,11 @@ Algeria // الجزائر
 
 
 
-Added:
-1) ADRAR 
-2) Chlef (under construction)
-34) Bordj Bou Arreridj 
-47) Ghardaia 
+Added:<br>
+1) ADRAR <br>
+2) Chlef (under construction)<br>
+34) Bordj Bou Arreridj <br>
+47) Ghardaia <br>
 
 
 
@@ -21,6 +21,6 @@ For more information:
 http://en.wikipedia.org/wiki/Provinces_of_Algeria
 
 
-التقسيم الاداري للجزائر (ولايات - دوائر - بلديات ) ملف XML
+<h1>التقسيم الاداري للجزائر (ولايات - دوائر - بلديات ) ملف XML
 
-لا يزال قيد الانشاء
+لا يزال قيد الانشاء</h1>
