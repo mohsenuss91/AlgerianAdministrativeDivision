@@ -21,6 +21,4 @@ For more information:
 http://en.wikipedia.org/wiki/Provinces_of_Algeria
 
 
-<h1>التقسيم الاداري للجزائر (ولايات - دوائر - بلديات ) ملف XML
-
-لا يزال قيد الانشاء</h1>
+>
