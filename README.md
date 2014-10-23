@@ -1,10 +1,10 @@
-Algeria // الجزائر
+<h1>Algeria // الجزائر</h1>
 ==================
 
 
  
 
-<h1>Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML file.<h1> 
+<h2>Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML file.</h2> 
 
 
 
@@ -20,5 +20,4 @@ Added:<br>
 For more information:
 http://en.wikipedia.org/wiki/Provinces_of_Algeria
 
-
->
+<h1>التقسيم الاداري للجزائر (ولايات - دوائر - بلديات ) ملف XML لا يزال قيد الانشاء</h1>
