@@ -1,11 +1,4 @@
-<h1>Algeria // الجزائر</h1>
-==================
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/mohsenuss91/AlgerianAdministrativeDivision?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-
- 
-
-<h2>Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML file.</h2> 
+ <h1>Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML file.</h1> 
 
 
 
@@ -21,4 +14,6 @@ Added:<br>
 For more information:
 http://en.wikipedia.org/wiki/Provinces_of_Algeria
 
-<h1>التقسيم الاداري للجزائر (ولايات - دوائر - بلديات ) ملف XML لا يزال قيد الانشاء</h1>
+Join Us at:
+ [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/mohsenuss91/AlgerianAdministrativeDivision?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
