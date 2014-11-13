@@ -1,4 +1,4 @@
-<?xml version="1.0"  encoding="utf-8"  ?>
+<?xml version="1.0"  encoding="utf-8"  ?><!DOCTYPE Algeria SYSTEM "Algeria.dtd">
 <!--
 This document contains the Algerian Administrative Division 2014
 copyright © 2014 https://github.com/mohsenuss91
@@ -9,27 +9,27 @@ github.com/IamAyman
 <Algeria>
   <Wilayas>
     <Wilaya>
-      <arabic lang="ar">ادرار</arabic>
+      <arabic >ادرار</arabic>
       <french>Adrar</french>
       <matricule>01</matricule>
       <Dairas>
         <Daira>
-          <arabic lang="ar">ادرار</arabic>
+          <arabic >ادرار</arabic>
           <french>Adrar</french>
           <Baladiyahs>
 
             <Baladiyah>
-              <arabic lang="ar">ادرار</arabic>
+              <arabic >ادرار</arabic>
               <french>Adrar</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">بودة</arabic>
+              <arabic >بودة</arabic>
               <french>Bouda </french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">أولاد أحمد تيمى</arabic>
+              <arabic >أولاد أحمد تيمى</arabic>
               <french>Ouled Ahmed Tammi </french>
             </Baladiyah>
 
@@ -37,27 +37,27 @@ github.com/IamAyman
         </Daira>
 
         <Daira>
-          <arabic lang="ar">أولف</arabic>
+          <arabic >أولف</arabic>
           <french>Aoulef</french>
           <Baladiyahs>
 
             <Baladiyah>
-              <arabic lang="ar">أولف</arabic>
+              <arabic >أولف</arabic>
               <french>Aoulef</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">أقبلى</arabic>
+              <arabic >أقبلى</arabic>
               <french>Akabli</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">تمقتن</arabic>
+              <arabic >تمقتن</arabic>
               <french>Timekten</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">تيت</arabic>
+              <arabic >تيت</arabic>
               <french>Tit</french>
             </Baladiyah>
 
@@ -66,22 +66,22 @@ github.com/IamAyman
         </Daira>
 
         <Daira>
-          <arabic lang="ar">أوقروت</arabic>
+          <arabic >أوقروت</arabic>
           <french>Aougrout</french>
           <Baladiyahs>
 
             <Baladiyah>
-              <arabic lang="ar">أوقروت</arabic>
+              <arabic >أوقروت</arabic>
               <french>Aougrout</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">دلدول</arabic>
+              <arabic >دلدول</arabic>
               <french>Deldoul</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">المطارفة</arabic>
+              <arabic >المطارفة</arabic>
               <french>Metarfa</french>
             </Baladiyah>
 
@@ -91,17 +91,17 @@ github.com/IamAyman
         </Daira>
 
         <Daira>
-          <arabic lang="ar"> برج باجي مختار</arabic>
+          <arabic > برج باجي مختار</arabic>
           <french>Bordj Badji Mokhtar</french>
           <Baladiyahs>
 
             <Baladiyah>
-              <arabic lang="ar"> برج باجي مختار</arabic>
+              <arabic > برج باجي مختار</arabic>
               <french>Bordj Badji Mokhtar</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">تيمياوين</arabic>
+              <arabic >تيمياوين</arabic>
               <french>Timiaouine</french>
             </Baladiyah>
 
@@ -109,22 +109,22 @@ github.com/IamAyman
         </Daira>
 
         <Daira>
-          <arabic lang="ar">شروين</arabic>
+          <arabic >شروين</arabic>
           <french>Charouine</french>
           <Baladiyahs>
 
             <Baladiyah>
-              <arabic lang="ar">شروين</arabic>
+              <arabic >شروين</arabic>
               <french>Charouine</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">أولاد عيسى</arabic>
+              <arabic >أولاد عيسى</arabic>
               <french>Ouled Aissa</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">طالمين</arabic>
+              <arabic >طالمين</arabic>
               <french>Talmine</french>
             </Baladiyah>
 
@@ -132,22 +132,22 @@ github.com/IamAyman
         </Daira>
 
         <Daira>
-          <arabic lang="ar">فنوغيل</arabic>
+          <arabic >فنوغيل</arabic>
           <french>Fenoughil</french>
           <Baladiyahs>
 
             <Baladiyah>
-               <arabic lang="ar">فنوغيل</arabic>
+               <arabic >فنوغيل</arabic>
 			   <french>Fenoughil</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">تامنطيت</arabic>
+              <arabic >تامنطيت</arabic>
               <french>Tamantit</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">تأماست</arabic>
+              <arabic >تأماست</arabic>
               <french>Tamest</french>
             </Baladiyah>
 
@@ -155,17 +155,17 @@ github.com/IamAyman
         </Daira>
  
         <Daira>
-          <arabic lang="ar">رقان</arabic>
+          <arabic >رقان</arabic>
           <french>Reggane</french>
           <Baladiyahs>
 
             <Baladiyah>
-               <arabic lang="ar">رقان</arabic>
+               <arabic >رقان</arabic>
 			   <french>Reggane</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">سالى</arabic>
+              <arabic >سالى</arabic>
               <french>Sali</french>
             </Baladiyah>
 			
@@ -173,17 +173,17 @@ github.com/IamAyman
         </Daira>
 		
         <Daira>
-          <arabic lang="ar">تيميمون</arabic>
+          <arabic >تيميمون</arabic>
           <french>Timimoun</french>
           <Baladiyahs>
 
             <Baladiyah>
-               <arabic lang="ar">تيميمون</arabic>
+               <arabic >تيميمون</arabic>
 			   <french>Timimoun</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">أولاد سعيد</arabic>
+              <arabic >أولاد سعيد</arabic>
               <french>Ouled Saïd</french>
             </Baladiyah>
 			
@@ -191,17 +191,17 @@ github.com/IamAyman
         </Daira>
 
         <Daira>
-          <arabic lang="ar">تنيركوك</arabic>
+          <arabic >تنيركوك</arabic>
           <french>Tinerkouk</french>
           <Baladiyahs>
 
             <Baladiyah>
-               <arabic lang="ar">تنيركوك</arabic>
+               <arabic >تنيركوك</arabic>
 			   <french>Tinerkouk</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">قصر قدور</arabic>
+              <arabic >قصر قدور</arabic>
               <french>Ksar Kaddour</french>
             </Baladiyah>
 			
@@ -209,17 +209,17 @@ github.com/IamAyman
         </Daira>
 		
         <Daira>
-          <arabic lang="ar">تسابيت</arabic>
+          <arabic >تسابيت</arabic>
           <french>Tsabit</french>
           <Baladiyahs>
 
             <Baladiyah>
-               <arabic lang="ar">تسابيت</arabic>
+               <arabic >تسابيت</arabic>
 			   <french>Tsabit</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">السبع</arabic>
+              <arabic >السبع</arabic>
               <french>Sebaa</french>
             </Baladiyah>
 			
@@ -227,17 +227,17 @@ github.com/IamAyman
         </Daira>
 	
 		<Daira>
-          <arabic lang="ar">زاوية كنتة</arabic>
+          <arabic >زاوية كنتة</arabic>
           <french>Zaouiet Kounta</french>
           <Baladiyahs>
 
             <Baladiyah>
-               <arabic lang="ar">زاوية كنتة</arabic>
+               <arabic >زاوية كنتة</arabic>
 			   <french>Zaouiet Kounta</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">ان زغمير</arabic>
+              <arabic >ان زغمير</arabic>
               <french>In Zghmir</french>
             </Baladiyah>
 			
@@ -245,17 +245,17 @@ github.com/IamAyman
         </Daira>
 		
 		<Daira>
-          <arabic lang="ar">زاوية كنتة</arabic>
+          <arabic >زاوية كنتة</arabic>
           <french>Zaouiet Kounta</french>
           <Baladiyahs>
 
             <Baladiyah>
-               <arabic lang="ar">زاوية كنتة</arabic>
+               <arabic >زاوية كنتة</arabic>
 			   <french>Zaouiet Kounta</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">ان زغمير</arabic>
+              <arabic >ان زغمير</arabic>
               <french>In Zghmir</french>
             </Baladiyah>
 			
@@ -269,7 +269,7 @@ github.com/IamAyman
 Wilaya ADRAR completely added
 -->
      <Wilaya>
-      <arabic lang="ar">الشلف</arabic>
+      <arabic >الشلف</arabic>
       <french>Chlef</french>
       <matricule>02</matricule>
 	  
@@ -277,7 +277,7 @@ Wilaya ADRAR completely added
 		
       <Dairas>
 		<Daira>
-			<arabic lang="ar">الشلف</arabic>
+			<arabic >الشلف</arabic>
 			<french>Chlef</french>
 			<Baladiyahs>
 				<Baladiyah>
@@ -292,19 +292,19 @@ Wilaya ADRAR completely added
 Wilaya Chlef Still under construction
 -->
     <Wilaya>
-      <arabic lang="ar">غرداية</arabic>
+      <arabic >غرداية</arabic>
       <french>Ghardaïa</french>
       <matricule>47</matricule>
 
       <Dairas>
 	  
         <Daira>
-          <arabic lang="ar">غرداية</arabic>
+          <arabic >غرداية</arabic>
           <french>Ghardaïa</french>
           <Baladiyahs>
 
             <Baladiyah>
-              <arabic lang="ar">غرداية</arabic>
+              <arabic >غرداية</arabic>
               <french>Ghardaïa</french>
             </Baladiyah>
 
@@ -312,17 +312,17 @@ Wilaya Chlef Still under construction
         </Daira>
 	
 		<Daira>
-          <arabic lang="ar">المنيعة</arabic>
+          <arabic >المنيعة</arabic>
           <french>Meniaa</french>
           <Baladiyahs>
 
             <Baladiyah>
-              <arabic lang="ar">المنيعة</arabic>
+              <arabic >المنيعة</arabic>
               <french>Meniaa</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">حاسي قارة</arabic>
+              <arabic >حاسي قارة</arabic>
               <french>Hassi Gara</french>
             </Baladiyah>
 
@@ -330,29 +330,29 @@ Wilaya Chlef Still under construction
         </Daira>
 		
 		<Daira>
-          <arabic lang="ar">متليلي الشعانبة</arabic>
+          <arabic >متليلي الشعانبة</arabic>
           <french>Metlili</french>
           <Baladiyahs>
 
             <Baladiyah>
-              <arabic lang="ar">متليلي الشعانبة</arabic>
+              <arabic >متليلي الشعانبة</arabic>
               <french>Metlili</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">سبسب</arabic>
+              <arabic >سبسب</arabic>
               <french>Sebseb</french>
             </Baladiyah>
 
           </Baladiyahs>
         </Daira>
 		<Daira>
-          <arabic lang="ar">بريان</arabic>
+          <arabic >بريان</arabic>
           <french>Berriane</french>
           <Baladiyahs>
 
             <Baladiyah>
-              <arabic lang="ar">بريان</arabic>
+              <arabic >بريان</arabic>
               <french>Berriane</french>
             </Baladiyah>
 			
@@ -360,40 +360,40 @@ Wilaya Chlef Still under construction
         </Daira>
 		
         <Daira>
-          <arabic lang="ar">ضاية بن ضحوة</arabic>
+          <arabic >ضاية بن ضحوة</arabic>
           <french>Dhayet Bendhahoua</french>
           <Baladiyahs>
             <Baladiyah>
-              <arabic lang="ar">ضاية ين ضحوة</arabic>
+              <arabic >ضاية ين ضحوة</arabic>
               <french>Dhayet Bendhahoua</french>
             </Baladiyah>
           </Baladiyahs>
         </Daira>
 
         <Daira>
-          <arabic lang="ar">المنصورة</arabic>
+          <arabic >المنصورة</arabic>
           <french>Mansoura</french>
           <Baladiyahs>
 
             <Baladiyah>
-              <arabic lang="ar">المنصورة</arabic>
+              <arabic >المنصورة</arabic>
               <french>Mansoura</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">حاسي الفحل</arabic>
+              <arabic >حاسي الفحل</arabic>
               <french>Hassi Fehal</french>
             </Baladiyah>
 
           </Baladiyahs>
         </Daira>
 		 <Daira>
-          <arabic lang="ar">زلقانة</arabic>
+          <arabic >زلقانة</arabic>
           <french>Zelfana</french>
           <Baladiyahs>
 
             <Baladiyah>
-              <arabic lang="ar">زلفانة</arabic>
+              <arabic >زلفانة</arabic>
               <french>Zelfana</french>
             </Baladiyah>
 
@@ -401,29 +401,29 @@ Wilaya Chlef Still under construction
         </Daira>
 		
         <Daira>
-          <arabic lang="ar">القراراة</arabic>
+          <arabic >القراراة</arabic>
           <french>El Guerrara</french>
           <Baladiyahs>
 
             <Baladiyah>
-              <arabic lang="ar">القرارة</arabic>
+              <arabic >القرارة</arabic>
               <french>El Guerrara</french>
             </Baladiyah>
 
           </Baladiyahs>
         </Daira>
 		<Daira>
-          <arabic lang="ar">بنورة</arabic>
+          <arabic >بنورة</arabic>
           <french>Bounoura</french>
           <Baladiyahs>
 
             <Baladiyah>
-              <arabic lang="ar">بونورة</arabic>
+              <arabic >بونورة</arabic>
               <french>Bounoura</french>
             </Baladiyah>
 
             <Baladiyah>
-              <arabic lang="ar">العطف</arabic>
+              <arabic >العطف</arabic>
               <french>El Atteuf</french>
             </Baladiyah>
 
@@ -435,7 +435,7 @@ Wilaya Chlef Still under construction
 Wilaya Ghardaia completely added
 -->
 	<Wilaya>
-		<arabic lang="ar">برج بوعريريج</arabic>
+		<arabic >برج بوعريريج</arabic>
       		<french>Bordj Bou Arreridj</french>
       		<matricule>02</matricule>
 	  
@@ -443,197 +443,197 @@ Wilaya Ghardaia completely added
 		
       		<Dairas>
 			<Daira>
-				<arabic lang="ar">برج بوعريريج</arabic>
+				<arabic >برج بوعريريج</arabic>
 				<french>Bordj Bou Arreridj</french>
 				<Baladiyahs>
 					<Baladiyah>
-						<arabic lang="ar">برج بوعريريج</arabic>
+						<arabic >برج بوعريريج</arabic>
               					<french>Bordj Bou Arreridj</french>
 					</Baladiyah>
 				</Baladiyahs>
 			</Daira>
 			<Daira>
-				<arabic lang="ar">رأس الوادي</arabic>
+				<arabic >رأس الوادي</arabic>
 				<french>ٌRas El Oued</french>
 				<Baladiyahs>
 					<Baladiyah>
-						<arabic lang="ar">رأس الوادي</arabic>
+						<arabic >رأس الوادي</arabic>
               					<french>ٌRas El Oued</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">عين تسرة</arabic>
+						<arabic >عين تسرة</arabic>
               					<french>Ain Tesra</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">أولاد براهم</arabic>
+						<arabic >أولاد براهم</arabic>
               					<french>Ouled Brahem</french>
 					</Baladiyah>
 				</Baladiyahs>
 			</Daira>
 			<Daira>
-				<arabic lang="ar">برج زمورة</arabic>
+				<arabic >برج زمورة</arabic>
 				<french>Bordj Zemora</french>
 				<Baladiyahs>
 					<Baladiyah>
-						<arabic lang="ar">برج زمورة</arabic>
+						<arabic >برج زمورة</arabic>
               					<french>Bordj Zemora</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">أولاد دحمان</arabic>
+						<arabic >أولاد دحمان</arabic>
               					<french>Ouled Dahmane</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">تاسمرت</arabic>
+						<arabic >تاسمرت</arabic>
               					<french>Tesmart</french>
 					</Baladiyah>
 				</Baladiyahs>
 			</Daira>
 			<Daira>
-				<arabic lang="ar">المنصورة</arabic>
+				<arabic >المنصورة</arabic>
 				<french>Mansoura</french>
 				<Baladiyahs>
 					<Baladiyah>
-						<arabic lang="ar">المنصورة</arabic>
+						<arabic >المنصورة</arabic>
               					<french>Mansoura</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">أولاد سيدي إبراهيم</arabic>
+						<arabic >أولاد سيدي إبراهيم</arabic>
               					<french>Ouled Sidi-Brahim</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">المهير</arabic>
+						<arabic >المهير</arabic>
               					<french>El M'hir</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">بن داود</arabic>
+						<arabic >بن داود</arabic>
               					<french>Ben Daoud</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">حرازة</arabic>
+						<arabic >حرازة</arabic>
               					<french>Haraza</french>
 					</Baladiyah>
 				</Baladiyahs>
 			</Daira>
 			<Daira>
-				<arabic lang="ar">مجانة</arabic>
+				<arabic >مجانة</arabic>
 				<french>Medjana</french>
 				<Baladiyahs>
 					<Baladiyah>
-						<arabic lang="ar">مجانة</arabic>
+						<arabic >مجانة</arabic>
               					<french>Medjana</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">ثنية النصر</arabic>
+						<arabic >ثنية النصر</arabic>
               					<french>Teniet En Nasr</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">حسناوة</arabic>
+						<arabic >حسناوة</arabic>
               					<french>Hasnaoua</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">اليشير</arabic>
+						<arabic >اليشير</arabic>
               					<french>El Achir</french>
 					</Baladiyah>
 				</Baladiyahs>
 			</Daira>
 			<Daira>
-				<arabic lang="ar">الحمادية</arabic>
+				<arabic >الحمادية</arabic>
 				<french>El Hamadia</french>
 				<Baladiyahs>
 					<Baladiyah>
-						<arabic lang="ar">الحمادية</arabic>
+						<arabic >الحمادية</arabic>
               					<french>El Hamadia</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">الرابطة</arabic>
+						<arabic >الرابطة</arabic>
               					<french>Rabta</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">العش</arabic>
+						<arabic >العش</arabic>
               					<french>El Ach</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">القصور</arabic>
+						<arabic >القصور</arabic>
               					<french>Ksour</french>
 					</Baladiyah>
 				</Baladiyahs>
 			</Daira>
 			<Daira>
-				<arabic lang="ar">عين تاغروت</arabic>
+				<arabic >عين تاغروت</arabic>
 				<french>Ain Taghrout</french>
 				<Baladiyahs>
 					<Baladiyah>
-						<arabic lang="ar">عين تاغروت</arabic>
+						<arabic >عين تاغروت</arabic>
               					<french>Ain Taghrout</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">تكستار</arabic>
+						<arabic >تكستار</arabic>
               					<french>Tixter</french>
 					</Baladiyah>
 				</Baladiyahs>
 			</Daira>
 			<Daira>
-				<arabic lang="ar">بئر قاصد علي</arabic>
+				<arabic >بئر قاصد علي</arabic>
 				<french>Bir Kasd Ali</french>
 				<Baladiyahs>
 					<Baladiyah>
-						<arabic lang="ar">بئر قاصد علي</arabic>
+						<arabic >بئر قاصد علي</arabic>
               					<french>Bir Kasd Ali</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">خليل</arabic>
+						<arabic >خليل</arabic>
               					<french>Khelil</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">سيدي امبارك</arabic>
+						<arabic >سيدي امبارك</arabic>
               					<french>Sidi-Embarek</french>
 					</Baladiyah>
 				</Baladiyahs>
 			</Daira>
 			<Daira>
-				<arabic lang="ar">الجعافرة</arabic>
+				<arabic >الجعافرة</arabic>
 				<french>Djaafra</french>
 				<Baladiyahs>
 					<Baladiyah>
-						<arabic lang="ar">الجعافرة</arabic>
+						<arabic >الجعافرة</arabic>
               					<french>Djaafra</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">القلة</arabic>
+						<arabic >القلة</arabic>
               					<french>Colla</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">تفرق</arabic>
+						<arabic >تفرق</arabic>
               					<french>Tafreg</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">الماين</arabic>
+						<arabic >الماين</arabic>
               					<french>El Main</french>
 					</Baladiyah>
 				</Baladiyahs>
 			</Daira>
 			<Daira>
-				<arabic lang="ar">برج الغدير</arabic>
+				<arabic >برج الغدير</arabic>
 				<french>Bordj Ghdir</french>
 				<Baladiyahs>
 					<Baladiyah>
-						<arabic lang="ar">برج الغدير</arabic>
+						<arabic >برج الغدير</arabic>
               					<french>Bordj Ghdir</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">تقلعيت</arabic>
+						<arabic >تقلعيت</arabic>
               					<french>Taglait</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">غيلاسة</arabic>
+						<arabic >غيلاسة</arabic>
               					<french>Ghilassa</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">بليمور</arabic>
+						<arabic >بليمور</arabic>
               					<french>Belimour</french>
 					</Baladiyah>
 					<Baladiyah>
-						<arabic lang="ar">العناصر</arabic>
+						<arabic >العناصر</arabic>
               					<french>El Anseur</french>
 					</Baladiyah>
 				</Baladiyahs>
