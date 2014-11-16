@@ -281,11 +281,38 @@ Wilaya ADRAR completely added
 			<french>Chlef</french>
 			<Baladiyahs>
 				<Baladiyah>
-				</Baladiyah>
-			</Baladiyahs>
+					<arabic>الشلف </arabic>
+					<french>الشلف </french></Baladiyah>
+				<Baladiyah>
+					<arabic>سنجاس</arabic>
+					<french>Sendjas</french></Baladiyah></Baladiyahs>
+			<Baladiyah>
+				<arabic>أم الذروع</arabic>
+				<french>Oum Drou</french></Baladiyah></Daira>
+		<Daira>
+			<arabic>وادي الفضة</arabic>
+			<french>Oued Fodda</french>
+			<Baladiyas>
+				<Baladiyah>
+					<arabic>وادي الفضة</arabic>
+					<french>Oued Fodda</french></Baladiyah>
+				<Baladiyah>
+					<arabic>بني راشد</arabic>
+					<french>Beni Rached</french></Baladiyah>
+				<Baladiyah>
+					<arabic>أولاد عباس</arabic>
+					<french>Ouled Abbes</french></Baladiyah></Baladiyas></Daira><!--XXXXXXXXXXXXXXXXXXXXXXX-->
+
+		<Daira>
+			<arabic>الكريمية</arabic>
+			<french>El Karimia</french>
 		</Daira>
-      </Dairas>
-	  
+		<Daira>
+			<arabic></arabic>
+			<french></french>
+		</Daira>
+		
+		</Dairas>
 	 </Wilaya>
 	 
 	 <!--
