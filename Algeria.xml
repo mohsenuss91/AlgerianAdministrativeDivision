@@ -306,17 +306,191 @@ Wilaya ADRAR completely added
 		<Daira>
 			<arabic>الكريمية</arabic>
 			<french>El Karimia</french>
+			<Baladiyas>
+				<Baladiyah>
+					<arabic>الكريمية </arabic>
+					<french></french>
+				</Baladiyah>
+				<Baladiyah>
+					<arabic>حرشون </arabic>
+					<french></french>
+				</Baladiyah>
+				<Baladiyah>
+					<arabic>بني بوعتاب</arabic>
+					<french></french>
+				</Baladiyah>
+			</Baladiyas>
 		</Daira>
 		<Daira>
-			<arabic></arabic>
+			<arabic>زبوجة </arabic>
 			<french></french>
+			<Baladiyas>
+				<Baladiyah>
+					<arabic>زبوجة </arabic>
+					<french></french>
+				</Baladiyah>
+				<Baladiyah>
+					<arabic>بنايرية </arabic>
+					<french></french>
+				</Baladiyah>
+				<Baladiyah>
+					<arabic>بوزغاية</arabic>
+					<french></french>
+				</Baladiyah>
+			</Baladiyas>
 		</Daira>
-		
+		<Daira>
+			<arabic>أولاد فارس </arabic>
+			<french></french>
+			<Baladiyas>
+				<Baladiyah>
+					<arabic>أولاد فارس </arabic>
+					<french></french>
+				</Baladiyah>
+				<Baladiyah>
+					<arabic>شطّية </arabic>
+					<french></french>
+				</Baladiyah>
+				<Baladiyah>
+					<arabic>لبيض مجاجة</arabic>
+					<french></french>
+				</Baladiyah>
+			</Baladiyas>
+		</Daira>
+		<Daira>
+			<arabic>بوقادير </arabic>
+			<french></french>
+			<Baladiyas>
+				<Baladiyah>
+					<arabic>بوقادير </arabic>
+					<french></french>
+				</Baladiyah>
+				<Baladiyah>
+					<arabic>واد سلي </arabic>
+					<french></french>
+				</Baladiyah>
+				<Baladiyah>
+					<arabic>صبحة</arabic>
+					<french></french>
+				</Baladiyah>
+			</Baladiyas>
+		</Daira>
+		<Daira>
+			<arabic>أولاد بن عبد القادر </arabic>
+			<french></french>
+			<Baladiyas>
+				<Baladiyah>
+					<arabic>أولاد بن عبد القادر </arabic>
+					<french></french>
+				</Baladiyah>
+				<Baladiyah>
+					<arabic>الحجّاج</arabic>
+					<french></french>
+				</Baladiyah>
+			</Baladiyas>
+		</Daira>
+		<Daira>
+			<arabic>تاوقريت</arabic>
+			<french></french>
+			<Baladiyas>
+				<Baladiyah>
+					<arabic>تاوقريت</arabic>
+					<french></french>
+				</Baladiyah>
+				<Baladiyah>
+					<arabic>الظهرة</arabic>
+					<french></french>
+				</Baladiyah>
+			</Baladiyas>
+		</Daira>
+		<Daira>
+			<arabic>عين مران </arabic>
+			<french></french>
+			<Baladiyas>
+				<Baladiyah>
+					<arabic>عين مران </arabic>
+					<french></french>
+				</Baladiyah>
+				<Baladiyah>
+					<arabic>الهرانفة</arabic>
+					<french></french>
+				</Baladiyah>
+			</Baladiyas>
+		</Daira>
+		<Daira>
+			<arabic> تنس </arabic>
+			<french></french>
+			<Baladiyas>
+				<Baladiyah>
+					<arabic>تنس </arabic>
+					<french></french>
+				</Baladiyah>
+				<Baladiyah>
+					<arabic>سيدي عكّاشة </arabic>
+					<french></french>
+				</Baladiyah>
+				<Baladiyah>
+					<arabic>سيدي عبد الرّحمان</arabic>
+					<french></french>
+				</Baladiyah>
+			</Baladiyas>
+		</Daira>
+		<Daira>
+			<arabic>سيدي عبد الرّحمان</arabic>
+			<french></french>
+			<Baladiyas>
+				<Baladiyah>
+					<arabic>سيدي عبد الرّحمان</arabic>
+					<french></french>
+				</Baladiyah>
+				<Baladiyah>
+					<arabic>تلعصة </arabic>
+					<french></french>
+				</Baladiyah>
+				<Baladiyah>
+					<arabic>تاجنة</arabic>
+					<french></french>
+				</Baladiyah>
+			</Baladiyas>
+		</Daira>
+		<Daira>
+			<arabic>المرسى</arabic>
+			<french></french>
+			<Baladiyas>
+				<Baladiyah>
+					<arabic>المرسى</arabic>
+					<french></french>
+				</Baladiyah>
+				<Baladiyah>
+					<arabic>مصدّق</arabic>
+					<french></french>
+				</Baladiyah>
+			</Baladiyas>
+		</Daira>
+		<Daira>
+			<arabic>بني حوّاء</arabic>
+			<french></french>
+			<Baladiyas>
+				<Baladiyah>
+					<arabic>بني حوّاء</arabic>
+					<french></french>
+				</Baladiyah>
+				<Baladiyah>
+					<arabic>بريرة </arabic>
+					<french></french>
+				</Baladiyah>
+				<Baladiyah>
+					<arabic>واد غوسين</arabic>
+					<french></french>
+				</Baladiyah>
+			</Baladiyas>
+		</Daira>
 		</Dairas>
 	 </Wilaya>
 	 
 	 <!--
 Wilaya Chlef Still under construction
+needs french translation
 -->
     <Wilaya>
       <arabic >غرداية</arabic>
