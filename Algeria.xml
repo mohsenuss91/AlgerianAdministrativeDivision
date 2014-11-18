@@ -564,17 +564,249 @@ french : http://fr.wikipedia.org/wiki/Communes_de_la_wilaya_de_Chlef
 			</Dairas>
 		</Wilaya>
 	 <!--
-Wilaya Laghouat completely added--><Wilaya>
+Wilaya Laghouat completely added-->
+<Wilaya>
 	<arabic>أم البواقي</arabic>
 	<french>Oum El Bouaghi</french>
 	<matricule>04</matricule>
 	<Dairas>
-		<arabic></arabic>
-		<french></french>
 		<Daira>
 			<arabic></arabic>
-			<french></french></Daira></Dairas></Wilaya><!--Wilaya Oum El Bouaghi Started __Under construction-->
-  	<Wilaya>
+			<french>Oum El Bouaghi</french>
+			
+          		<Baladiyahs>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Oum El Bouaghi</french>
+            			</Baladiyah>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Aïn Zitoun </french>
+            			</Baladiyah>
+          		</Baladiyahs>
+				
+		</Daira>
+		
+		<Daira>
+			<arabic></arabic>
+			<french>Aïn Babouche</french>
+			
+          		<Baladiyahs>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Aïn Babouche</french>
+            			</Baladiyah>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Aïn Diss</french>
+            			</Baladiyah>
+          		</Baladiyahs>
+				
+		</Daira>
+		
+		<Daira>
+			<arabic></arabic>
+			<french>Ksar Sbahi</french>
+			
+          		<Baladiyahs>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Ksar Sbahi</french>
+            			</Baladiyah>
+          		</Baladiyahs>
+				
+		</Daira>
+		
+		<Daira>
+			<arabic></arabic>
+			<french>Ain El Beida</french>
+			
+          		<Baladiyahs>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Ain El Beida</french>
+            			</Baladiyah>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Zorg</french>
+            			</Baladiyah>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Berriche</french>
+            			</Baladiyah>
+          		</Baladiyahs>
+				
+		</Daira>
+		
+		<Daira>
+			<arabic></arabic>
+			<french>Fkirina</french>
+			
+          		<Baladiyahs>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Fkirina</french>
+            			</Baladiyah>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Oued Nini</french>
+            			</Baladiyah>
+          		</Baladiyahs>
+				
+		</Daira>
+		</Daira>
+		
+		<Daira>
+			<arabic></arabic>
+			<french>Ain M’lila</french>
+			
+          		<Baladiyahs>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Ain M’lila</french>
+            			</Baladiyah>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Ouled Gacem</french>
+            			</Baladiyah>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Ouled Hamla</french>
+            			</Baladiyah>
+          		</Baladiyahs>
+				
+		</Daira>
+		</Daira>
+		
+		<Daira>
+			<arabic></arabic>
+			<french>Souk Naamane</french>
+			
+          		<Baladiyahs>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Souk Naamane</french>
+            			</Baladiyah>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Bir Chouhada</french>
+            			</Baladiyah>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Ouled Zouaï</french>
+            			</Baladiyah>
+          		</Baladiyahs>
+				
+		</Daira>
+		</Daira>
+		
+		<Daira>
+			<arabic></arabic>
+			<french>Ain Fakroun</french>
+			
+          		<Baladiyahs>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Ain Fakroun</french>
+            			</Baladiyah>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>El Fedjouz Boughrara Saoudi</french>
+            			</Baladiyah>
+          		</Baladiyahs>
+				
+		</Daira>
+		</Daira>
+		
+		<Daira>
+			<arabic></arabic>
+			<french>Sigus</french>
+			
+          		<Baladiyahs>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Sigus</french>
+            			</Baladiyah>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>El Amiria</french>
+            			</Baladiyah>
+          		</Baladiyahs>
+				
+		</Daira>
+		
+		<Daira>
+			<arabic></arabic>
+			<french>Ain Kercha</french>
+			
+          		<Baladiyahs>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Ain Kercha</french>
+            			</Baladiyah>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>El Harmilia</french>
+            			</Baladiyah>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Hanchir Toumghani</french>
+            			</Baladiyah>
+          		</Baladiyahs>
+				
+		</Daira>
+		
+		<Daira>
+			<arabic></arabic>
+			<french>Meskiana</french>
+			
+          		<Baladiyahs>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Meskiana</french>
+            			</Baladiyah>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Behir Chergui</french>
+            			</Baladiyah>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>El Belala</french>
+            			</Baladiyah>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Rahia</french>
+            			</Baladiyah>
+          		</Baladiyahs>
+				
+		</Daira>
+		
+		<Daira>
+			<arabic></arabic>
+			<french>Dhalaa</french>
+			
+          		<Baladiyahs>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>Dhalaa</french>
+            			</Baladiyah>
+            			<Baladiyah>
+              				<arabic ></arabic>
+              				<french>El Djazia</french>
+            			</Baladiyah>
+          		</Baladiyahs>
+				
+		</Daira>
+		
+				
+	</Dairas>
+				
+</Wilaya><!--Wilaya Oum El Bouaghi Started __Under construction arabic translation needed
+french source : fr.wikipedia ^^ -->
+
+
+
+<Wilaya>
       <arabic >غرداية</arabic>
       <french>Ghardaïa</french>
       <matricule>47</matricule>
