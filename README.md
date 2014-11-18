@@ -7,9 +7,10 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML file.
 
 
 #Recently added :
-1) ADRAR <br>
-2) Chlef <br>
-3) Laghouat (under construction)<br>
+01) ADRAR <br>
+02) Chlef <br>
+03) Laghouat <br>
+04) Oum El Bouaghi (under construction)<br>
 34) Bordj Bou Arreridj <br>
 47) Ghardaia <br>
 
