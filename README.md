@@ -22,7 +22,7 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML file.
 34) Bordj Bou Arreridj <br>
 47) Ghardaia <br>
 
-#How to cintribute
+#How to contribute
 Any one can contribute in this projet by coding, translating or sharing documents and sources.
 
 
