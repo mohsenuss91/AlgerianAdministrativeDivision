@@ -1,4 +1,4 @@
-<?xml version="1.0"  encoding="utf-8"  ?><!DOCTYPE Algeria SYSTEM "Algeria.dtd">
+﻿<?xml version="1.0"  encoding="utf-8"  ?><!DOCTYPE Algeria SYSTEM "Algeria.dtd">
 <!--
 This document contains the Algerian Administrative Division 2014
 copyright © 2014 https://github.com/mohsenuss91
@@ -536,33 +536,83 @@ french : http://fr.wikipedia.org/wiki/Communes_de_la_wilaya_de_Chlef
 				</Baladiyah>
 				<Baladiyah>
 				<arabic >الخنق</arabic>
-				<french>Kheneg</french></Baladiyah></Baladiyahs></Daira>
-				<Daira><arabic>بريدة</arabic><french>
-				Brida</french><Baladiyahs><Baladiyah><arabic >بريدة</arabic><french>Brida</french></Baladiyah>
-				<Baladiyah><arabic >تاويالة</arabic><french>Taouila</french></Baladiyah></Baladiyahs></Daira>
-				<Daira><arabic>الغيشة</arabic><french>
-				El Ghicha</french><Baladiyahs><Baladiyah><arabic >الغيشة</arabic><french>El Ghicha</french></Baladiyah></Baladiyahs></Daira>
-				<Daira><arabic>قلتة سيدي سعد</arabic><french>
-				Gueltet Sidi Saâd</french><Baladiyahs><Baladiyah><arabic >قلتة سيدي سعد</arabic><french>Gueltat Sidi Saad</french></Baladiyah>
+				<french>Kheneg</french></Baladiyah>
+			</Baladiyahs>
+		</Daira>
+		<Daira>
+			<arabic>بريدة</arabic>
+			<french>Brida</french>
+			<Baladiyahs>
+				<Baladiyah>
+				<arabic >بريدة</arabic>
+				<french>Brida</french>
+				</Baladiyah>
+				<Baladiyah>
+				<arabic >تاويالة</arabic><french>Taouila</french>
+				</Baladiyah>
+			</Baladiyahs>
+		</Daira>
+		<Daira>
+			<arabic>الغيشة</arabic>
+			<french>El Ghicha</french>
+			<Baladiyahs>
+				<Baladiyah>
+					<arabic >الغيشة</arabic>
+					<french>El Ghicha</french>
+				</Baladiyah>
+			</Baladiyahs>
+		</Daira>
+		<Daira>
+			<arabic>قلتة سيدي سعد</arabic>
+			<french>Gueltet Sidi Saâd</french>
+			<Baladiyahs>
+				<Baladiyah><arabic >قلتة سيدي سعد</arabic><french>Gueltat Sidi Saad</french></Baladiyah>
 				<Baladiyah><arabic >عين سيدي على</arabic><french>Aïn Sidi Ali</french></Baladiyah>
 				<Baladiyah><arabic >حاج مشري</arabic><french>Hadj Mechri</french></Baladiyah>
-				<Baladiyah><arabic >بيضاء</arabic><french>Beidha</french></Baladiyah></Baladiyahs></Daira>
-				<Daira><arabic>حاسى الرمل</arabic><french>
-				Hassi R'Mel</french><Baladiyahs><Baladiyah><arabic >حاسى الرمل</arabic><french>Hassi R'Mel</french></Baladiyah>
-				<Baladiyah><arabic >حاسى دلاعة</arabic><french>Hassi Delaa</french></Baladiyah></Baladiyahs></Daira>
-				<Daira><arabic>قصر الحيران</arabic><french>
-				Ksar El Hirane</french><Baladiyahs><Baladiyah><arabic >قصر الحيران</arabic><french>Ksar El Hirane</french></Baladiyah>
-				<Baladiyah><arabic >بن ناصر بن شهرة</arabic><french>Bennasser Benchohra</french></Baladiyah></Baladiyahs></Daira>
-				<Daira><arabic>الاغواط</arabic><french>
-				Laghouat</french><Baladiyahs><Baladiyah><arabic >الاغواط</arabic><french>Laghouat</french></Baladiyah></Baladiyahs></Daira>
-				<Daira><arabic>واد مرة</arabic><french>
-				Oued Morra</french><Baladiyahs><Baladiyah><arabic >واد مرة</arabic><french>Oued Morra</french></Baladiyah>
-				<Baladiyah><arabic >واد مزي</arabic><french>Oued M'Zi</french></Baladiyah></Baladiyahs></Daira>
-				<Daira><arabic>سيدي مخلوف</arabic><french>
-				Sidi Makhlouf</french><Baladiyahs><Baladiyah><arabic >سيدي مخلوف</arabic><french>Sidi Makhlouf</french></Baladiyah>
-				<Baladiyah><arabic >العاسفية</arabic><french>El Assafia</french></Baladiyah></Baladiyahs></Daira>
-			</Dairas>
-		</Wilaya>
+				<Baladiyah><arabic >بيضاء</arabic><french>Beidha</french></Baladiyah>
+			</Baladiyahs>
+		</Daira>
+		<Daira>
+			<arabic>حاسى الرمل</arabic>
+			<french>Hassi R'Mel</french>
+			<Baladiyahs>
+				<Baladiyah><arabic >حاسى الرمل</arabic><french>Hassi R'Mel</french></Baladiyah>
+				<Baladiyah><arabic >حاسى دلاعة</arabic><french>Hassi Delaa</french></Baladiyah>
+			</Baladiyahs>
+		</Daira>
+		<Daira>
+			<arabic>قصر الحيران</arabic>
+			<french>Ksar El Hirane</french>
+			<Baladiyahs>
+				<Baladiyah><arabic >قصر الحيران</arabic><french>Ksar El Hirane</french></Baladiyah>
+				<Baladiyah><arabic >بن ناصر بن شهرة</arabic><french>Bennasser Benchohra</french></Baladiyah>
+			</Baladiyahs>
+		</Daira>
+		<Daira>
+			<arabic>الاغواط</arabic>
+			<french>Laghouat</french>
+			<Baladiyahs>
+				<Baladiyah><arabic >الاغواط</arabic><french>Laghouat</french></Baladiyah>
+			</Baladiyahs>
+		</Daira>
+		<Daira>
+			<arabic>واد مرة</arabic>
+			<french>Oued Morra</french>
+			<Baladiyahs>
+				<Baladiyah><arabic >واد مرة</arabic><french>Oued Morra</french></Baladiyah>
+				<Baladiyah><arabic >واد مزي</arabic><french>Oued M'Zi</french></Baladiyah>
+			</Baladiyahs>
+		</Daira>
+		<Daira>
+			<arabic>سيدي مخلوف</arabic>
+			<french>Sidi Makhlouf</french>
+			<Baladiyahs>
+				<Baladiyah><arabic >سيدي مخلوف</arabic><french>Sidi Makhlouf</french></Baladiyah>
+				<Baladiyah><arabic >العاسفية</arabic><french>El Assafia</french></Baladiyah>
+			</Baladiyahs>
+		</Daira>
+	</Dairas>
+</Wilaya>
 	 <!--
 Wilaya Laghouat completely added-->
 <Wilaya>
