@@ -645,5 +645,160 @@ Wilaya Ghardaia completely added
 	 <!--
 Wilaya Bordj Bou Arreridj completely added
 -->
+	<Wilaya>
+		<arabic lang="ar">غليزان</arabic>
+      		<french>Relizane</french>
+      		<matricule>48</matricule>
+	  
+	  
+		
+      		<Dairas>
+			<Daira>
+				<arabic lang="ar">غليزان</arabic>
+				<french>Relizane</french>
+				<Baladiyahs>
+					<Baladiyah>
+						<arabic lang="ar">برج بوعريريج</arabic>
+              					<french>Relizane</french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">بن داود</arabic>
+              					<french>Bendaoud</french>
+					</Baladiyah>
+				</Baladiyahs>
+			</Daira>
+			<Daira>
+				<arabic lang="ar">زمورة</arabic>
+				<french>Zemmora</french>
+				<Baladiyahs>
+					<Baladiyah>
+						<arabic lang="ar">زمورة</arabic>
+              					<french>Zemmora</french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">بني درقن</arabic>
+              					<french>Beni Dergoun</french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">دار بن عبد الله</arabic>
+              					<french>Dar Ben Abdellah</french>
+					</Baladiyah>
+				</Baladiyahs>
+			</Daira>
+			<Daira>
+				<arabic lang="ar">الحمادنة</arabic>
+				<french>El Hamadna</french>
+				<Baladiyahs>
+					<Baladiyah>
+						<arabic lang="ar">الحمادنة</arabic>
+              					<french>El Hamadna</french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">واد الجمعة</arabic>
+              					<french>Oued El Djemaa</french>
+					</Baladiyah>
+				</Baladiyahs>
+			</Daira>
+			<Daira>
+				<arabic lang="ar">المطمر</arabic>
+				<french>El Matmar</french>
+				<Baladiyahs>
+					<Baladiyah>
+						<arabic lang="ar">المطمر</arabic>
+              					<french>El Matmar</french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">سيدي امحمد بن عودة</arabic>
+              					<french>Sidi M'Hamed Benaouda</french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">بلعسل بوزقزة</arabic>
+              					<french>Belassel Bouzegza</french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">سيدي خطاب</arabic>
+              					<french>Sidi Khettab</french>
+					</Baladiyah>
+				</Baladiyahs>
+			</Daira>
+			<Daira>
+				<arabic lang="ar">يلل</arabic>
+				<french>Yellel</french>
+				<Baladiyahs>
+					<Baladiyah>
+						<arabic lang="ar">يلل</arabic>
+              					<french>Yellel</french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">عين الرحمة</arabic>
+              					<french>Aïn Rahma </french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">القلعة</arabic>
+              					<french>Kalaa </french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">سيدي سعادة</arabic>
+              					<french>Sidi Saada</french>
+					</Baladiyah>
+				</Baladiyahs>
+			</Daira>
+			<Daira>
+				<arabic lang="ar">منداس</arabic>
+				<french>Mendes</french>
+				<Baladiyahs>
+					<Baladiyah>
+						<arabic lang="ar">منداس</arabic>
+              					<french>Mendes</french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">واد السلام</arabic>
+              					<french>Oued Essalem </french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">سيدي لزرق</arabic>
+              					<french>Sidi Lazreg</french>
+					</Baladiyah>
+				</Baladiyahs>
+			</Daira>
+			<Daira>
+				<arabic lang="ar">الرمكة</arabic>
+				<french>Ramka</french>
+				<Baladiyahs>
+					<Baladiyah>
+						<arabic lang="ar">الرمكة</arabic>
+              					<french>Ramka</french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">سوق الحد</arabic>
+              					<french>Souk El Had</french>
+					</Baladiyah>
+				</Baladiyahs>
+			</Daira>
+			<Daira>
+				<arabic lang="ar">جديوية</arabic>
+				<french>Djidioua</french>
+				<Baladiyahs>
+					<Baladiyah>
+						<arabic lang="ar">جديوية</arabic>
+              					<french>Djidioua</french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">حمري</arabic>
+              					<french>Hamri</french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">اولاد سيدي الميهوب</arabic>
+              					<french>Ouled Sidi Mihoub</french>
+					</Baladiyah>
+				</Baladiyahs>
+			</Daira>
+      		</Dairas>
+	  
+	</Wilaya>
+	 
+	 <!--
+Wilaya Relizane Still under construction
+-->
   </Wilayas>
 </Algeria>
