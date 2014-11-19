@@ -793,12 +793,102 @@ Wilaya Bordj Bou Arreridj completely added
 					</Baladiyah>
 				</Baladiyahs>
 			</Daira>
+			<Daira>
+				<arabic lang="ar">عمي موسى</arabic>
+				<french>Ammi Moussa</french>
+				<Baladiyahs>
+					<Baladiyah>
+						<arabic lang="ar">عمي موسى</arabic>
+              					<french>Ammi Moussa</french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">الولجة</arabic>
+              					<french>El Hassi </french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">الحاسي</arabic>
+              					<french>El Ouldja</french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">اولاد يعيش</arabic>
+              					<french>Ouled Aiche</french>
+					</Baladiyah>
+				</Baladiyahs>
+			</Daira>
+			<Daira>
+				<arabic lang="ar">عين طارق</arabic>
+				<french>Aïn Tarek</french>
+				<Baladiyahs>
+					<Baladiyah>
+						<arabic lang="ar">عين طارق</arabic>
+              					<french>Aïn Tarek</french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">حد الشكالة</arabic>
+              					<french>Had Echkalla</french>
+					</Baladiyah>
+				</Baladiyahs>
+			</Daira>
+			<Daira>
+				<arabic lang="ar">وادي ارهيو</arabic>
+				<french>Oued Rhiou </french>
+				<Baladiyahs>
+					<Baladiyah>
+						<arabic lang="ar">وادي ارهيو</arabic>
+              					<french>Oued Rhiou </french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">مرجة سيدي عابد</arabic>
+              					<french>Merdja Sidi Abed</french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">واريزان</arabic>
+              					<french> Ouarizane</french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">لحلاف</arabic>
+              					<french> Lahlef</french>
+					</Baladiyah>
+				</Baladiyahs>
+			</Daira>
+			<Daira>
+				<arabic lang="ar">مازونة</arabic>
+				<french>Mazouna</french>
+				<Baladiyahs>
+					<Baladiyah>
+						<arabic lang="ar">مازونة</arabic>
+              					<french>Mazouna</french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">القطار</arabic>
+              					<french>El Guettar</french>
+					</Baladiyah>
+				</Baladiyahs>
+			</Daira>
+			<Daira>
+				<arabic lang="ar">سيدي امحمد بن علي</arabic>
+				<french>Sidi M'Hamed Ben Ali </french>
+				<Baladiyahs>
+					<Baladiyah>
+						<arabic lang="ar">سيدي امحمد بن علي</arabic>
+              					<french>Sidi M'Hamed Ben Ali </french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">بني زنطيس</arabic>
+              					<french>Beni Zentis </french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic lang="ar">مديونة</arabic>
+              					<french>Mediouna</french>
+					</Baladiyah>
+				</Baladiyahs>
+			</Daira>
       		</Dairas>
 	  
 	</Wilaya>
 	 
 	 <!--
-Wilaya Relizane Still under construction
+Wilaya Relizane completely added
 -->
   </Wilayas>
 </Algeria>
