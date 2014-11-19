@@ -494,10 +494,10 @@ source arabic facebook :D
 french : http://fr.wikipedia.org/wiki/Communes_de_la_wilaya_de_Chlef
 -->
 <Wilaya>
+	<arabic>الأغواط</arabic>
+	<french>Laghouat</french>
+	<matricule>03</matricule>
 	<Dairas>
-		<arabic >الاغواط</arabic>
-		<french>Laghouat</french>
-		<matricule>03</matricule>
 		<Daira>
 			<arabic>آفلو</arabic>
 			<french>Aflou</french>
@@ -613,7 +613,7 @@ french : http://fr.wikipedia.org/wiki/Communes_de_la_wilaya_de_Chlef
 		</Daira>
 	</Dairas>
 </Wilaya>
-	 <!--
+  	<!--
 Wilaya Laghouat completely added-->
 <Wilaya>
 	<arabic>أم البواقي</arabic>
@@ -621,16 +621,16 @@ Wilaya Laghouat completely added-->
 	<matricule>04</matricule>
 	<Dairas>
 		<Daira>
-			<arabic></arabic>
+			<arabic>أم البواقي</arabic>
 			<french>Oum El Bouaghi</french>
 			
           		<Baladiyahs>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >أم البواقي</arabic>
               				<french>Oum El Bouaghi</french>
             			</Baladiyah>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >عين الزيتون</arabic>
               				<french>Aïn Zitoun </french>
             			</Baladiyah>
           		</Baladiyahs>
@@ -638,16 +638,16 @@ Wilaya Laghouat completely added-->
 		</Daira>
 		
 		<Daira>
-			<arabic></arabic>
+			<arabic>عين ببوش</arabic>
 			<french>Aïn Babouche</french>
 			
           		<Baladiyahs>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >عين ببوش</arabic>
               				<french>Aïn Babouche</french>
             			</Baladiyah>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >عين الديس</arabic>
               				<french>Aïn Diss</french>
             			</Baladiyah>
           		</Baladiyahs>
@@ -655,12 +655,12 @@ Wilaya Laghouat completely added-->
 		</Daira>
 		
 		<Daira>
-			<arabic></arabic>
+			<arabic>قصر الصباحى</arabic>
 			<french>Ksar Sbahi</french>
 			
           		<Baladiyahs>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >قصر الصباحى</arabic>
               				<french>Ksar Sbahi</french>
             			</Baladiyah>
           		</Baladiyahs>
@@ -668,20 +668,20 @@ Wilaya Laghouat completely added-->
 		</Daira>
 		
 		<Daira>
-			<arabic></arabic>
-			<french>Ain El Beida</french>
+			<arabic>عين البيضاء</arabic>
+			<french>Aïn Béïda</french>
 			
           		<Baladiyahs>
             			<Baladiyah>
-              				<arabic ></arabic>
-              				<french>Ain El Beida</french>
+              				<arabic >عين البيضاء</arabic>
+              				<french>Aïn Béïda</french>
             			</Baladiyah>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >الزرق</arabic>
               				<french>Zorg</french>
             			</Baladiyah>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >بريش</arabic>
               				<french>Berriche</french>
             			</Baladiyah>
           		</Baladiyahs>
@@ -689,75 +689,72 @@ Wilaya Laghouat completely added-->
 		</Daira>
 		
 		<Daira>
-			<arabic></arabic>
+			<arabic>فكيرينة</arabic>
 			<french>Fkirina</french>
 			
           		<Baladiyahs>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >فكيرينة</arabic>
               				<french>Fkirina</french>
             			</Baladiyah>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >وادى نينى</arabic>
               				<french>Oued Nini</french>
             			</Baladiyah>
           		</Baladiyahs>
 				
 		</Daira>
-		</Daira>
 		
 		<Daira>
-			<arabic></arabic>
+			<arabic>عين مليلة</arabic>
 			<french>Ain M’lila</french>
 			
           		<Baladiyahs>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >عين مليلة</arabic>
               				<french>Ain M’lila</french>
             			</Baladiyah>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >أولاد قاسم</arabic>
               				<french>Ouled Gacem</french>
             			</Baladiyah>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >أولاد حملة</arabic>
               				<french>Ouled Hamla</french>
             			</Baladiyah>
           		</Baladiyahs>
 				
 		</Daira>
-		</Daira>
 		
 		<Daira>
-			<arabic></arabic>
+			<arabic>سوق نعمان</arabic>
 			<french>Souk Naamane</french>
 			
           		<Baladiyahs>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >سوق نعمان</arabic>
               				<french>Souk Naamane</french>
             			</Baladiyah>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >بئر الشهداء</arabic>
               				<french>Bir Chouhada</french>
             			</Baladiyah>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >اولاد زواي</arabic>
               				<french>Ouled Zouaï</french>
             			</Baladiyah>
           		</Baladiyahs>
 				
 		</Daira>
-		</Daira>
 		
 		<Daira>
-			<arabic></arabic>
-			<french>Ain Fakroun</french>
+			<arabic>عين فكرون</arabic>
+			<french>Aïn Fakroun</french>
 			
           		<Baladiyahs>
             			<Baladiyah>
-              				<arabic ></arabic>
-              				<french>Ain Fakroun</french>
+              				<arabic >عين فكرون</arabic>
+              				<french>Aïn Fakroun</french>
             			</Baladiyah>
             			<Baladiyah>
               				<arabic ></arabic>
@@ -766,10 +763,9 @@ Wilaya Laghouat completely added-->
           		</Baladiyahs>
 				
 		</Daira>
-		</Daira>
 		
 		<Daira>
-			<arabic></arabic>
+			<arabic>سيقوس</arabic>
 			<french>Sigus</french>
 			
           		<Baladiyahs>
@@ -786,20 +782,20 @@ Wilaya Laghouat completely added-->
 		</Daira>
 		
 		<Daira>
-			<arabic></arabic>
+			<arabic>عين كرشة</arabic>
 			<french>Ain Kercha</french>
 			
           		<Baladiyahs>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >عين كرشة</arabic>
               				<french>Ain Kercha</french>
             			</Baladiyah>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >الحرملية</arabic>
               				<french>El Harmilia</french>
             			</Baladiyah>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >هنشير تومغانى</arabic>
               				<french>Hanchir Toumghani</french>
             			</Baladiyah>
           		</Baladiyahs>
@@ -807,24 +803,24 @@ Wilaya Laghouat completely added-->
 		</Daira>
 		
 		<Daira>
-			<arabic></arabic>
+			<arabic>مسكيانة</arabic>
 			<french>Meskiana</french>
 			
           		<Baladiyahs>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >مسكيانة</arabic>
               				<french>Meskiana</french>
             			</Baladiyah>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >بحير الشرقي</arabic>
               				<french>Behir Chergui</french>
             			</Baladiyah>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >البلالة</arabic>
               				<french>El Belala</french>
             			</Baladiyah>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >الراحية</arabic>
               				<french>Rahia</french>
             			</Baladiyah>
           		</Baladiyahs>
@@ -832,16 +828,16 @@ Wilaya Laghouat completely added-->
 		</Daira>
 		
 		<Daira>
-			<arabic></arabic>
+			<arabic>الضلعة</arabic>
 			<french>Dhalaa</french>
 			
           		<Baladiyahs>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >الضلعة</arabic>
               				<french>Dhalaa</french>
             			</Baladiyah>
             			<Baladiyah>
-              				<arabic ></arabic>
+              				<arabic >الجازية</arabic>
               				<french>El Djazia</french>
             			</Baladiyah>
           		</Baladiyahs>
@@ -851,12 +847,22 @@ Wilaya Laghouat completely added-->
 				
 	</Dairas>
 				
-</Wilaya><!--Wilaya Oum El Bouaghi Started __Under construction arabic translation needed
-french source : fr.wikipedia ^^ -->
+</Wilaya><!--Wilaya Oum El Bouaghi completely added--><Wilaya>
+	<arabic>باتنة</arabic>
+	<french>Batna</french>
+	<matricule>05</matricule>
+	<Dairas>
+		<Daira>
+			<arabic></arabic>
+			<french></french>
+			<Baladiyahs>
+				<Baladiyah>
+					<french></french>
+					<arabic></arabic></Baladiyah></Baladiyahs></Daira></Dairas></Wilaya><!--Wilaya Batna started__ under construction-->
 
 
 
-<Wilaya>
+  	<Wilaya>
       <arabic >غرداية</arabic>
       <french>Ghardaïa</french>
       <matricule>47</matricule>
