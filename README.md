@@ -10,8 +10,8 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML file.
 01) ADRAR <br>
 02) Chlef <br>
 03) Laghouat <br>
-04) Oum El Bouaghi (under construction)<br>
-05)<br>
+04) Oum El Bouaghi <br>
+05) Batna (under construction)<br>
 06)<br>
 07)<br>
 08)<br>
