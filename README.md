@@ -12,7 +12,7 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML file.
 03) Laghouat <br>
 04) Oum El Bouaghi <br>
 05) Batna (under construction)<br>
-06)<br>
+06) Béjaïa (under construction)<br>
 07)<br>
 08)<br>
 09)<br>
