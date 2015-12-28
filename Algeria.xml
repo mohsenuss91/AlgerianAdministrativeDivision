@@ -1244,9 +1244,410 @@ Wilaya Laghouat completely added-->
 Wilaya Batna completely added--><Wilaya>
 	<Arabic>بجاية</Arabic>
 	<French>Béjaïa</French>
-	<matricule>06</matricule></Wilaya><!--Wilaya Bejaia Started__under construction-->
+	<matricule>06</matricule></Wilaya>
+
+      <Dairas>
+        <Daira>
+          <arabic lang="ar">بجاية</arabic>
+          <french>Béjaïa</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">بجاية</arabic>
+              <french>Béjaïa</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">وادي غير</arabic>
+              <french>Oued ghir</french>
+            </Baladiyah>
+          </Baladiyahs>
+        </Daira>
+
+	<Daira>
+          <arabic lang="ar">ادكار</arabic>
+          <french>Adekar</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">ادكار</arabic>
+              <french>Adekar</french>
+            </Baladiyah>
+	
+	    <Baladiyah>
+              <arabic lang="ar">تاوريرت اغيل</arabic>
+              <french>Taourirt Ighil</french>
+            </Baladiyah>
+	
+	    <Baladiyah>
+              <arabic lang="ar">بنى كسيلة</arabic>
+              <french>Beni Ksila</french>
+            </Baladiyah>
+          </Baladiyahs>
+        </Daira>
+
+	<Daira>
+          <arabic lang="ar">أقبو</arabic>
+          <french>Akbou</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">أقبو</arabic>
+              <french>Akbou</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">شلاطة</arabic>
+              <french>Chellata</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">اغرام</arabic>
+              <french>Ighram</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">تمقرة</arabic>
+              <french>Tamokra</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+
+	<Daira>
+          <arabic lang="ar">أميزور</arabic>
+          <french>Amizour</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">أميزور</arabic>
+              <french>Amizour</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">بني جليل</arabic>
+              <french>Beni Djellil</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">سمعون</arabic>
+              <french>Semaoun</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">فرعون</arabic>
+              <french>Ferraoun</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+
+	<Daira>
+          <arabic lang="ar">أوقاس</arabic>
+          <french>Aokas</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">أوقاس</arabic>
+              <french>Aokas</french>
+            </Baladiyah>
+
+	    <Baladiyah>
+              <arabic lang="ar">تيزي أنبربار</arabic>
+              <french>Tizi N'Berber</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+
+	<Daira>
+          <arabic lang="ar">برباشة</arabic>
+          <french>Barbacha</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">برباشة</arabic>
+              <french>Barbacha</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">كنديرة</arabic>
+              <french>Kendira</french>
+            </Baladiyah>	
+          </Baladiyahs>
+        </Daira>
+
+	<Daira>
+          <arabic lang="ar">بني معوش</arabic>
+          <french>Beni Maouche</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">بني معوش</arabic>
+              <french>Beni Maouche</french>
+            </Baladiyah>
+          </Baladiyahs>
+        </Daira>
+
+	<Daira>
+          <arabic lang="ar">شميني</arabic>
+          <french>Chemini</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">شميني</arabic>
+              <french>Chemini</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">طيبان</arabic>
+              <french>Tibane</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">سوق أوفلة</arabic>
+              <french>Souk Oufella</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">أكفادو</arabic>
+              <french>Akfadou</french>
+            </Baladiyah>
+          </Baladiyahs>
+        </Daira>
+
+	<Daira>
+          <arabic lang="ar">تازمالت</arabic>
+          <french>Tazmalt</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">تازمالت</arabic>
+              <french>Tazmalt</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">بني مليكش</arabic>
+              <french>Beni Mellikeche</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">بوجليل</arabic>
+              <french>Boudjellil</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+
+	<Daira>
+          <arabic lang="ar">درقينة</arabic>
+          <french>Darguina</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">درقينة</arabic>
+              <french>Darguina</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">آيت سماعيل</arabic>
+              <french>Aït Smail</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">تاسكريوت</arabic>
+              <french>Taskriout</french>
+            </Baladiyah>
+          </Baladiyahs>
+        </Daira>
+
+	<Daira>
+          <arabic lang="ar">القصر</arabic>
+          <french>El Kseur</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">القصر</arabic>
+              <french>El Kseur</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">فناية الماثن</arabic>
+              <french>Fenaïa Ilmaten</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">توجة</arabic>
+              <french>Toudja</french>
+            </Baladiyah>
+          </Baladiyahs>
+        </Daira>
+
+	<Daira>
+          <arabic lang="ar">إغيل علي</arabic>
+          <french>Ighil Ali</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">إغيل علي</arabic>
+              <french>Ighil Ali</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">آيت أرزين</arabic>
+              <french>Aït R'zine</french>
+            </Baladiyah>
+          </Baladiyahs>
+        </Daira>
+
+	<Daira>
+          <arabic lang="ar">خراطة</arabic>
+          <french>Kherrata</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">خراطة</arabic>
+              <french>Kherrata</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">ذراع القايد</arabic>
+              <french>Draâ El Kaïd</french>
+            </Baladiyah>
+          </Baladiyahs>
+        </Daira>
+
+	<Daira>
+          <arabic lang="ar">أوزلاقن</arabic>
+          <french>Ouzellaguen</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">أوزلاقن</arabic>
+              <french>Ouzellaguen</french>
+            </Baladiyah>
+          </Baladiyahs>
+        </Daira>
+
+	<Daira>
+          <arabic lang="ar">صدوق</arabic>
+          <french>Seddouk</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">صدوق</arabic>
+              <french>Seddouk</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">أمالو</arabic>
+              <french>Amalou</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">بوحمزة</arabic>
+              <french>Bouhamza</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">مسيسنة</arabic>
+              <french>M'cisna</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+
+	<Daira>
+          <arabic lang="ar">تيشي</arabic>
+          <french>Tichy </french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">تيشي</arabic>
+              <french>Tichy </french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">بوخليفة</arabic>
+              <french>Boukhelifa</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">تالة حمزة</arabic>
+              <french>Tala Hamza</french>
+            </Baladiyah>
+          </Baladiyahs>
+        </Daira>
+
+	<Daira>
+          <arabic lang="ar">سوق الإثنين</arabic>
+          <french>Souk El-Ténine</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">سوق الإثنين</arabic>
+              <french>Souk El-Ténine</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">ملبو</arabic>
+              <french>Melbou</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">تامريجت</arabic>
+              <french>Tamridjet</french>
+            </Baladiyah>
+          </Baladiyahs>
+        </Daira>
+
+	<Daira>
+          <arabic lang="ar">سيدي عيش</arabic>
+          <french>Sidi-Aïch</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">سيدي عيش</arabic>
+              <french>Sidi-Aïch</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">لفلاي</arabic>
+              <french>Leflaye</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">تينبذار</arabic>
+              <french>Tinabdher</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">تيفرة</arabic>
+              <french>Tifra</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic lang="ar">سيدي عياد</arabic>
+              <french>Sidi Ayad</french>
+            </Baladiyah>
+          </Baladiyahs>
+        </Daira>
 
 
+	<Daira>
+          <arabic lang="ar">تيمزريت</arabic>
+          <french>Timezrit</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic lang="ar">تيمزريت</arabic>
+              <french>Timezrit</french>
+            </Baladiyah>
+          </Baladiyahs>
+        </Daira>
+       </Dairas>
+      </Wilaya>
+ 	<!--Wilaya Béjaïa completely added-->
 
   	<Wilaya>
       <arabic >غرداية</arabic>

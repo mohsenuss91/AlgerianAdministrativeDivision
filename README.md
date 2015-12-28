@@ -12,8 +12,8 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML file.
 02. Chlef <br>
 03. Laghouat <br>
 04. Oum El Bouaghi <br>
-05. Batna (under construction)<br>
-06. Béjaïa (under construction)<br>
+05. Batna <br>
+06. Béjaïa <br>
 
 34) Bordj Bou Arreridj <br>
 47) Ghardaia <br>
