@@ -2,7 +2,7 @@ Algerian Administrative Division
 ================================
 
 
-Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML file.
+Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML/json file.
 
 
 
