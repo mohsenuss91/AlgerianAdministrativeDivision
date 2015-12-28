@@ -1,19 +1,12 @@
-﻿<?xml version="1.0"  encoding="utf-8"  ?><!DOCTYPE Algeria SYSTEM "Algeria.dtd">
+<?xml version="1.0"  encoding="utf-8"  ?><!DOCTYPE Algeria SYSTEM "Algeria.dtd">
 <!--
 This document contains the Algerian Administrative Division 2014
 copyright © 2014 https://github.com/mohsenuss91
 
 :::Contributors:::
-https://github.com/mohsenuss91
-https://github.com/khaled777b
-https://github.com/IamAyman
-https://github.com/amin0u
-https://github.com/BeStMaN-AlG
-
 
 :::How to contribute:::
 Any one can contribute in this projet by coding, translating or sharing documents and sources.
-
 -->
 <Algeria>
   <Wilayas>
@@ -1241,11 +1234,11 @@ Wilaya Laghouat completely added-->
 						
 </Wilaya>
 <!--
-Wilaya Batna completely added--><Wilaya>
+Wilaya Batna completely added-->
+<Wilaya>
 	<Arabic>بجاية</Arabic>
 	<French>Béjaïa</French>
-	<matricule>06</matricule></Wilaya>
-
+	<matricule>06</matricule>
       <Dairas>
         <Daira>
           <arabic lang="ar">بجاية</arabic>
@@ -1649,153 +1642,438 @@ Wilaya Batna completely added--><Wilaya>
       </Wilaya>
  	<!--Wilaya Béjaïa completely added-->
 
-  	<Wilaya>
-      <arabic >غرداية</arabic>
-      <french>Ghardaïa</french>
-      <matricule>47</matricule>
+ 	      <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>07- Biskra</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+    
+  
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>08- Bechar</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>09- Blida</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>10- Bouira</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>11- Tamanrasset</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>12- Tebessa</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>13- Tlemcen</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>14- Tiaret</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>15- Tizi Ouzou</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>16- Alger</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>17- Djelfa</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>18- Jijel</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>19- Setif</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>20- Saida</matricule>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>21- Skikda</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>22- Sidi bel abbes</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>23- Annaba</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>24- Guelma</matricule>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>25- Constantine</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>26- Medea</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>27- Mostaghanem</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>28- Msila</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>29- Mascara</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>30- Ouargla</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>31- Oran</matricule>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>32- El Bayedh</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>33- Illizi</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
 
-      <Dairas>
-	  
-        <Daira>
-          <arabic >غرداية</arabic>
-          <french>Ghardaïa</french>
-          <Baladiyahs>
 
-            <Baladiyah>
-              <arabic >غرداية</arabic>
-              <french>Ghardaïa</french>
-            </Baladiyah>
 
-          </Baladiyahs>
-        </Daira>
-	
-		<Daira>
-          <arabic >المنيعة</arabic>
-          <french>Meniaa</french>
-          <Baladiyahs>
-
-            <Baladiyah>
-              <arabic >المنيعة</arabic>
-              <french>Meniaa</french>
-            </Baladiyah>
-
-            <Baladiyah>
-              <arabic >حاسي قارة</arabic>
-              <french>Hassi Gara</french>
-            </Baladiyah>
-
-          </Baladiyahs>
-        </Daira>
-		
-		<Daira>
-          <arabic >متليلي الشعانبة</arabic>
-          <french>Metlili</french>
-          <Baladiyahs>
-
-            <Baladiyah>
-              <arabic >متليلي الشعانبة</arabic>
-              <french>Metlili</french>
-            </Baladiyah>
-
-            <Baladiyah>
-              <arabic >سبسب</arabic>
-              <french>Sebseb</french>
-            </Baladiyah>
-
-          </Baladiyahs>
-        </Daira>
-		<Daira>
-          <arabic >بريان</arabic>
-          <french>Berriane</french>
-          <Baladiyahs>
-
-            <Baladiyah>
-              <arabic >بريان</arabic>
-              <french>Berriane</french>
-            </Baladiyah>
-			
-          </Baladiyahs>
-        </Daira>
-		
-        <Daira>
-          <arabic >ضاية بن ضحوة</arabic>
-          <french>Dhayet Bendhahoua</french>
-          <Baladiyahs>
-            <Baladiyah>
-              <arabic >ضاية ين ضحوة</arabic>
-              <french>Dhayet Bendhahoua</french>
-            </Baladiyah>
-          </Baladiyahs>
-        </Daira>
-
-        <Daira>
-          <arabic >المنصورة</arabic>
-          <french>Mansoura</french>
-          <Baladiyahs>
-
-            <Baladiyah>
-              <arabic >المنصورة</arabic>
-              <french>Mansoura</french>
-            </Baladiyah>
-
-            <Baladiyah>
-              <arabic >حاسي الفحل</arabic>
-              <french>Hassi Fehal</french>
-            </Baladiyah>
-
-          </Baladiyahs>
-        </Daira>
-		 <Daira>
-          <arabic >زلقانة</arabic>
-          <french>Zelfana</french>
-          <Baladiyahs>
-
-            <Baladiyah>
-              <arabic >زلفانة</arabic>
-              <french>Zelfana</french>
-            </Baladiyah>
-
-          </Baladiyahs>
-        </Daira>
-		
-        <Daira>
-          <arabic >القراراة</arabic>
-          <french>El Guerrara</french>
-          <Baladiyahs>
-
-            <Baladiyah>
-              <arabic >القرارة</arabic>
-              <french>El Guerrara</french>
-            </Baladiyah>
-
-          </Baladiyahs>
-        </Daira>
-		<Daira>
-          <arabic >بنورة</arabic>
-          <french>Bounoura</french>
-          <Baladiyahs>
-
-            <Baladiyah>
-              <arabic >بونورة</arabic>
-              <french>Bounoura</french>
-            </Baladiyah>
-
-            <Baladiyah>
-              <arabic >العطف</arabic>
-              <french>El Atteuf</french>
-            </Baladiyah>
-
-          </Baladiyahs>
-        </Daira>
-      </Dairas>
-    </Wilaya>
-<!--
-Wilaya Ghardaia completely added
--->
 	<Wilaya>
 		<arabic >برج بوعريريج</arabic>
       		<french>Bordj Bou Arreridj</french>
-      		<matricule>02</matricule>
+      		<matricule>34</matricule>
 	  
 	  
 		
@@ -2003,6 +2281,372 @@ Wilaya Ghardaia completely added
 	 <!--
 Wilaya Bordj Bou Arreridj completely added
 -->
+
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>35- Boumerdes</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>36- El Taref</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>37- Tindouf</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>38- Tissemsilt</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>39- El Oued</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>40- Khenchla</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>41- Souk Ahras</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>42- Tipaza</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>43- Mila</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>44- Ain Defla</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>45- Naama</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+        <Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>46- Ain Timouchent</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
+
+  	<Wilaya>
+      <arabic >غرداية</arabic>
+      <french>Ghardaïa</french>
+      <matricule>47</matricule>
+
+      <Dairas>
+	  
+        <Daira>
+          <arabic >غرداية</arabic>
+          <french>Ghardaïa</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic >غرداية</arabic>
+              <french>Ghardaïa</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+	
+		<Daira>
+          <arabic >المنيعة</arabic>
+          <french>Meniaa</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic >المنيعة</arabic>
+              <french>Meniaa</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic >حاسي قارة</arabic>
+              <french>Hassi Gara</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+		
+		<Daira>
+          <arabic >متليلي الشعانبة</arabic>
+          <french>Metlili</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic >متليلي الشعانبة</arabic>
+              <french>Metlili</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic >سبسب</arabic>
+              <french>Sebseb</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+		<Daira>
+          <arabic >بريان</arabic>
+          <french>Berriane</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic >بريان</arabic>
+              <french>Berriane</french>
+            </Baladiyah>
+			
+          </Baladiyahs>
+        </Daira>
+		
+        <Daira>
+          <arabic >ضاية بن ضحوة</arabic>
+          <french>Dhayet Bendhahoua</french>
+          <Baladiyahs>
+            <Baladiyah>
+              <arabic >ضاية ين ضحوة</arabic>
+              <french>Dhayet Bendhahoua</french>
+            </Baladiyah>
+          </Baladiyahs>
+        </Daira>
+
+        <Daira>
+          <arabic >المنصورة</arabic>
+          <french>Mansoura</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic >المنصورة</arabic>
+              <french>Mansoura</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic >حاسي الفحل</arabic>
+              <french>Hassi Fehal</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+		 <Daira>
+          <arabic >زلقانة</arabic>
+          <french>Zelfana</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic >زلفانة</arabic>
+              <french>Zelfana</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+		
+        <Daira>
+          <arabic >القراراة</arabic>
+          <french>El Guerrara</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic >القرارة</arabic>
+              <french>El Guerrara</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+		<Daira>
+          <arabic >بنورة</arabic>
+          <french>Bounoura</french>
+          <Baladiyahs>
+
+            <Baladiyah>
+              <arabic >بونورة</arabic>
+              <french>Bounoura</french>
+            </Baladiyah>
+
+            <Baladiyah>
+              <arabic >العطف</arabic>
+              <french>El Atteuf</french>
+            </Baladiyah>
+
+          </Baladiyahs>
+        </Daira>
+      </Dairas>
+    </Wilaya>
+<!--
+Wilaya Ghardaia completely added
+-->
+<Wilaya>
+        	<arabic > </arabic> 
+        	<french></french>
+        <matricule>48- Relizane</matricule>
+        <Dairas> 
+        	<Daira> 
+        		<arabic ></arabic> 
+        		<french></french>
+        		<Baladiyahs> 
+        			<Baladiyah> 
+        				<arabic ></arabic> 
+        				<french></french> 
+        			</Baladiyah>
+        		</Baladiyahs> 
+        	</Daira>
+        </Dairas>
+    	</Wilaya>
 	<Wilaya>
 		<arabic lang="ar">غليزان</arabic>
       		<french>Relizane</french>
