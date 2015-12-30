@@ -32,7 +32,6 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML file.
 13 Tlemcen <br>
 14 Tiaret <br>
 15 Tizi Ouzou <br>
-16 Algiers <br>
 17 Djelfa <br>
 18 Jijel <br>
 19 Sétif <br>
