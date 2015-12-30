@@ -15,6 +15,8 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML file.
 05. Batna <br>
 06. Béjaïa <br>
 
+16 Algiers <br>
+
 34.Bordj Bou Arreridj <br>
 47. Ghardaia <br>
 
