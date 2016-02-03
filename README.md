@@ -15,9 +15,10 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML/json fil
 05. Batna <br>
 06. Béjaïa <br>
 07. Biskra <br>
-16. Algiers <br>
 
-34.Bordj Bou Arreridj <br>
+16 Algiers <br>
+
+34 Bordj Bou Arreridj <br>
 47. Ghardaia <br>
 
 
