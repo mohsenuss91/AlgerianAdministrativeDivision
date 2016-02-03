@@ -18,8 +18,8 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML/json fil
 
 16 Algiers <br>
 
-34. Bordj Bou Arreridj <br>
-47. Ghardaia <br>
+34 Bordj Bou Arreridj <br>
+47 Ghardaia <br>
 
 
 ### Still not Added :
