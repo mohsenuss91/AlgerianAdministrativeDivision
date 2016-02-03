@@ -18,13 +18,13 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML/json fil
 
 16 Algiers <br>
 
-34 Bordj Bou Arreridj <br>
+34. Bordj Bou Arreridj <br>
 47. Ghardaia <br>
 
 
 ### Still not Added :
 
-7 Biskra <br>
+
 8 Béchar <br>
 9 Blida <br>
 10 Bouira <br>
