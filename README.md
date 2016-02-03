@@ -2,7 +2,7 @@ Algerian Administrative Division
 ================================
 
 
-Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML file.
+Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML/json file.
 
 
 
@@ -14,6 +14,8 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML file.
 04. Oum El Bouaghi <br>
 05. Batna <br>
 06. Béjaïa <br>
+
+16 Algiers <br>
 
 34.Bordj Bou Arreridj <br>
 47. Ghardaia <br>
@@ -30,7 +32,6 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML file.
 13 Tlemcen <br>
 14 Tiaret <br>
 15 Tizi Ouzou <br>
-16 Algiers <br>
 17 Djelfa <br>
 18 Jijel <br>
 19 Sétif <br>
