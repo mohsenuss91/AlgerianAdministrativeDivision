@@ -14,7 +14,7 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML/json fil
 04. Oum El Bouaghi <br>
 05. Batna <br>
 06. Béjaïa <br>
-
+07. Biskra <br>
 16 Algiers <br>
 
 34.Bordj Bou Arreridj <br>
