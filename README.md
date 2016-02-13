@@ -24,7 +24,7 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML/json fil
 
 ### Still not Added :
 
-
+7 Biskra <br>
 8 Béchar <br>
 9 Blida <br>
 10 Bouira <br>
@@ -33,6 +33,7 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML/json fil
 13 Tlemcen <br>
 14 Tiaret <br>
 15 Tizi Ouzou <br>
+16 Algiers <br>
 17 Djelfa <br>
 18 Jijel <br>
 19 Sétif <br>
