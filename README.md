@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Algerian Administrative Division
 ================================
 
