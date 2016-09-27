@@ -63,7 +63,7 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML/json fil
 46 Aïn Témouchent <br>
 48 Relizane <br>
 
-<<<<<<< HEAD
+
 ###How to contribute
 Any one can contribute in this projet by coding, translating or sharing documents and sources.
 
@@ -74,11 +74,3 @@ Any one can contribute in this projet by coding, translating or sharing document
 
 #Join Us at:
  [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/mohsenuss91/AlgerianAdministrativeDivision?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-=======
-##How to contribute
-Any one can contribute in this projet by coding, translating or sharing documents and sources.
-
-###Join Us at:
- [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/mohsenuss91/AlgerianAdministrativeDivision?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
->>>>>>> 55e0a6889195c9f989a2f4aa39319dd298de1352
