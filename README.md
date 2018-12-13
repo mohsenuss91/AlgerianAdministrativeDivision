@@ -16,9 +16,9 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML/json fil
 06. Béjaïa <br>
 
 16 Algiers <br>
-
-34.Bordj Bou Arreridj <br>
-47. Ghardaia <br>
+31 Oran <br>
+34 Bordj Bou Arreridj <br>
+47 Ghardaia <br>
 
 
 ### Still not Added :
@@ -46,7 +46,6 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML/json fil
 28 M'Sila <br>
 29 Mascara <br>
 30 Ouargla <br>
-31 Oran <br>
 32 El Bayadh <br>
 33 Illizi <br>
 35 Boumerdès <br>
@@ -64,13 +63,12 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML/json fil
 48 Relizane <br>
 
 
-###How to contribute
+### How to contribute
 Any one can contribute in this projet by coding, translating or sharing documents and sources.
 
+#### Helpful ressources:
+* [Ministère de l'Intérieur et de Collectivités locales: Annuaire des collectivités locales](http://www.interieur.gov.dz/index.php/fr/component/annuaire/?view=wilayas)
+* [Wikipedia: Liste des communes d'Algérie](https://fr.wikipedia.org/wiki/Liste_des_communes_d%27Alg%C3%A9rie)
 
-
-
-
-
-#Join Us at:
- [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/mohsenuss91/AlgerianAdministrativeDivision?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# Join Us at:
+ [![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/mohsenuss91/AlgerianAdministrativeDivision?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
