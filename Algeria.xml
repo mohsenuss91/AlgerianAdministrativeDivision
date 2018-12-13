@@ -2375,9 +2375,170 @@ Wilaya Batna completely added-->
 			</Dairas>
 		</Wilaya>
 		<Wilaya>
-			<arabic ></arabic>
-			<french></french>
-			<matricule>31- Oran</matricule>
+			<arabic >وهران</arabic>
+			<french>Oran</french>
+			<matricule>31</matricule>
+			<Dairas>
+				<Daira>
+					<arabic>عين الترك</arabic>
+					<french>AIN TURK</french>
+					<Baladiyahs>
+						<Baladiyah>
+							<arabic>عين الترك</arabic>
+							<french>AIN TURK</french>
+						</Baladiyah>
+						<Baladiyah>
+							<arabic>بوسفر</arabic>
+							<french>BOUSFER</french>
+						</Baladiyah>
+						<Baladiyah>
+							<french>EL ANCOR</french>
+							<arabic>العنصر</arabic>
+						</Baladiyah>
+						<Baladiyah>
+							<arabic>المرسى الكبير</arabic>
+							<french>MERS EL KEBIR</french>
+						</Baladiyah>
+					</Baladiyahs>
+				<Daira>
+					<arabic>أرزيو</arabic>
+					<french>ARZEW</french>
+					<Baladiyahs>
+						<Baladiyah>
+							<arabic>أرزيو</arabic>
+							<french>ARZEW</french>
+						</Baladiyah>
+						<Baladiyah>
+							<arabic>سيدي بن يبقى</arabic>
+							<french>SIDI BEN YEBKA</french>
+						</Baladiyah>
+					</Baladiyahs>
+				</Daira>
+				<Daira>
+					<arabic>بطيوة</arabic>
+					<french>BETHIOUA</french>
+					<Baladiyahs>
+						<Baladiyah>
+							<arabic>عين البية</arabic>
+							<french>AIN BIYA</french>
+						</Baladiyah>
+						<Baladiyah>
+							<arabic>بطيوة</arabic>
+							<french>BETHIOUA</french>
+						</Baladiyah>
+
+						<Baladiyah>
+							<arabic>مرسى الحجاج</arabic>
+							<french>MARSAT EL HADJADJ</french>
+						</Baladiyah>
+					</Baladiyahs>
+				</Daira>
+				<Daira>
+					<arabic>بئر الجير</arabic>
+					<french>BIR EL DJIR</french>
+					<Baladiyahs>
+						<Baladiyah>
+							<arabic>بئر الجير</arabic>
+							<french>BIR EL DJIR</french>
+						</Baladiyah>
+						<Baladiyah>
+							<arabic>حاسي بن عقبة</arabic>
+							<french>HASSI BEN OKBA</french>
+						</Baladiyah>
+						<Baladiyah>
+							<arabic>حاسي بونيف</arabic>
+							<french>HASSI BOUNIF</french>
+						</Baladiyah>
+					</Baladiyahs>
+				</Daira>
+				<Daira>
+					<arabic>بوتليليس</arabic>
+					<french>BOUTLELIS</french>
+					<Baladiyahs>
+						<Baladiyah>
+							<arabic>عين الكرمة</arabic>
+							<french>AIN KERMA</french>
+						</Baladiyah>
+						<Baladiyah>
+							<arabic>بوتليليس</arabic>
+							<french>BOUTLELIS</french>
+						</Baladiyah>
+						<Baladiyah>
+							<arabic>مسرغين</arabic>
+							<french>MESSERGHIN</french>
+						</Baladiyah>
+					</Baladiyahs>
+				</Daira>
+
+				<Daira>
+					<arabic>السانية</arabic>
+					<french>ES SENIA</french>
+					<Baladiyahs>
+						<Baladiyah>
+							<arabic>الكرمة</arabic>
+							<french>EL KERMA</french>
+						</Baladiyah>
+						<Baladiyah>
+							<arabic>السانية</arabic>
+							<french>ES SENIA</french>
+						</Baladiyah>
+						<Baladiyah>
+							<arabic>سيدي الشحمي</arabic>
+							<french>SIDI CHAMI</french>
+						</Baladiyah>
+					</Baladiyahs>
+				</Daira>
+				<Daira>
+					<arabic>قديل</arabic>
+					<french>GDYEL</french>
+					<Baladiyahs>
+						<Baladiyah>
+							<arabic>بن فريحة</arabic>
+							<french>BEN FREHA</french>
+						</Baladiyah>
+						<Baladiyah>
+							<arabic>قديل</arabic>
+							<french>GDYEL</french>
+						</Baladiyah>
+						<Baladiyah>
+							<arabic>حاسي مفسوخ</arabic>
+							<french>HASSI MEFSOUKH</french>
+						</Baladiyah>
+					</Baladiyahs>
+				</Daira>
+				<Daira>
+					<arabic>وهران</arabic>
+					<french>ORAN</french>
+					<Baladiyahs>
+						<Baladiyah>
+							<arabic>وهران</arabic>
+							<french>ORAN</french>
+						</Baladiyah>
+					</Baladiyahs>
+				</Daira>
+				<Daira>
+					<arabic>واد تليلات</arabic>
+					<french>OUED TLELAT</french>
+					<Baladiyahs>
+						<Baladiyah>
+							<arabic>بوفاطيس</arabic>
+							<french>BOUFATIS</french>
+						</Baladiyah>
+						<Baladiyah>
+							<arabic>البرية</arabic>
+							<french>EL BRAYA</french>
+						</Baladiyah>
+						<Baladiyah>
+							<arabic>واد تليلات</arabic>
+							<french>OUED TLELAT</french>
+						</Baladiyah>
+						<Baladiyah>
+							<arabic>طفراوي</arabic>
+							<french>TAFRAOUI</french>
+						</Baladiyah>
+					</Baladiyahs>
+				</Daira>
+			</Dairas>
 		</Wilaya>
 		<Wilaya>
 			<arabic ></arabic>

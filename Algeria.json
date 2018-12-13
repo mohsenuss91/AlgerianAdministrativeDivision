@@ -2423,8 +2423,190 @@
                }
             },
             {
-               "matricule": "31- Oran"
-            },
+                "arabic": "وهران",
+                "french": "Oran",
+                "matricule": "31",
+                "Dairas": {
+                    "Daira": [
+                        {
+                            "arabic": "عين الترك",
+                            "french": "AIN TURK",
+                            "Baladiyahs": {
+                                "Baladiyah": [
+                                    {
+                                        "arabic": "عين الترك",
+                                        "french": "AIN TURK"
+                                    },
+                                    {
+                                        "arabic": "بوسفر",
+                                        "french": "BOUSFER"
+                                    },
+                                    {
+                                        "arabic": "العنصر",
+                                        "french": "EL ANCOR"
+                                    },
+                                    {
+                                        "arabic": "المرسى الكبير",
+                                        "french": "MERS EL KEBIR"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "arabic": "أرزيو",
+                            "french": "ARZEW",
+                            "Baladiyahs": {
+                                "Baladiyah": [
+                                    {
+                                        "arabic": "أرزيو",
+                                        "french": "ARZEW"
+                                    },
+                                    {
+                                        "arabic": "سيدي بن يبقى",
+                                        "french": "SIDI BEN YEBKA"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "arabic": "بطيوة",
+                            "french": "BETHIOUA",
+                            "Baladiyahs": {
+                                "Baladiyah": [
+                                    {
+                                        "arabic": "عين البية",
+                                        "french": "AIN BIYA"
+                                    },
+                                    {
+                                        "arabic": "بطيوة",
+                                        "french": "BETHIOUA"
+                                    },
+                                    {
+                                        "arabic": "مرسى الحجاج",
+                                        "french": "MARSAT EL HADJADJ"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "arabic": "بئر الجير",
+                            "french": "BIR EL DJIR",
+                            "Baladiyahs": {
+                                "Baladiyah": [
+                                    {
+                                        "arabic": "بئر الجير",
+                                        "french": "BIR EL DJIR"
+                                    },
+                                    {
+                                        "arabic": "حاسي بن عقبة",
+                                        "french": "HASSI BEN OKBA"
+                                    },
+                                    {
+                                        "arabic": "حاسي بونيف",
+                                        "french": "HASSI BOUNIF"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "arabic": "بوتليليس",
+                            "french": "BOUTLELIS",
+                            "Baladiyahs": {
+                                "Baladiyah": [
+                                    {
+                                        "arabic": "عين الكرمة",
+                                        "french": "AIN KERMA"
+                                    },
+                                    {
+                                        "arabic": "بوتليليس",
+                                        "french": "BOUTLELIS"
+                                    },
+                                    {
+                                        "arabic": "مسرغين",
+                                        "french": "MESSERGHIN"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "arabic": "السانية",
+                            "french": "ES SENIA",
+                            "Baladiyahs": {
+                                "Baladiyah": [
+                                    {
+                                        "arabic": "الكرمة",
+                                        "french": "EL KERMA"
+                                    },
+                                    {
+                                        "arabic": "السانية",
+                                        "french": "ES SENIA"
+                                    },
+                                    {
+                                        "arabic": "سيدي الشحمي",
+                                        "french": "SIDI CHAMI"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "arabic": "قديل",
+                            "french": "GDYEL",
+                            "Baladiyahs": {
+                                "Baladiyah": [
+                                    {
+                                        "arabic": "بن فريحة",
+                                        "french": "BEN FREHA"
+                                    },
+                                    {
+                                        "arabic": "قديل",
+                                        "french": "GDYEL"
+                                    },
+                                    {
+                                        "arabic": "حاسي مفسوخ",
+                                        "french": "HASSI MEFSOUKH"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "arabic": "وهران",
+                            "french": "ORAN",
+                            "Baladiyahs": {
+                                "Baladiyah": [
+                                    {
+                                        "arabic": "وهران",
+                                        "french": "ORAN"
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "arabic": "واد تليلات",
+                            "french": "OUED TLELAT",
+                            "Baladiyahs": {
+                                "Baladiyah": [
+                                    {
+                                        "arabic": "بوفاطيس",
+                                        "french": "BOUFATIS"
+                                    },
+                                    {
+                                        "arabic": "البرية",
+                                        "french": "EL BRAYA"
+                                    },
+                                    {
+                                        "arabic": "واد تليلات",
+                                        "french": "OUED TLELAT"
+                                    },
+                                    {
+                                        "arabic": "طفراوي",
+                                        "french": "TAFRAOUI"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
             {
                "matricule": "32- El Bayedh",
                "Dairas": {
