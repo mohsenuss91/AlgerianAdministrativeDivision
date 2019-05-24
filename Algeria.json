@@ -6,6 +6,7 @@
                "arabic": "ادرار",
                "french": "Adrar",
                "matricule": "01",
+               "phoneCode": "49",
                "Dairas": {
                   "Daira": [
                      {
@@ -231,6 +232,7 @@
                "arabic": "الشلف",
                "french": "Chlef",
                "matricule": "02",
+               "phoneCode": "27",
                "Dairas": {
                   "Daira": [
                      {
@@ -484,6 +486,7 @@
                "arabic": "الأغواط",
                "french": "Laghouat",
                "matricule": "03",
+               "phoneCode": "29",
                "Dairas": {
                   "Daira": [
                      {
@@ -665,6 +668,7 @@
                "arabic": "أم البواقي",
                "french": "Oum El Bouaghi",
                "matricule": "04",
+               "phoneCode": "32",
                "Dairas": {
                   "Daira": [
                      {
@@ -881,6 +885,7 @@
                "arabic": "باتنة",
                "french": "Batna",
                "matricule": "05",
+               "phoneCode": "33",
                "Dairas": {
                   "Daira": [
                      {
@@ -1301,6 +1306,7 @@
                "Arabic": "بجاية",
                "French": "Béjaïa",
                "matricule": "06",
+               "phoneCode": "34",
                "Dairas": {
                   "Daira": [
                      {
@@ -1664,6 +1670,7 @@
                "arabic": "بسكرة",
                "french": " Biskra",
                "matricule": "07",
+               "phoneCode": "33",
                "Dairas": {
                   "Daira": [
                      {
@@ -1877,6 +1884,7 @@
             },
             {
                "matricule": "08- Bechar",
+               "phoneCode": "49",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -1887,6 +1895,7 @@
             },
             {
                "matricule": "09- Blida",
+               "phoneCode": "25",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -1897,6 +1906,7 @@
             },
             {
                "matricule": "10- Bouira",
+               "phoneCode": "26",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -1907,6 +1917,7 @@
             },
             {
                "matricule": "11- Tamanrasset",
+               "phoneCode": "29",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -1917,6 +1928,7 @@
             },
             {
                "matricule": "12- Tebessa",
+               "phoneCode": "37",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -1927,6 +1939,7 @@
             },
             {
                "matricule": "13- Tlemcen",
+               "phoneCode": "43",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -1937,6 +1950,7 @@
             },
             {
                "matricule": "14- Tiaret",
+               "phoneCode": "46",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -1947,6 +1961,7 @@
             },
             {
                "matricule": "15- Tizi Ouzou",
+               "phoneCode": "26",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -1958,7 +1973,7 @@
             {
                "arabic": "الجزائر",
                "french": "Alger",
-               "matricule": "16",
+               "phoneCode": ["21", "23"],
                "Dairas": {
                   "Daira": [
                      {
@@ -2298,6 +2313,7 @@
             },
             {
                "matricule": "17- Djelfa",
+               "phoneCode": "27",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2308,6 +2324,7 @@
             },
             {
                "matricule": "18- Jijel",
+               "phoneCode": "34",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2318,6 +2335,7 @@
             },
             {
                "matricule": "19- Setif",
+               "phoneCode": "34",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2327,10 +2345,12 @@
                }
             },
             {
-               "matricule": "20- Saida"
+               "matricule": "20- Saida",
+               "phoneCode": "48"
             },
             {
                "matricule": "21- Skikda",
+               "phoneCode": "38",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2341,6 +2361,7 @@
             },
             {
                "matricule": "22- Sidi bel abbes",
+               "phoneCode": "48",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2351,6 +2372,7 @@
             },
             {
                "matricule": "23- Annaba",
+               "phoneCode": "38",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2360,10 +2382,12 @@
                }
             },
             {
-               "matricule": "24- Guelma"
+               "matricule": "24- Guelma",
+               "phoneCode": "37"
             },
             {
                "matricule": "25- Constantine",
+               "phoneCode": "31",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2374,6 +2398,7 @@
             },
             {
                "matricule": "26- Medea",
+               "phoneCode": "25",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2384,6 +2409,7 @@
             },
             {
                "matricule": "27- Mostaghanem",
+               "phoneCode": "45",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2394,6 +2420,7 @@
             },
             {
                "matricule": "28- Msila",
+               "phoneCode": "35",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2404,6 +2431,7 @@
             },
             {
                "matricule": "29- Mascara",
+               "phoneCode": "45",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2414,6 +2442,7 @@
             },
             {
                "matricule": "30- Ouargla",
+               "phoneCode": "29",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2426,6 +2455,7 @@
                 "arabic": "وهران",
                 "french": "Oran",
                 "matricule": "31",
+                "phoneCode": "41",
                 "Dairas": {
                     "Daira": [
                         {
@@ -2609,6 +2639,7 @@
             },
             {
                "matricule": "32- El Bayedh",
+               "phoneCode": "49",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2619,6 +2650,7 @@
             },
             {
                "matricule": "33- Illizi",
+               "phoneCode": "29",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2631,6 +2663,7 @@
                "arabic": "برج بوعريريج",
                "french": "Bordj Bou Arreridj",
                "matricule": "34",
+               "phoneCode": "35",
                "Dairas": {
                   "Daira": [
                      {
@@ -2852,6 +2885,7 @@
             },
             {
                "matricule": "35- Boumerdes",
+               "phoneCode": "24",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2862,6 +2896,7 @@
             },
             {
                "matricule": "36- El Taref",
+               "phoneCode": "38",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2872,6 +2907,7 @@
             },
             {
                "matricule": "37- Tindouf",
+               "phoneCode": "49",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2882,6 +2918,7 @@
             },
             {
                "matricule": "38- Tissemsilt",
+               "phoneCode": "46",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2892,6 +2929,7 @@
             },
             {
                "matricule": "39- El Oued",
+               "phoneCode": "32",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2902,6 +2940,7 @@
             },
             {
                "matricule": "40- Khenchla",
+               "phoneCode": "32",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2912,6 +2951,7 @@
             },
             {
                "matricule": "41- Souk Ahras",
+               "phoneCode": "37",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2922,6 +2962,7 @@
             },
             {
                "matricule": "42- Tipaza",
+               "phoneCode": "24",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2932,6 +2973,7 @@
             },
             {
                "matricule": "43- Mila",
+               "phoneCode": "31",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2942,6 +2984,7 @@
             },
             {
                "matricule": "44- Ain Defla",
+               "phoneCode": "27",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2952,6 +2995,7 @@
             },
             {
                "matricule": "45- Naama",
+               "phoneCode": "49",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2962,6 +3006,7 @@
             },
             {
                "matricule": "46- Ain Timouchent",
+               "phoneCode": "43",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
@@ -2974,6 +3019,7 @@
                "arabic": "غرداية",
                "french": "Ghardaïa",
                "matricule": "47",
+               "phoneCode": "29",
                "Dairas": {
                   "Daira": [
                      {
@@ -3097,6 +3143,7 @@
                "arabic": "غليزان",
                "french": "Relizane",
                "matricule": "48",
+               "phoneCode": "46",
                "Dairas": {
                   "Daira": [
                      {
