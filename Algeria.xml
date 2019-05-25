@@ -6,6 +6,7 @@
 			<arabic >ادرار</arabic>
 			<french>Adrar</french>
 			<matricule>01</matricule>
+			<phoneCode>49</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic >ادرار</arabic>
@@ -208,6 +209,7 @@ Wilaya ADRAR completely added
 			<arabic >الشلف</arabic>
 			<french>Chlef</french>
 			<matricule>02</matricule>
+			<phoneCode>27</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic >الشلف</arabic>
@@ -438,6 +440,7 @@ french : http://fr.wikipedia.org/wiki/Communes_de_la_wilaya_de_Chlef
 			<arabic>الأغواط</arabic>
 			<french>Laghouat</french>
 			<matricule>03</matricule>
+			<phoneCode>29</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic>آفلو</arabic>
@@ -603,6 +606,7 @@ Wilaya Laghouat completely added-->
 			<arabic>أم البواقي</arabic>
 			<french>Oum El Bouaghi</french>
 			<matricule>04</matricule>
+			<phoneCode>32</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic>أم البواقي</arabic>
@@ -799,6 +803,7 @@ Wilaya Laghouat completely added-->
 			<arabic>باتنة</arabic>
 			<french>Batna</french>
 			<matricule>05</matricule>
+			<phoneCode>33</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic >عين جاسر</arabic>
@@ -1178,6 +1183,7 @@ Wilaya Batna completely added-->
 			<Arabic>بجاية</Arabic>
 			<French>Béjaïa</French>
 			<matricule>06</matricule>
+			<phoneCode>34</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic>بجاية</arabic>
@@ -1508,6 +1514,7 @@ Wilaya Batna completely added-->
 			<arabic >بسكرة</arabic>
 			<french> Biskra</french>
 			<matricule>07</matricule>
+			<phoneCode>33</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic >بسكرة</arabic>
@@ -1714,6 +1721,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>08- Bechar</matricule>
+			<phoneCode>49</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -1731,6 +1739,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>09- Blida</matricule>
+			<phoneCode>25</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -1748,6 +1757,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>10- Bouira</matricule>
+			<phoneCode>26</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -1765,6 +1775,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>11- Tamanrasset</matricule>
+			<phoneCode>29</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -1782,6 +1793,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>12- Tebessa</matricule>
+			<phoneCode>37</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -1799,6 +1811,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>13- Tlemcen</matricule>
+			<phoneCode>43</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -1816,6 +1829,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>14- Tiaret</matricule>
+			<phoneCode>46</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -1833,6 +1847,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>15- Tizi Ouzou</matricule>
+			<phoneCode>26</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -1851,6 +1866,10 @@ Wilaya Batna completely added-->
 			<arabic>الجزائر</arabic>
 			<french>Alger</french>
 			<matricule>16</matricule>
+			<phoneCodes>
+				<phoneCode>21</phoneCode>
+				<phoneCode>23</phoneCode>
+			</phoneCodes>
 			<Dairas>
 				<Daira>
 					<arabic>سيدي امحمد</arabic>
@@ -2164,6 +2183,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>17- Djelfa</matricule>
+			<phoneCode>27</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2181,6 +2201,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>18- Jijel</matricule>
+			<phoneCode>34</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2198,6 +2219,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>19- Setif</matricule>
+			<phoneCode>36</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2215,11 +2237,13 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>20- Saida</matricule>
+			<phoneCode>48</phoneCode>
 		</Wilaya>
 		<Wilaya>
 			<arabic ></arabic>
 			<french></french>
 			<matricule>21- Skikda</matricule>
+			<phoneCode>38</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2237,6 +2261,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>22- Sidi bel abbes</matricule>
+			<phoneCode>48</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2254,6 +2279,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>23- Annaba</matricule>
+			<phoneCode>38</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2271,11 +2297,13 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>24- Guelma</matricule>
+			<phoneCode>37</phoneCode>
 		</Wilaya>
 		<Wilaya>
 			<arabic ></arabic>
 			<french></french>
 			<matricule>25- Constantine</matricule>
+			<phoneCode>31</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2293,6 +2321,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>26- Medea</matricule>
+			<phoneCode>25</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2310,6 +2339,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>27- Mostaghanem</matricule>
+			<phoneCode>45</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2327,6 +2357,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>28- Msila</matricule>
+			<phoneCode>35</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2344,6 +2375,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>29- Mascara</matricule>
+			<phoneCode>45</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2361,6 +2393,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>30- Ouargla</matricule>
+			<phoneCode>29</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2378,6 +2411,7 @@ Wilaya Batna completely added-->
 			<arabic >وهران</arabic>
 			<french>Oran</french>
 			<matricule>31</matricule>
+			<phoneCode>41</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic>عين الترك</arabic>
@@ -2544,6 +2578,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>32- El Bayedh</matricule>
+			<phoneCode>49</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2561,6 +2596,7 @@ Wilaya Batna completely added-->
 			<arabic ></arabic>
 			<french></french>
 			<matricule>33- Illizi</matricule>
+			<phoneCode>29</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2578,6 +2614,7 @@ Wilaya Batna completely added-->
 			<arabic >برج بوعريريج</arabic>
 			<french>Bordj Bou Arreridj</french>
 			<matricule>34</matricule>
+			<phoneCode>35</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic >برج بوعريريج</arabic>
@@ -2784,6 +2821,7 @@ Wilaya Bordj Bou Arreridj completely added
 			<arabic ></arabic>
 			<french></french>
 			<matricule>35- Boumerdes</matricule>
+			<phoneCode>24</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2801,6 +2839,7 @@ Wilaya Bordj Bou Arreridj completely added
 			<arabic ></arabic>
 			<french></french>
 			<matricule>36- El Taref</matricule>
+			<phoneCode>38</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2818,6 +2857,7 @@ Wilaya Bordj Bou Arreridj completely added
 			<arabic ></arabic>
 			<french></french>
 			<matricule>37- Tindouf</matricule>
+			<phoneCode>49</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2835,6 +2875,7 @@ Wilaya Bordj Bou Arreridj completely added
 			<arabic ></arabic>
 			<french></french>
 			<matricule>38- Tissemsilt</matricule>
+			<phoneCode>46</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2852,6 +2893,7 @@ Wilaya Bordj Bou Arreridj completely added
 			<arabic ></arabic>
 			<french></french>
 			<matricule>39- El Oued</matricule>
+			<phoneCode>32</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2869,6 +2911,7 @@ Wilaya Bordj Bou Arreridj completely added
 			<arabic ></arabic>
 			<french></french>
 			<matricule>40- Khenchla</matricule>
+			<phoneCode>32</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2886,6 +2929,7 @@ Wilaya Bordj Bou Arreridj completely added
 			<arabic ></arabic>
 			<french></french>
 			<matricule>41- Souk Ahras</matricule>
+			<phoneCode>37</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2903,6 +2947,7 @@ Wilaya Bordj Bou Arreridj completely added
 			<arabic ></arabic>
 			<french></french>
 			<matricule>42- Tipaza</matricule>
+			<phoneCode>24</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2920,6 +2965,7 @@ Wilaya Bordj Bou Arreridj completely added
 			<arabic ></arabic>
 			<french></french>
 			<matricule>43- Mila</matricule>
+			<phoneCode>31</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2937,6 +2983,7 @@ Wilaya Bordj Bou Arreridj completely added
 			<arabic ></arabic>
 			<french></french>
 			<matricule>44- Ain Defla</matricule>
+			<phoneCode>27</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2954,6 +3001,7 @@ Wilaya Bordj Bou Arreridj completely added
 			<arabic ></arabic>
 			<french></french>
 			<matricule>45- Naama</matricule>
+			<phoneCode>49</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2971,6 +3019,7 @@ Wilaya Bordj Bou Arreridj completely added
 			<arabic ></arabic>
 			<french></french>
 			<matricule>46- Ain Timouchent</matricule>
+			<phoneCode>43</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic ></arabic>
@@ -2988,6 +3037,7 @@ Wilaya Bordj Bou Arreridj completely added
 			<arabic >غرداية</arabic>
 			<french>Ghardaïa</french>
 			<matricule>47</matricule>
+			<phoneCode>29</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic >غرداية</arabic>
@@ -3104,6 +3154,7 @@ Wilaya Ghardaia completely added
 			<arabic>غليزان</arabic>
 			<french>Relizane</french>
 			<matricule>48</matricule>
+			<phoneCode>46</phoneCode>
 			<Dairas>
 				<Daira>
 					<arabic>غليزان</arabic>
@@ -3340,7 +3391,7 @@ Wilaya Ghardaia completely added
 Wilaya Relizane completely added
 -->
 		<!--
-	 <Wilaya><arabic></arabic><french></french><matricule></matricule><Dairas></Dairas><Daira></Daira></Wilaya>
+	 <Wilaya><arabic></arabic><french></french><matricule></matricule><phoneCode></phoneCode><Dairas></Dairas><Daira></Daira></Wilaya>
 	 -->
 	</Wilayas>
 </Algeria>
