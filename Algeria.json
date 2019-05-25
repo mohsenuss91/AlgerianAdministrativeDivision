@@ -1973,6 +1973,7 @@
             {
                "arabic": "الجزائر",
                "french": "Alger",
+               "matricule": "16",
                "phoneCode": ["21", "23"],
                "Dairas": {
                   "Daira": [
@@ -2335,7 +2336,7 @@
             },
             {
                "matricule": "19- Setif",
-               "phoneCode": "34",
+               "phoneCode": "36",
                "Dairas": {
                   "Daira": {
                      "Baladiyahs": {
