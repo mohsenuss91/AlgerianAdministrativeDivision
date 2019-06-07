@@ -1,5 +1,3 @@
-<?xml version="1.0"  encoding="utf-8"  ?>
-<!DOCTYPE Algeria SYSTEM "Algeria.dtd">
 <Algeria>
 	<Wilayas>
 		<Wilaya>
@@ -202,9 +200,7 @@
 				</Daira>
 			</Dairas>
 		</Wilaya>
-		<!--
-Wilaya ADRAR completely added
--->
+		<!-- Wilaya ADRAR completely added -->
 		<Wilaya>
 			<arabic >الشلف</arabic>
 			<french>Chlef</french>
@@ -431,11 +427,7 @@ Wilaya ADRAR completely added
 				</Daira>
 			</Dairas>
 		</Wilaya>
-		<!--
-Wilaya Chlef completely added!
-source arabic facebook :D
-french : http://fr.wikipedia.org/wiki/Communes_de_la_wilaya_de_Chlef
--->
+		<!-- Wilaya Chlef completely added-->
 		<Wilaya>
 			<arabic>الأغواط</arabic>
 			<french>Laghouat</french>
@@ -600,8 +592,7 @@ french : http://fr.wikipedia.org/wiki/Communes_de_la_wilaya_de_Chlef
 				</Daira>
 			</Dairas>
 		</Wilaya>
-		<!--
-Wilaya Laghouat completely added-->
+		<!-- Wilaya Laghouat completely added-->
 		<Wilaya>
 			<arabic>أم البواقي</arabic>
 			<french>Oum El Bouaghi</french>
@@ -1177,8 +1168,7 @@ Wilaya Laghouat completely added-->
 				</Daira>
 			</Dairas>
 		</Wilaya>
-		<!--
-Wilaya Batna completely added-->
+		<!--Wilaya Batna completely added-->
 		<Wilaya>
 			<Arabic>بجاية</Arabic>
 			<French>Béjaïa</French>
@@ -1718,8 +1708,8 @@ Wilaya Batna completely added-->
 		</Wilaya>
 		<!--Wilaya Biskra completely added-->
 		<Wilaya>
-			<arabic ></arabic>
-			<french></french>
+			<arabic >بشار</arabic>
+			<french>Bechar</french>
 			<matricule>08- Bechar</matricule>
 			<phoneCode>49</phoneCode>
 			<Dairas>
@@ -1735,6 +1725,7 @@ Wilaya Batna completely added-->
 				</Daira>
 			</Dairas>
 		</Wilaya>
+		<!--Wilaya Bechar completely added-->
 		<Wilaya>
 			<arabic ></arabic>
 			<french></french>
@@ -2413,27 +2404,26 @@ Wilaya Batna completely added-->
 			<matricule>31</matricule>
 			<phoneCode>41</phoneCode>
 			<Dairas>
-				<Daira>
-					<arabic>عين الترك</arabic>
-					<french>AIN TURK</french>
-					<Baladiyahs>
-						<Baladiyah>
-							<arabic>عين الترك</arabic>
-							<french>AIN TURK</french>
-						</Baladiyah>
-						<Baladiyah>
-							<arabic>بوسفر</arabic>
-							<french>BOUSFER</french>
-						</Baladiyah>
-						<Baladiyah>
-							<french>EL ANCOR</french>
-							<arabic>العنصر</arabic>
-						</Baladiyah>
-						<Baladiyah>
-							<arabic>المرسى الكبير</arabic>
-							<french>MERS EL KEBIR</french>
-						</Baladiyah>
-					</Baladiyahs>
+				<arabic>عين الترك</arabic>
+				<french>AIN TURK</french>
+				<Baladiyahs>
+					<Baladiyah>
+						<arabic>عين الترك</arabic>
+						<french>AIN TURK</french>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic>بوسفر</arabic>
+						<french>BOUSFER</french>
+					</Baladiyah>
+					<Baladiyah>
+						<french>EL ANCOR</french>
+						<arabic>العنصر</arabic>
+					</Baladiyah>
+					<Baladiyah>
+						<arabic>المرسى الكبير</arabic>
+						<french>MERS EL KEBIR</french>
+					</Baladiyah>
+				</Baladiyahs>
 				<Daira>
 					<arabic>أرزيو</arabic>
 					<french>ARZEW</french>
@@ -2460,7 +2450,6 @@ Wilaya Batna completely added-->
 							<arabic>بطيوة</arabic>
 							<french>BETHIOUA</french>
 						</Baladiyah>
-
 						<Baladiyah>
 							<arabic>مرسى الحجاج</arabic>
 							<french>MARSAT EL HADJADJ</french>
@@ -2503,7 +2492,6 @@ Wilaya Batna completely added-->
 						</Baladiyah>
 					</Baladiyahs>
 				</Daira>
-
 				<Daira>
 					<arabic>السانية</arabic>
 					<french>ES SENIA</french>
@@ -2575,8 +2563,8 @@ Wilaya Batna completely added-->
 			</Dairas>
 		</Wilaya>
 		<Wilaya>
-			<arabic ></arabic>
-			<french></french>
+			<arabic >البيض</arabic>
+			<french>El Bayadh</french>
 			<matricule>32- El Bayedh</matricule>
 			<phoneCode>49</phoneCode>
 			<Dairas>
