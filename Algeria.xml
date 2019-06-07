@@ -1725,7 +1725,6 @@
 				</Daira>
 			</Dairas>
 		</Wilaya>
-		<!--Wilaya Bechar completely added-->
 		<Wilaya>
 			<arabic ></arabic>
 			<french></french>
@@ -3375,11 +3374,6 @@ Wilaya Ghardaia completely added
 				</Daira>
 			</Dairas>
 		</Wilaya>
-		<!--
-Wilaya Relizane completely added
--->
-		<!--
-	 <Wilaya><arabic></arabic><french></french><matricule></matricule><phoneCode></phoneCode><Dairas></Dairas><Daira></Daira></Wilaya>
-	 -->
+
 	</Wilayas>
 </Algeria>
