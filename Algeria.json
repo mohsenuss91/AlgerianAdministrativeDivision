@@ -2388,21 +2388,255 @@
 					}
 				},
 				{
-					"arabic": "",
-					"french": "",
+					"arabic": "الجلفة",
+					"french": "Djelfa",
 					"matricule": "17- Djelfa",
 					"phoneCode": "27",
 					"Dairas": {
-						"Daira": {
-							"arabic": "",
-							"french": "",
-							"Baladiyahs": {
-								"Baladiyah": {
-									"arabic": "",
-									"french": ""
+						"Daira": [
+							{
+								"arabic": "الجلفة",
+								"french": "Djelfa",
+								"Baladiyahs": {
+									"Baladiyah": [
+										{
+											"arabic": "الجلفة",
+											"french": "Djelfa"
+										}
+									]
+								}
+							},
+							{
+								"arabic": "عين وسارة",
+								"french": "َAin Oussera",
+								"Baladiyahs": {
+									"Baladiyah": [
+										{
+											"arabic": "عين وسارة",
+											"french": "Ain Oussera"
+										},
+										{
+											"arabic": "القرنيني",
+											"french": "Guernini"
+										}
+									]
+								}
+							},
+							{
+								"arabic": "البيرين",
+								"french": "Birine",
+								"Baladiyahs": {
+									"Baladiyah": [
+										{
+											"arabic": "البيرين",
+											"french": "Birine"
+										},
+										{
+											"arabic": "بنهار",
+											"french": "Benhar"
+										}
+									]
+								}
+							},
+							{
+								"arabic": "سيدي لعجال",
+								"french": "Sidi Laadjel",
+								"Baladiyahs": {
+									"Baladiyah": [
+										{
+											"arabic": "سيدي لعجال",
+											"french": "Sidi Laadjel"
+										},
+										{
+											"arabic": "الخميس",
+											"french": "El Khemis"
+										},
+										{
+											"arabic": "حاسي فدول",
+											"french": "Hassi Fedoul"
+										}
+									]
+								}
+							},
+							{
+								"arabic": "حد الصحاري",
+								"french": "Had Esahari",
+								"Baladiyahs": {
+									"Baladiyah": [
+										{
+											"arabic": "حد الصحاري",
+											"french": "Had Esahari"
+										},
+										{
+											"arabic": "بويرة الأحداب",
+											"french": "Bouiret lahdab"
+										},
+										{
+											"arabic": "عين أفقه",
+											"french": "Ain F'kah"
+										}
+									]
+								}
+							},
+							{
+								"arabic": "حاسي بحبح",
+								"french": "Hassi Bahbah",
+								"Baladiyahs": {
+									"Baladiyah": [
+										{
+											"arabic": "حاسي بحبح",
+											"french": "Hassi Bahbah"
+										},
+										{
+											"arabic": "الزعفران",
+											"french": "ًZaafrane"
+										},
+										{
+											"arabic": "حاسي العش",
+											"french": "Hassi Elach"
+										},
+										{
+											"arabic": "عين معبد",
+											"french": "Ain Maabed"
+										}
+									]
+								}
+							},
+							{
+								"arabic": "دار الشيوخ",
+								"french": "Dar Echioukh",
+								"Baladiyahs": {
+									"Baladiyah": [
+										{
+											"arabic": "دار الشيوخ",
+											"french": "Dar Echioukh"
+										},
+										{
+											"arabic": "المليليحة",
+											"french": "Mliliha"
+										},
+										{
+											"arabic": "سيدي بايزيد",
+											"french": "Sidi Baizid"
+										}
+									]
+								}
+							},
+							{
+								"arabic": "الشارف",
+								"french": "Charef",
+								"Baladiyahs": {
+									"Baladiyah": [
+										{
+											"arabic": "الشارف",
+											"french": "Charef"
+										},
+										{
+											"arabic": "القديد",
+											"french": "Guedid"
+										},
+										{
+											"arabic": "بن يعقوب",
+											"french": "Ben Yagoub"
+										}
+									]
+								}
+							},
+							{
+								"arabic": "الإدريسية",
+								"french": "Idrissia",
+								"Baladiyahs": {
+									"Baladiyah": [
+										{
+											"arabic": "الإدريسية",
+											"french": "Idrissia"
+										},
+										{
+											"arabic": "الدويس",
+											"french": "Douis"
+										},
+										{
+											"arabic": "عين الشهداء",
+											"french": "Ain Chouhada"
+										}
+
+									]
+								}
+							},
+							{
+								"arabic": "عين الابل",
+								"french": "Ain Elbel",
+								"Baladiyahs": {
+									"Baladiyah": [
+										{
+											"arabic": "عين الابل",
+											"french": "Ain Elbel"
+										},
+										{
+											"arabic": "مجبارة",
+											"french": "Moudjbara"
+										},
+										{
+											"arabic": "تعضميت",
+											"french": "Taadmit"
+										},
+										{
+											"arabic": "زكار",
+											"french": "Zekkar"
+										}
+									]
+								}
+							},
+							{
+								"arabic": "مسعد",
+								"french": "Tinerkouk",
+								"Baladiyahs": {
+									"Baladiyah": [
+										{
+											"arabic": "مسعد",
+											"french": "Messaad"
+										},
+										{
+											"arabic": "دلدول",
+											"french": "Deldoul"
+										},
+										{
+											"arabic": "سلمانة",
+											"french": "Salmana"
+										},
+										{
+											"arabic": "سد رحال",
+											"french": "Sad Rahal"
+										},
+										{
+											"arabic": "قطارة",
+											"french": "Guettara"
+										}
+									]
+								}
+							},
+							{
+								"arabic": "فيض البطمة",
+								"french": "Feid Elbotma",
+								"Baladiyahs": {
+									"Baladiyah": [
+										{
+											"arabic": "فيض البطمة",
+											"french": "Feid Elbotma"
+										},
+										{
+											"arabic": "عمورة",
+											"french": "Amoura"
+										},
+										{
+											"arabic": "أم العظام",
+											"french": "Oum Laadam"
+										}
+									]
 								}
 							}
-						}
+
+						]
 					}
 				},
 				{
