@@ -15,7 +15,7 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML/json fil
 * 31 - Oran
 * 34 - Bordj Bou Arreridj
 * 47 - Ghardaia
-
+* 48 - Relizane
 ### To be added :
 
 * 7 Biskra <br>
@@ -54,7 +54,7 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML/json fil
 * 44 Aïn Defla <br>
 * 45 Naama <br>
 * 46 Aïn Témouchent <br>
-* 48 Relizane <br>
+
 
 
 ### How to contribute
