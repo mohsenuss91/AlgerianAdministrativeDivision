@@ -1,0 +1,17 @@
+{
+    "name": "AlgerianAdministrativeDivisions",
+    "version": "1.0.0",
+    "description": "All the Algerian administrative districtions in one place",
+    "dependencies": {
+        "xml-js": "^1.6.11"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "convert": "node bin/convert.js"
+    },
+    "author": "khaldoun Mohsen",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mohsenuss91/AlgerianAdministrativeDivision/issues"
+    }
+}
