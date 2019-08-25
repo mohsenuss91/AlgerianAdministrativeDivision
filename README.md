@@ -3,7 +3,17 @@ Algerian Administrative Division
 
 Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML/json file.
 
-### Added :
+
+### How to contribute
+Any one can contribute in this projet by coding, translating or sharing documents and sources.
+1. Fork this repo to your account and clone it to your local machine from there **using SSH**.
+2. Run the command `npm run install`.
+3. Do your changes in the "Algeria.json" file. don't touch any other file except this one.
+4. Run the command `npm run convert` to convert the Algeria.json file to XML.
+5. Commit your changes and push them to your origin repositrory (the one in your account).
+6. Open a pull request in the upstream repository (the repo that you forked from).
+
+### Available wilayas :
 * 01 - Adrar
 * 02 - Chlef
 * 03 - Laghouat
@@ -16,49 +26,45 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML/json fil
 * 34 - Bordj Bou Arreridj
 * 47 - Ghardaia
 * 48 - Relizane
+
 ### To be added :
+* 7 Biskra 
+* 8 Béchar 
+* 9 Blida 
+* 10 Bouira 
+* 11 Tamanghasset 
+* 12 Tébessa 
+* 13 Tlemcen 
+* 14 Tiaret 
+* 15 Tizi Ouzou 
+* 18 Jijel 
+* 19 Sétif 
+* 20 Saïda 
+* 21 Skikda 
+* 22 Sidi Bel Abbes 
+* 23 Annaba 
+* 24 Guelma 
+* 25 Constantine 
+* 26 Médéa 
+* 27 Mostaganem 
+* 28 M'Sila 
+* 29 Mascara 
+* 30 Ouargla 
+* 32 El Bayadh 
+* 33 Illizi 
+* 35 Boumerdès 
+* 36 El Taref 
+* 37 Tindouf 
+* 38 Tissemsilt 
+* 39 El Oued 
+* 40 Khenchela 
+* 41 Souk Ahras 
+* 42 Tipasa 
+* 43 Mila 
+* 44 Aïn Defla 
+* 45 Naama 
+* 46 Aïn Témouchent 
 
-* 7 Biskra <br>
-* 8 Béchar <br>
-* 9 Blida <br>
-* 10 Bouira <br>
-* 11 Tamanghasset <br>
-* 12 Tébessa <br>
-* 13 Tlemcen <br>
-* 14 Tiaret <br>
-* 15 Tizi Ouzou <br>
-* 18 Jijel <br>
-* 19 Sétif <br>
-* 20 Saïda <br>
-* 21 Skikda <br>
-* 22 Sidi Bel Abbes <br>
-* 23 Annaba <br>
-* 24 Guelma <br>
-* 25 Constantine <br>
-* 26 Médéa <br>
-* 27 Mostaganem <br>
-* 28 M'Sila <br>
-* 29 Mascara <br>
-* 30 Ouargla <br>
-* 32 El Bayadh <br>
-* 33 Illizi <br>
-* 35 Boumerdès <br>
-* 36 El Taref <br>
-* 37 Tindouf <br>
-* 38 Tissemsilt <br>
-* 39 El Oued <br>
-* 40 Khenchela <br>
-* 41 Souk Ahras <br>
-* 42 Tipasa <br>
-* 43 Mila <br>
-* 44 Aïn Defla <br>
-* 45 Naama <br>
-* 46 Aïn Témouchent <br>
-
-
-
-### How to contribute
-Any one can contribute in this projet by coding, translating or sharing documents and sources.
 
 #### Helpful ressources:
 * [Ministère de l'Intérieur et de Collectivités locales: Annuaire des collectivités locales](http://www.interieur.gov.dz/index.php/fr/component/annuaire/?view=wilayas)
