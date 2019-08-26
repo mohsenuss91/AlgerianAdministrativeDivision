@@ -3,15 +3,29 @@
     "version": "1.0.0",
     "description": "All the Algerian administrative districtions in one place",
     "dependencies": {
+        "@types/node": "^12.7.2",
+        "module-alias": "^2.2.1",
         "xml-js": "^1.6.11"
     },
-    "devDependencies": {},
+    "devDependencies": {
+        "@types/jest": "^24.0.18",
+        "jest": "^24.9.0",
+        "ts-jest": "^24.0.2",
+        "typescript": "^3.5.3"
+    },
     "scripts": {
-        "convert": "node bin/convert.js"
+        "convert": "node bin/convert.js",
+        "build": "rm -rf dist/* && tsc",
+        "test": "./node_modules/jest/bin/jest.js --bail --coverage --verbose=false",
+        "prestart": "npm run build",
+        "start": "ts-node ./src/index.ts"
     },
     "author": "khaldoun Mohsen",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/mohsenuss91/AlgerianAdministrativeDivision/issues"
+    },
+    "_moduleAliases": {
+        "@": "dist"
     }
 }
