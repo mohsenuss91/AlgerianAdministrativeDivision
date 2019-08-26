@@ -20,31 +20,31 @@
     </h1>
     <div class='clearfix'>
       <div class='fl pad1y space-right2'>
-        <span class="strong">42.11% </span>
+        <span class="strong">94.74% </span>
         <span class="quiet">Statements</span>
-        <span class='fraction'>8/19</span>
-      </div>
-      <div class='fl pad1y space-right2'>
-        <span class="strong">0% </span>
-        <span class="quiet">Branches</span>
-        <span class='fraction'>0/2</span>
-      </div>
-      <div class='fl pad1y space-right2'>
-        <span class="strong">0% </span>
-        <span class="quiet">Functions</span>
-        <span class='fraction'>0/6</span>
+        <span class='fraction'>18/19</span>
       </div>
       <div class='fl pad1y space-right2'>
         <span class="strong">50% </span>
+        <span class="quiet">Branches</span>
+        <span class='fraction'>1/2</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">100% </span>
+        <span class="quiet">Functions</span>
+        <span class='fraction'>6/6</span>
+      </div>
+      <div class='fl pad1y space-right2'>
+        <span class="strong">93.75% </span>
         <span class="quiet">Lines</span>
-        <span class='fraction'>8/16</span>
+        <span class='fraction'>15/16</span>
       </div>
     </div>
     <p class="quiet">
       Press <em>n</em> or <em>j</em> to go to the next uncovered block, <em>b</em>, <em>p</em> or <em>k</em> for the previous block.
     </p>
   </div>
-  <div class='status-line low'></div>
+  <div class='status-line high'></div>
 <pre><table class="coverage">
 <tr><td class="line-count quiet"><a name='L1'></a><a href='#L1'>1</a>
 <a name='L2'></a><a href='#L2'>2</a>
@@ -67,24 +67,24 @@
 <a name='L19'></a><a href='#L19'>19</a>
 <a name='L20'></a><a href='#L20'>20</a>
 <a name='L21'></a><a href='#L21'>21</a></td><td class="line-coverage quiet"><span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-yes">2x</span>
+<span class="cline-any cline-yes">3x</span>
+<span class="cline-any cline-yes">3x</span>
+<span class="cline-any cline-yes">3x</span>
+<span class="cline-any cline-yes">3x</span>
+<span class="cline-any cline-yes">3x</span>
+<span class="cline-any cline-yes">3x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">1x</span>
 <span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-yes">4x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-yes">3x</span>
+<span class="cline-any cline-yes">1x</span>
+<span class="cline-any cline-yes">7x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
-<span class="cline-any cline-yes">2x</span>
-<span class="cline-any cline-no">&nbsp;</span>
-<span class="cline-any cline-no">&nbsp;</span>
+<span class="cline-any cline-yes">3x</span>
+<span class="cline-any cline-yes">3x</span>
+<span class="cline-any cline-yes">51x</span>
 <span class="cline-any cline-neutral">&nbsp;</span>
 <span class="cline-any cline-neutral">&nbsp;</span></td><td class="text"><pre class="prettyprint lang-js">"use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
@@ -92,19 +92,19 @@ require('module-alias/register');
 var parsers_1 = require("@/helpers/parsers");
 var datastack = parsers_1.parseJsonFile(parsers_1.getJsonLocation("Algeria"));
 exports.Wilayas = datastack;
-exports.getByWilaya = <span class="fstat-no" title="function not covered" >fu</span>nction (searchFor) {
-    var language = <span class="cstat-no" title="statement not covered" >"french";</span>
-<span class="cstat-no" title="statement not covered" >    if (parsers_1.isArabic(searchFor))</span>
+exports.getByWilaya = function (searchFor) {
+    var language = "french";
+    <span class="missing-if-branch" title="if path not taken" >I</span>if (parsers_1.isArabic(searchFor))
 <span class="cstat-no" title="statement not covered" >        language = "arabic";</span>
-<span class="cstat-no" title="statement not covered" >    return exports.Wilayas.find(<span class="fstat-no" title="function not covered" >fu</span>nction (wilayaObj) { <span class="cstat-no" title="statement not covered" >return (wilayaObj[language] == searchFor); </span>});</span>
+    return exports.Wilayas.find(function (wilayaObj) { return (wilayaObj[language] == searchFor); });
 };
-exports.getByMaticule = <span class="fstat-no" title="function not covered" >fu</span>nction (matricule) {
-<span class="cstat-no" title="statement not covered" >    parsers_1.checkStringNumber(matricule, "matrilcule");</span>
-<span class="cstat-no" title="statement not covered" >    return exports.Wilayas.find(<span class="fstat-no" title="function not covered" >fu</span>nction (wilayaObj) { <span class="cstat-no" title="statement not covered" >return (wilayaObj.matricule == matricule); </span>});</span>
+exports.getByMatricule = function (matricule) {
+    parsers_1.checkStringNumber(matricule, "matrilcule");
+    return exports.Wilayas.find(function (wilayaObj) { return (wilayaObj.matricule == matricule); });
 };
-exports.getByCallingCode = <span class="fstat-no" title="function not covered" >fu</span>nction (callingCode) {
-<span class="cstat-no" title="statement not covered" >    parsers_1.checkStringNumber(callingCode, "calling code");</span>
-<span class="cstat-no" title="statement not covered" >    return exports.Wilayas.find(<span class="fstat-no" title="function not covered" >fu</span>nction (wilayaObj) { <span class="cstat-no" title="statement not covered" >return (wilayaObj.matricule == callingCode); </span>});</span>
+exports.getByCallingCode = function (callingCode) {
+    parsers_1.checkStringNumber(callingCode, "calling code");
+    return exports.Wilayas.find(function (wilayaObj) { return wilayaObj.phoneCodes.includes(callingCode); });
 };
 &nbsp;</pre></td></tr>
 </table></pre>
@@ -112,7 +112,7 @@ exports.getByCallingCode = <span class="fstat-no" title="function not covered" >
 </div><!-- /wrapper -->
 <div class='footer quiet pad2 space-top1 center small'>
   Code coverage
-  generated by <a href="https://istanbul.js.org/" target="_blank">istanbul</a> at Mon Aug 26 2019 19:45:30 GMT+0100 (BST)
+  generated by <a href="https://istanbul.js.org/" target="_blank">istanbul</a> at Mon Aug 26 2019 20:14:19 GMT+0100 (BST)
 </div>
 </div>
 <script src="../prettify.js"></script>

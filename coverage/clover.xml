@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1566845130610" clover="3.2.0">
-  <project timestamp="1566845130611" name="All files">
-    <metrics statements="42" coveredstatements="23" conditionals="6" coveredconditionals="1" methods="10" coveredmethods="2" elements="58" coveredelements="26" complexity="0" loc="42" ncloc="42" packages="2" files="2" classes="2"/>
+<coverage generated="1566846859909" clover="3.2.0">
+  <project timestamp="1566846859909" name="All files">
+    <metrics statements="42" coveredstatements="38" conditionals="6" coveredconditionals="3" methods="10" coveredmethods="10" elements="58" coveredelements="51" complexity="0" loc="42" ncloc="42" packages="2" files="2" classes="2"/>
     <package name="dist">
-      <metrics statements="16" coveredstatements="8" conditionals="2" coveredconditionals="0" methods="6" coveredmethods="0"/>
+      <metrics statements="16" coveredstatements="15" conditionals="2" coveredconditionals="1" methods="6" coveredmethods="6"/>
       <file name="index.js" path="/home/abdel/changedAlg/AlgerianAdministrativeDivision/dist/index.js">
-        <metrics statements="16" coveredstatements="8" conditionals="2" coveredconditionals="0" methods="6" coveredmethods="0"/>
-        <line num="2" count="2" type="stmt"/>
-        <line num="3" count="2" type="stmt"/>
-        <line num="4" count="2" type="stmt"/>
-        <line num="5" count="2" type="stmt"/>
-        <line num="6" count="2" type="stmt"/>
-        <line num="7" count="2" type="stmt"/>
-        <line num="8" count="0" type="stmt"/>
-        <line num="9" count="0" type="cond" truecount="0" falsecount="2"/>
+        <metrics statements="16" coveredstatements="15" conditionals="2" coveredconditionals="1" methods="6" coveredmethods="6"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="cond" truecount="1" falsecount="1"/>
         <line num="10" count="0" type="stmt"/>
-        <line num="11" count="0" type="stmt"/>
-        <line num="13" count="2" type="stmt"/>
-        <line num="14" count="0" type="stmt"/>
-        <line num="15" count="0" type="stmt"/>
-        <line num="17" count="2" type="stmt"/>
-        <line num="18" count="0" type="stmt"/>
-        <line num="19" count="0" type="stmt"/>
+        <line num="11" count="4" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="7" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="19" count="51" type="stmt"/>
       </file>
     </package>
     <package name="dist.helpers.parsers">
-      <metrics statements="26" coveredstatements="15" conditionals="4" coveredconditionals="1" methods="4" coveredmethods="2"/>
+      <metrics statements="26" coveredstatements="23" conditionals="4" coveredconditionals="2" methods="4" coveredmethods="4"/>
       <file name="index.js" path="/home/abdel/changedAlg/AlgerianAdministrativeDivision/dist/helpers/parsers/index.js">
-        <metrics statements="26" coveredstatements="15" conditionals="4" coveredconditionals="1" methods="4" coveredmethods="2"/>
-        <line num="2" count="2" type="stmt"/>
-        <line num="3" count="2" type="stmt"/>
-        <line num="4" count="2" type="stmt"/>
-        <line num="5" count="2" type="stmt"/>
-        <line num="6" count="2" type="stmt"/>
-        <line num="8" count="2" type="stmt"/>
-        <line num="9" count="2" type="stmt"/>
-        <line num="10" count="0" type="stmt"/>
-        <line num="11" count="0" type="stmt"/>
-        <line num="12" count="0" type="stmt"/>
-        <line num="13" count="0" type="stmt"/>
-        <line num="14" count="0" type="cond" truecount="0" falsecount="2"/>
-        <line num="15" count="0" type="stmt"/>
+        <metrics statements="26" coveredstatements="23" conditionals="4" coveredconditionals="2" methods="4" coveredmethods="4"/>
+        <line num="2" count="3" type="stmt"/>
+        <line num="3" count="3" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="5" count="3" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="15" count="1" type="stmt"/>
         <line num="17" count="0" type="stmt"/>
-        <line num="19" count="2" type="stmt"/>
-        <line num="20" count="0" type="stmt"/>
-        <line num="21" count="0" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="21" count="4" type="stmt"/>
         <line num="24" count="0" type="stmt"/>
-        <line num="27" count="2" type="stmt"/>
-        <line num="28" count="2" type="stmt"/>
-        <line num="29" count="2" type="stmt"/>
-        <line num="30" count="2" type="cond" truecount="1" falsecount="1"/>
-        <line num="31" count="2" type="stmt"/>
-        <line num="32" count="2" type="stmt"/>
+        <line num="27" count="3" type="stmt"/>
+        <line num="28" count="3" type="stmt"/>
+        <line num="29" count="3" type="stmt"/>
+        <line num="30" count="3" type="cond" truecount="1" falsecount="1"/>
+        <line num="31" count="3" type="stmt"/>
+        <line num="32" count="3" type="stmt"/>
         <line num="35" count="0" type="stmt"/>
-        <line num="36" count="2" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
       </file>
     </package>
   </project>

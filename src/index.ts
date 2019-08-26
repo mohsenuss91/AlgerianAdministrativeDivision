@@ -15,12 +15,12 @@ export const getByWilaya = (searchFor: string): Wilaya | undefined => {
     return Wilayas.find((wilayaObj: Wilaya) => (wilayaObj[language] == searchFor));
 }
 
-export const getByMaticule = (matricule: string): Wilaya | undefined => {
+export const getByMatricule = (matricule: string): Wilaya | undefined => {
     checkStringNumber(matricule, "matrilcule");
     return Wilayas.find(( wilayaObj: Wilaya ) => (wilayaObj.matricule == matricule));
 }
 
 export const getByCallingCode = (callingCode: string): Wilaya | undefined => {
     checkStringNumber(callingCode, "calling code");
-    return Wilayas.find(( wilayaObj: Wilaya ) => (wilayaObj.matricule == callingCode));
+    return Wilayas.find(( wilayaObj: Wilaya ) => wilayaObj.phoneCodes.includes(callingCode));
 }

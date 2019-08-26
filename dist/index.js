@@ -10,11 +10,11 @@ exports.getByWilaya = function (searchFor) {
         language = "arabic";
     return exports.Wilayas.find(function (wilayaObj) { return (wilayaObj[language] == searchFor); });
 };
-exports.getByMaticule = function (matricule) {
+exports.getByMatricule = function (matricule) {
     parsers_1.checkStringNumber(matricule, "matrilcule");
     return exports.Wilayas.find(function (wilayaObj) { return (wilayaObj.matricule == matricule); });
 };
 exports.getByCallingCode = function (callingCode) {
     parsers_1.checkStringNumber(callingCode, "calling code");
-    return exports.Wilayas.find(function (wilayaObj) { return (wilayaObj.matricule == callingCode); });
+    return exports.Wilayas.find(function (wilayaObj) { return wilayaObj.phoneCodes.includes(callingCode); });
 };
