@@ -1160,8 +1160,8 @@
         ]
     },
     {
-        "Arabic": "بجاية",
-        "French": "Béjaïa",
+        "arabic": "بجاية",
+        "french": "Béjaïa",
         "matricule": "06",
         "phoneCodes": ["34"],
         "Dairas": [
@@ -2289,6 +2289,13 @@
         "Dairas": []
     },
     {
+        "arabic": "سعيدة‎",
+        "french": "Saida",
+        "matricule": "20",
+        "phoneCodes": ["48"],
+        "Dairas": []
+    },
+    {
         "arabic": "سكيكدة",
         "french": "Skikda",
         "matricule": "21",
@@ -2311,6 +2318,13 @@
         "Dairas": []
     },
     {
+        "arabic": "قالمة‎‎",
+        "french": "Guelma",
+        "matricule": "24",
+        "phoneCodes": ["37"],
+        "Dairas": []
+    },
+    {
         "arabic": "قسنطينة",
         "french": "Constantine",
         "matricule": "25",
@@ -2318,7 +2332,7 @@
         "Dairas": []
     },
     {
-        "": "المدية",
+        "arabic": "المدية",
         "french": "Medea",
         "matricule": "26",
         "phoneCodes": ["25"],
@@ -2963,6 +2977,7 @@
                 ]
             },
             {
+                "arabic": "الحمادنة",
                 "french": "El Hamadna",
                 "Baladiyas": [
                     {
