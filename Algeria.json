@@ -1,3179 +1,4596 @@
 [
-    {
-        "arabic": "ادرار",
-        "french": "Adrar",
-        "matricule": "01",
-        "phoneCodes": ["49"],
-        "Dairas": [
-            {
-                "arabic": "ادرار",
-                "french": "Adrar",
-                "Baladiyas": [
-                    {
-                        "arabic": "ادرار",
-                        "french": "Adrar"
-                    },
-                    {
-                        "arabic": "بودة",
-                        "french": "Bouda"
-                    },
-                    {
-                        "arabic": "أولاد أحمد تيمى",
-                        "french": "Ouled Ahmed Tammi"
-                    }
-                ]
-            },
-            {
-                "arabic": "أولف",
-                "french": "Aoulef",
-                "Baladiyas": [
-                    {
-                        "arabic": "أولف",
-                        "french": "Aoulef"
-                    },
-                    {
-                        "arabic": "أقبلى",
-                        "french": "Akabli"
-                    },
-                    {
-                        "arabic": "تمقتن",
-                        "french": "Timekten"
-                    },
-                    {
-                        "arabic": "تيت",
-                        "french": "Tit"
-                    }
-                ]
-            },
-            {
-                "arabic": "أوقروت",
-                "french": "Aougrout",
-                "Baladiyas": [
-                    {
-                        "arabic": "أوقروت",
-                        "french": "Aougrout"
-                    },
-                    {
-                        "arabic": "دلدول",
-                        "french": "Deldoul"
-                    },
-                    {
-                        "arabic": "المطارفة",
-                        "french": "Metarfa"
-                    }
-                ]
-            },
-            {
-                "arabic": "برج باجي مختار",
-                "french": "Bordj Badji Mokhtar",
-                "Baladiyas": [
-                    {
-                        "arabic": "برج باجي مختار",
-                        "french": "Bordj Badji Mokhtar"
-                    },
-                    {
-                        "arabic": "تيمياوين",
-                        "french": "Timiaouine"
-                    }
-                ]
-            },
-            {
-                "arabic": "شروين",
-                "french": "Charouine",
-                "Baladiyas": [
-                    {
-                        "arabic": "شروين",
-                        "french": "Charouine"
-                    },
-                    {
-                        "arabic": "أولاد عيسى",
-                        "french": "Ouled Aissa"
-                    },
-                    {
-                        "arabic": "طالمين",
-                        "french": "Talmine"
-                    }
-                ]
-            },
-            {
-                "arabic": "فنوغيل",
-                "french": "Fenoughil",
-                "Baladiyas": [
-                    {
-                        "arabic": "فنوغيل",
-                        "french": "Fenoughil"
-                    },
-                    {
-                        "arabic": "تامنطيت",
-                        "french": "Tamantit"
-                    },
-                    {
-                        "arabic": "تأماست",
-                        "french": "Tamest"
-                    }
-                ]
-            },
-            {
-                "arabic": "رقان",
-                "french": "Reggane",
-                "Baladiyas": [
-                    {
-                        "arabic": "رقان",
-                        "french": "Reggane"
-                    },
-                    {
-                        "arabic": "سالى",
-                        "french": "Sali"
-                    }
-                ]
-            },
-            {
-                "arabic": "تيميمون",
-                "french": "Timimoun",
-                "Baladiyas": [
-                    {
-                        "arabic": "تيميمون",
-                        "french": "Timimoun"
-                    },
-                    {
-                        "arabic": "أولاد سعيد",
-                        "french": "Ouled Saïd"
-                    }
-                ]
-            },
-            {
-                "arabic": "تنيركوك",
-                "french": "Tinerkouk",
-                "Baladiyas": [
-                    {
-                        "arabic": "تنيركوك",
-                        "french": "Tinerkouk"
-                    },
-                    {
-                        "arabic": "قصر قدور",
-                        "french": "Ksar Kaddour"
-                    }
-                ]
-            },
-            {
-                "arabic": "تسابيت",
-                "french": "Tsabit",
-                "Baladiyas": [
-                    {
-                        "arabic": "تسابيت",
-                        "french": "Tsabit"
-                    },
-                    {
-                        "arabic": "السبع",
-                        "french": "Sebaa"
-                    }
-                ]
-            },
-            {
-                "arabic": "زاوية كنتة",
-                "french": "Zaouiet Kounta",
-                "Baladiyas": [
-                    {
-                        "arabic": "زاوية كنتة",
-                        "french": "Zaouiet Kounta"
-                    },
-                    {
-                        "arabic": "ان زغمير",
-                        "french": "In Zghmir"
-                    }
-                ]
-            },
-            {
-                "arabic": "زاوية كنتة",
-                "french": "Zaouiet Kounta",
-                "Baladiyas": [
-                    {
-                        "arabic": "زاوية كنتة",
-                        "french": "Zaouiet Kounta"
-                    },
-                    {
-                        "arabic": "ان زغمير",
-                        "french": "In Zghmir"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "arabic": "الشلف",
-        "french": "Chlef",
-        "matricule": "02",
-        "phoneCodes": ["27"],
-        "Dairas": [
-            {
-                "arabic": "الشلف",
-                "french": "Chlef",
-                "Baladiyah": {
-                    "arabic": "أم الذروع",
-                    "french": "Oum Drou"
-                },
-                "Baladiyas": [
-                    {
-                        "arabic": "الشلف",
-                        "french": "الشلف"
-                    },
-                    {
-                        "arabic": "سنجاس",
-                        "french": "Sendjas"
-                    }
-                ]
-            },
-            {
-                "arabic": "وادي الفضة",
-                "french": "Oued Fodda",
-                "Baladiyas": [
-                    {
-                        "arabic": "وادي الفضة",
-                        "french": "Oued Fodda"
-                    },
-                    {
-                        "arabic": "بني راشد",
-                        "french": "Beni Rached"
-                    },
-                    {
-                        "arabic": "أولاد عباس",
-                        "french": "Ouled Abbes"
-                    }
-                ]
-            },
-            {
-                "arabic": "الكريمية",
-                "french": "El Karimia",
-                "Baladiyas": [
-                    {
-                        "arabic": "الكريمية",
-                        "french": "El Karimia"
-                    },
-                    {
-                        "arabic": "حرشون",
-                        "french": "Harchoun"
-                    },
-                    {
-                        "arabic": "بني بوعتاب",
-                        "french": "Beni Bouateb"
-                    }
-                ]
-            },
-            {
-                "arabic": "زبوجة",
-                "french": "Zeboudja",
-                "Baladiyas": [
-                    {
-                        "arabic": "زبوجة",
-                        "french": "Zeboudja"
-                    },
-                    {
-                        "arabic": "بنايرية",
-                        "french": "Bénairia"
-                    },
-                    {
-                        "arabic": "بوزغاية",
-                        "french": "Bouzeghaia"
-                    }
-                ]
-            },
-            {
-                "arabic": "أولاد فارس",
-                "french": "Ouled Fares",
-                "Baladiyas": [
-                    {
-                        "arabic": "أولاد فارس",
-                        "french": "Ouled Fares"
-                    },
-                    {
-                        "arabic": "شطّية",
-                        "french": "Chettia"
-                    },
-                    {
-                        "arabic": "لبيض مجاجة",
-                        "french": "Labiod Medjadja"
-                    }
-                ]
-            },
-            {
-                "arabic": "بوقادير",
-                "french": "Boukadir",
-                "Baladiyas": [
-                    {
-                        "arabic": "بوقادير",
-                        "french": "Boukadir"
-                    },
-                    {
-                        "arabic": "واد سلي",
-                        "french": "Oued Sly"
-                    },
-                    {
-                        "arabic": "صبحة",
-                        "french": "Sobha"
-                    }
-                ]
-            },
-            {
-                "arabic": "أولاد بن عبد القادر",
-                "french": "Ouled Ben Abdelkader",
-                "Baladiyas": [
-                    {
-                        "arabic": "أولاد بن عبد القادر",
-                        "french": "Ouled Ben Abdelkader"
-                    },
-                    {
-                        "arabic": "الحجّاج",
-                        "french": "El Hadjadj"
-                    }
-                ]
-            },
-            {
-                "arabic": "تاوقريت",
-                "french": "Taougrite",
-                "Baladiyas": [
-                    {
-                        "arabic": "تاوقريت",
-                        "french": "Taougrite"
-                    },
-                    {
-                        "arabic": "الظهرة",
-                        "french": "Dahra"
-                    }
-                ]
-            },
-            {
-                "arabic": "عين مران",
-                "french": "Aïn Merane",
-                "Baladiyas": [
-                    {
-                        "arabic": "عين مران",
-                        "french": "Aïn Merane"
-                    },
-                    {
-                        "arabic": "الهرانفة",
-                        "french": "Harenfa"
-                    }
-                ]
-            },
-            {
-                "arabic": "تنس",
-                "french": "Ténès",
-                "Baladiyas": [
-                    {
-                        "arabic": "تنس",
-                        "french": "Ténès"
-                    },
-                    {
-                        "arabic": "سيدي عكّاشة",
-                        "french": "Sidi Akkacha"
-                    },
-                    {
-                        "arabic": "سيدي عبد الرّحمان",
-                        "french": "Sidi Abderrahmane"
-                    }
-                ]
-            },
-            {
-                "arabic": "أبو الحسن",
-                "french": "Abou El Hassan",
-                "Baladiyas": [
-                    {
-                        "arabic": "أبو الحسن",
-                        "french": "Abou El Hassan"
-                    },
-                    {
-                        "arabic": "تلعصة",
-                        "french": "Talassa"
-                    },
-                    {
-                        "arabic": "تاجنة",
-                        "french": "Tadjena"
-                    }
-                ]
-            },
-            {
-                "arabic": "المرسى",
-                "french": "El Marsa",
-                "Baladiyas": [
-                    {
-                        "arabic": "المرسى",
-                        "french": "El Marsa"
-                    },
-                    {
-                        "arabic": "مصدّق",
-                        "french": "Moussadek"
-                    }
-                ]
-            },
-            {
-                "arabic": "بني حوّاء",
-                "french": "Beni Haoua",
-                "Baladiyas": [
-                    {
-                        "arabic": "بني حوّاء",
-                        "french": "Beni Haoua"
-                    },
-                    {
-                        "arabic": "بريرة",
-                        "french": "Breira"
-                    },
-                    {
-                        "arabic": "واد غوسين",
-                        "french": "Oued Goussine"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "arabic": "الأغواط",
-        "french": "Laghouat",
-        "matricule": "03",
-        "phoneCodes": ["29"],
-        "Dairas": [
-            {
-                "arabic": "آفلو",
-                "french": "Aflou",
-                "Baladiyas": [
-                    {
-                        "arabic": "آفلو",
-                        "french": "Aflou"
-                    },
-                    {
-                        "arabic": "سبقاق",
-                        "french": "Sebgag"
-                    },
-                    {
-                        "arabic": "سيدي بوزيد",
-                        "french": "Sidi Bouzid"
-                    }
-                ]
-            },
-            {
-                "arabic": "عين ماضي",
-                "french": "Aïn Madhi",
-                "Baladiyas": [
-                    {
-                        "arabic": "عين ماضي",
-                        "french": "Aïn Madhi"
-                    },
-                    {
-                        "arabic": "تاجموت",
-                        "french": "Tadjemout"
-                    },
-                    {
-                        "arabic": "تاجرونة",
-                        "french": "Tadjrouna"
-                    },
-                    {
-                        "arabic": "الحوايطة",
-                        "french": "El Houaita"
-                    },
-                    {
-                        "arabic": "الخنق",
-                        "french": "Kheneg"
-                    }
-                ]
-            },
-            {
-                "arabic": "بريدة",
-                "french": "Brida",
-                "Baladiyas": [
-                    {
-                        "arabic": "بريدة",
-                        "french": "Brida"
-                    },
-                    {
-                        "arabic": "تاويالة",
-                        "french": "Taouila"
-                    }
-                ]
-            },
-            {
-                "arabic": "الغيشة",
-                "french": "El Ghicha",
-                "Baladiyas": [
-                    {
-                        "arabic": "الغيشة",
-                        "french": "El Ghicha"
-                    }
-                ]
-            },
-            {
-                "arabic": "قلتة سيدي سعد",
-                "french": "Gueltet Sidi Saâd",
-                "Baladiyas": [
-                    {
-                        "arabic": "قلتة سيدي سعد",
-                        "french": "Gueltat Sidi Saad"
-                    },
-                    {
-                        "arabic": "عين سيدي على",
-                        "french": "Aïn Sidi Ali"
-                    },
-                    {
-                        "arabic": "حاج مشري",
-                        "french": "Hadj Mechri"
-                    },
-                    {
-                        "arabic": "بيضاء",
-                        "french": "Beidha"
-                    }
-                ]
-            },
-            {
-                "arabic": "حاسى الرمل",
-                "french": "Hassi R'Mel",
-                "Baladiyas": [
-                    {
-                        "arabic": "حاسى الرمل",
-                        "french": "Hassi R'Mel"
-                    },
-                    {
-                        "arabic": "حاسى دلاعة",
-                        "french": "Hassi Delaa"
-                    }
-                ]
-            },
-            {
-                "arabic": "قصر الحيران",
-                "french": "Ksar El Hirane",
-                "Baladiyas": [
-                    {
-                        "arabic": "قصر الحيران",
-                        "french": "Ksar El Hirane"
-                    },
-                    {
-                        "arabic": "بن ناصر بن شهرة",
-                        "french": "Bennasser Benchohra"
-                    }
-                ]
-            },
-            {
-                "arabic": "الاغواط",
-                "french": "Laghouat",
-                "Baladiyas": [
-                    {
-                        "arabic": "الاغواط",
-                        "french": "Laghouat"
-                    }
-                ]
-            },
-            {
-                "arabic": "واد مرة",
-                "french": "Oued Morra",
-                "Baladiyas": [
-                    {
-                        "arabic": "واد مرة",
-                        "french": "Oued Morra"
-                    },
-                    {
-                        "arabic": "واد مزي",
-                        "french": "Oued M'Zi"
-                    }
-                ]
-            },
-            {
-                "arabic": "سيدي مخلوف",
-                "french": "Sidi Makhlouf",
-                "Baladiyas": [
-                    {
-                        "arabic": "سيدي مخلوف",
-                        "french": "Sidi Makhlouf"
-                    },
-                    {
-                        "arabic": "العاسفية",
-                        "french": "El Assafia"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "arabic": "أم البواقي",
-        "french": "Oum El Bouaghi",
-        "matricule": "04",
-        "phoneCodes": ["32"],
-        "Dairas": [
-            {
-                "arabic": "أم البواقي",
-                "french": "Oum El Bouaghi",
-                "Baladiyas": [
-                    {
-                        "arabic": "أم البواقي",
-                        "french": "Oum El Bouaghi"
-                    },
-                    {
-                        "arabic": "عين الزيتون",
-                        "french": "Aïn Zitoun"
-                    }
-                ]
-            },
-            {
-                "arabic": "عين ببوش",
-                "french": "Aïn Babouche",
-                "Baladiyas": [
-                    {
-                        "arabic": "عين ببوش",
-                        "french": "Aïn Babouche"
-                    },
-                    {
-                        "arabic": "عين الديس",
-                        "french": "Aïn Diss"
-                    }
-                ]
-            },
-            {
-                "arabic": "قصر الصباحى",
-                "french": "Ksar Sbahi",
-                "Baladiyas": [
-                    {
-                        "arabic": "قصر الصباحى",
-                        "french": "Ksar Sbahi"
-                    }
-                ]
-            },
-            {
-                "arabic": "عين البيضاء",
-                "french": "Aïn Béïda",
-                "Baladiyas": [
-                    {
-                        "arabic": "عين البيضاء",
-                        "french": "Aïn Béïda"
-                    },
-                    {
-                        "arabic": "الزرق",
-                        "french": "Zorg"
-                    },
-                    {
-                        "arabic": "بريش",
-                        "french": "Berriche"
-                    }
-                ]
-            },
-            {
-                "arabic": "فكيرينة",
-                "french": "Fkirina",
-                "Baladiyas": [
-                    {
-                        "arabic": "فكيرينة",
-                        "french": "Fkirina"
-                    },
-                    {
-                        "arabic": "وادى نينى",
-                        "french": "Oued Nini"
-                    }
-                ]
-            },
-            {
-                "arabic": "عين مليلة",
-                "french": "Ain M’lila",
-                "Baladiyas": [
-                    {
-                        "arabic": "عين مليلة",
-                        "french": "Ain M’lila"
-                    },
-                    {
-                        "arabic": "أولاد قاسم",
-                        "french": "Ouled Gacem"
-                    },
-                    {
-                        "arabic": "أولاد حملة",
-                        "french": "Ouled Hamla"
-                    }
-                ]
-            },
-            {
-                "arabic": "سوق نعمان",
-                "french": "Souk Naamane",
-                "Baladiyas": [
-                    {
-                        "arabic": "سوق نعمان",
-                        "french": "Souk Naamane"
-                    },
-                    {
-                        "arabic": "بئر الشهداء",
-                        "french": "Bir Chouhada"
-                    },
-                    {
-                        "arabic": "اولاد زواي",
-                        "french": "Ouled Zouaï"
-                    }
-                ]
-            },
-            {
-                "arabic": "عين فكرون",
-                "french": "Aïn Fakroun",
-                "Baladiyas": [
-                    {
-                        "arabic": "عين فكرون",
-                        "french": "Aïn Fakroun"
-                    },
-                    {
-                        "french": "El Fedjouz Boughrara Saoudi"
-                    }
-                ]
-            },
-            {
-                "arabic": "سيقوس",
-                "french": "Sigus",
-                "Baladiyas": [
-                    {
-                        "french": "Sigus"
-                    },
-                    {
-                        "french": "El Amiria"
-                    }
-                ]
-            },
-            {
-                "arabic": "عين كرشة",
-                "french": "Ain Kercha",
-                "Baladiyas": [
-                    {
-                        "arabic": "عين كرشة",
-                        "french": "Ain Kercha"
-                    },
-                    {
-                        "arabic": "الحرملية",
-                        "french": "El Harmilia"
-                    },
-                    {
-                        "arabic": "هنشير تومغانى",
-                        "french": "Hanchir Toumghani"
-                    }
-                ]
-            },
-            {
-                "arabic": "مسكيانة",
-                "french": "Meskiana",
-                "Baladiyas": [
-                    {
-                        "arabic": "مسكيانة",
-                        "french": "Meskiana"
-                    },
-                    {
-                        "arabic": "بحير الشرقي",
-                        "french": "Behir Chergui"
-                    },
-                    {
-                        "arabic": "البلالة",
-                        "french": "El Belala"
-                    },
-                    {
-                        "arabic": "الراحية",
-                        "french": "Rahia"
-                    }
-                ]
-            },
-            {
-                "arabic": "الضلعة",
-                "french": "Dhalaa",
-                "Baladiyas": [
-                    {
-                        "arabic": "الضلعة",
-                        "french": "Dhalaa"
-                    },
-                    {
-                        "arabic": "الجازية",
-                        "french": "El Djazia"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "arabic": "باتنة",
-        "french": "Batna",
-        "matricule": "05",
-        "phoneCodes": ["33"],
-        "Dairas": [
-            {
-                "arabic": "عين جاسر",
-                "french": "Ain Djasser",
-                "Baladiyas": [
-                    {
-                        "arabic": "عين جاسر",
-                        "french": "Ain Djasser"
-                    },
-                    {
-                        "arabic": "الحاسى",
-                        "french": "El Hassi"
-                    }
-                ]
-            },
-            {
-                "arabic": "عين التوتة",
-                "french": "Aïn Touta",
-                "Baladiyas": [
-                    {
-                        "arabic": "عين التوتة",
-                        "french": "Aïn Touta"
-                    },
-                    {
-                        "arabic": "بنى فضالة الحقانية",
-                        "french": "Ben Foudhala El Hakania"
-                    },
-                    {
-                        "arabic": "معافة",
-                        "french": "Maafa"
-                    },
-                    {
-                        "arabic": "أولاد عوف",
-                        "french": "Ouled Aouf"
-                    }
-                ]
-            },
-            {
-                "arabic": "أريس",
-                "french": "Arris",
-                "Baladiyas": [
-                    {
-                        "arabic": "أريس",
-                        "french": "Arris"
-                    },
-                    {
-                        "arabic": "تغانمين",
-                        "french": "Tighanimine"
-                    }
-                ]
-            },
-            {
-                "arabic": "بريكة",
-                "french": "Barika",
-                "Baladiyas": [
-                    {
-                        "arabic": "بريكة",
-                        "french": "Barika"
-                    },
-                    {
-                        "arabic": "أمدوكل",
-                        "french": "M'doukel"
-                    },
-                    {
-                        "arabic": "بيطام",
-                        "french": "Bitam"
-                    }
-                ]
-            },
-            {
-                "arabic": "باتنة",
-                "french": "Batna",
-                "Baladiyas": [
-                    {
-                        "arabic": "باتنة",
-                        "french": "Batna"
-                    },
-                    {
-                        "arabic": "فسديس",
-                        "french": "Fesdis"
-                    },
-                    {
-                        "arabic": "وادى الشعبة",
-                        "french": "Oued Chaaba"
-                    }
-                ]
-            },
-            {
-                "arabic": "بوزينة",
-                "french": "Bouzina",
-                "Baladiyas": [
-                    {
-                        "arabic": "بوزينة",
-                        "french": "Bouzina"
-                    },
-                    {
-                        "arabic": "لارباع",
-                        "french": "Larbaâ"
-                    }
-                ]
-            },
-            {
-                "arabic": "شمرة",
-                "french": "Chemora",
-                "Baladiyas": [
-                    {
-                        "arabic": "شمرة",
-                        "french": "Chemora"
-                    },
-                    {
-                        "arabic": "بولهيلات",
-                        "french": "Boulhilat"
-                    }
-                ]
-            },
-            {
-                "arabic": "الجزار",
-                "french": "Djezzar",
-                "Baladiyas": [
-                    {
-                        "arabic": "الجزار",
-                        "french": "Djezzar"
-                    },
-                    {
-                        "arabic": "أولاد عمار",
-                        "french": "Ouled Ammar"
-                    },
-                    {
-                        "arabic": "عزيل عبد القادر",
-                        "french": "Abdelkader Azil"
-                    }
-                ]
-            },
-            {
-                "arabic": "المعذر",
-                "french": "El Madher",
-                "Baladiyas": [
-                    {
-                        "arabic": "المعذر",
-                        "french": "El Madher"
-                    },
-                    {
-                        "arabic": "عين ياقوت",
-                        "french": "Aïn Yagout"
-                    },
-                    {
-                        "arabic": "بومية",
-                        "french": "Boumia"
-                    },
-                    {
-                        "arabic": "جرمة",
-                        "french": "Djerma"
-                    }
-                ]
-            },
-            {
-                "arabic": "إيشمول",
-                "french": "Ichmoul",
-                "Baladiyas": [
-                    {
-                        "arabic": "إيشمول",
-                        "french": "Ichmoul"
-                    },
-                    {
-                        "arabic": "فم الطوب",
-                        "french": "Foum Toub"
-                    },
-                    {
-                        "arabic": "اينوغيسن",
-                        "french": "Inoughissen"
-                    }
-                ]
-            },
-            {
-                "arabic": "منعة",
-                "french": "Menaa",
-                "Baladiyas": [
-                    {
-                        "arabic": "منعة",
-                        "french": "Menaa"
-                    },
-                    {
-                        "arabic": "تغرغار",
-                        "french": "Tigherghar"
-                    }
-                ]
-            },
-            {
-                "arabic": "مروانة",
-                "french": "Merouana",
-                "Baladiyas": [
-                    {
-                        "arabic": "مروانة",
-                        "french": "Merouana"
-                    },
-                    {
-                        "arabic": "وادى الماء",
-                        "french": "Oued El Ma"
-                    },
-                    {
-                        "arabic": "قصر بلازمة",
-                        "french": "Ksar Bellezma"
-                    },
-                    {
-                        "arabic": "حيدوسة",
-                        "french": "Hidoussa"
-                    }
-                ]
-            },
-            {
-                "arabic": "نقاوس",
-                "french": "N'Gaous",
-                "Baladiyas": [
-                    {
-                        "arabic": "نقاوس",
-                        "french": "N'Gaous"
-                    },
-                    {
-                        "arabic": "بومقر",
-                        "french": "Boumague"
-                    },
-                    {
-                        "arabic": "سفيان",
-                        "french": "Sefiane"
-                    }
-                ]
-            },
-            {
-                "arabic": "أولاد سى سليمان",
-                "french": "Ouled Si Slimane",
-                "Baladiyas": [
-                    {
-                        "arabic": "أولاد سى سليمان",
-                        "french": "Ouled Si Slimane"
-                    },
-                    {
-                        "arabic": "تاكسلانت",
-                        "french": "Taxlent"
-                    },
-                    {
-                        "arabic": "لمسان",
-                        "french": "Lemsane"
-                    }
-                ]
-            },
-            {
-                "arabic": "رأس العيون",
-                "french": "Ras El Aioun",
-                "Baladiyas": [
-                    {
-                        "arabic": "رأس العيون",
-                        "french": "Ras Ei Aioun"
-                    },
-                    {
-                        "arabic": "القصبات",
-                        "french": "Gosbat"
-                    },
-                    {
-                        "arabic": "قيقبة",
-                        "french": "Guigba"
-                    },
-                    {
-                        "arabic": "الرحبات",
-                        "french": "Rahbat"
-                    },
-                    {
-                        "arabic": "تالخمت",
-                        "french": "Talkhamt"
-                    },
-                    {
-                        "french": "Ouled Sellam"
-                    }
-                ]
-            },
-            {
-                "arabic": "أولاد سلام",
-                "french": "Seggana",
-                "Baladiyas": [
-                    {
-                        "arabic": "رقانة",
-                        "french": "Seggana"
-                    },
-                    {
-                        "arabic": "تيلاطو",
-                        "french": "Tilatou"
-                    }
-                ]
-            },
-            {
-                "arabic": "سريانة",
-                "french": "Seriana",
-                "Baladiyas": [
-                    {
-                        "arabic": "سريانة",
-                        "french": "Seriana"
-                    },
-                    {
-                        "arabic": "لازرو",
-                        "french": "Lazrou"
-                    },
-                    {
-                        "arabic": "زانة البيضاء",
-                        "french": "Zanat El Beida"
-                    }
-                ]
-            },
-            {
-                "arabic": "تازولت",
-                "french": "Tazoult",
-                "Baladiyas": [
-                    {
-                        "arabic": "تازولت",
-                        "french": "Tazoult"
-                    },
-                    {
-                        "arabic": "عيون العصافير",
-                        "french": "Ouyoun El Assafir"
-                    }
-                ]
-            },
-            {
-                "arabic": "ثنية العابد",
-                "french": "Teniet El Abed",
-                "Baladiyas": [
-                    {
-                        "arabic": "ثنية العابد",
-                        "french": "Teniet El Abed"
-                    },
-                    {
-                        "arabic": "وادي الطاقة",
-                        "french": "Oued Taga"
-                    },
-                    {
-                        "arabic": "شير",
-                        "french": "Chir"
-                    }
-                ]
-            },
-            {
-                "arabic": "تيمقاد",
-                "french": "Timgad",
-                "Baladiyas": [
-                    {
-                        "arabic": "تيمقاد",
-                        "french": "Timgad"
-                    },
-                    {
-                        "arabic": "أولاد فاضل",
-                        "french": "Ouled Fadel"
-                    }
-                ]
-            },
-            {
-                "arabic": "تكوت",
-                "french": "T'kout",
-                "Baladiyas": [
-                    {
-                        "arabic": "تكوت",
-                        "french": "T'Kout"
-                    },
-                    {
-                        "arabic": "كيمل",
-                        "french": "Kimmel"
-                    },
-                    {
-                        "arabic": "غسيرة",
-                        "french": "Ghassira"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "arabic": "بجاية",
-        "french": "Béjaïa",
-        "matricule": "06",
-        "phoneCodes": ["34"],
-        "Dairas": [
-            {
-                "arabic": "بجاية",
-                "french": "Béjaïa",
-                "Baladiyas": [
-                    {
-                        "arabic": "بجاية",
-                        "french": "Béjaïa"
-                    },
-                    {
-                        "arabic": "وادي غير",
-                        "french": "Oued ghir"
-                    }
-                ]
-            },
-            {
-                "arabic": "ادكار",
-                "french": "Adekar",
-                "Baladiyas": [
-                    {
-                        "arabic": "ادكار",
-                        "french": "Adekar"
-                    },
-                    {
-                        "arabic": "تاوريرت اغيل",
-                        "french": "Taourirt Ighil"
-                    },
-                    {
-                        "arabic": "بنى كسيلة",
-                        "french": "Beni Ksila"
-                    }
-                ]
-            },
-            {
-                "arabic": "أقبو",
-                "french": "Akbou",
-                "Baladiyas": [
-                    {
-                        "arabic": "أقبو",
-                        "french": "Akbou"
-                    },
-                    {
-                        "arabic": "شلاطة",
-                        "french": "Chellata"
-                    },
-                    {
-                        "arabic": "اغرام",
-                        "french": "Ighram"
-                    },
-                    {
-                        "arabic": "تمقرة",
-                        "french": "Tamokra"
-                    }
-                ]
-            },
-            {
-                "arabic": "أميزور",
-                "french": "Amizour",
-                "Baladiyas": [
-                    {
-                        "arabic": "أميزور",
-                        "french": "Amizour"
-                    },
-                    {
-                        "arabic": "بني جليل",
-                        "french": "Beni Djellil"
-                    },
-                    {
-                        "arabic": "سمعون",
-                        "french": "Semaoun"
-                    },
-                    {
-                        "arabic": "فرعون",
-                        "french": "Ferraoun"
-                    }
-                ]
-            },
-            {
-                "arabic": "أوقاس",
-                "french": "Aokas",
-                "Baladiyas": [
-                    {
-                        "arabic": "أوقاس",
-                        "french": "Aokas"
-                    },
-                    {
-                        "arabic": "تيزي أنبربار",
-                        "french": "Tizi N'Berber"
-                    }
-                ]
-            },
-            {
-                "arabic": "برباشة",
-                "french": "Barbacha",
-                "Baladiyas": [
-                    {
-                        "arabic": "برباشة",
-                        "french": "Barbacha"
-                    },
-                    {
-                        "arabic": "كنديرة",
-                        "french": "Kendira"
-                    }
-                ]
-            },
-            {
-                "arabic": "بني معوش",
-                "french": "Beni Maouche",
-                "Baladiyas": [
-                    {
-                        "arabic": "بني معوش",
-                        "french": "Beni Maouche"
-                    }
-                ]
-            },
-            {
-                "arabic": "شميني",
-                "french": "Chemini",
-                "Baladiyas": [
-                    {
-                        "arabic": "شميني",
-                        "french": "Chemini"
-                    },
-                    {
-                        "arabic": "طيبان",
-                        "french": "Tibane"
-                    },
-                    {
-                        "arabic": "سوق أوفلة",
-                        "french": "Souk Oufella"
-                    },
-                    {
-                        "arabic": "أكفادو",
-                        "french": "Akfadou"
-                    }
-                ]
-            },
-            {
-                "arabic": "تازمالت",
-                "french": "Tazmalt",
-                "Baladiyas": [
-                    {
-                        "arabic": "تازمالت",
-                        "french": "Tazmalt"
-                    },
-                    {
-                        "arabic": "بني مليكش",
-                        "french": "Beni Mellikeche"
-                    },
-                    {
-                        "arabic": "بوجليل",
-                        "french": "Boudjellil"
-                    }
-                ]
-            },
-            {
-                "arabic": "درقينة",
-                "french": "Darguina",
-                "Baladiyas": [
-                    {
-                        "arabic": "درقينة",
-                        "french": "Darguina"
-                    },
-                    {
-                        "arabic": "آيت سماعيل",
-                        "french": "Aït Smail"
-                    },
-                    {
-                        "arabic": "تاسكريوت",
-                        "french": "Taskriout"
-                    }
-                ]
-            },
-            {
-                "arabic": "القصر",
-                "french": "El Kseur",
-                "Baladiyas": [
-                    {
-                        "arabic": "القصر",
-                        "french": "El Kseur"
-                    },
-                    {
-                        "arabic": "فناية الماثن",
-                        "french": "Fenaïa Ilmaten"
-                    },
-                    {
-                        "arabic": "توجة",
-                        "french": "Toudja"
-                    }
-                ]
-            },
-            {
-                "arabic": "إغيل علي",
-                "french": "Ighil Ali",
-                "Baladiyas": [
-                    {
-                        "arabic": "إغيل علي",
-                        "french": "Ighil Ali"
-                    },
-                    {
-                        "arabic": "آيت أرزين",
-                        "french": "Aït R'zine"
-                    }
-                ]
-            },
-            {
-                "arabic": "خراطة",
-                "french": "Kherrata",
-                "Baladiyas": [
-                    {
-                        "arabic": "خراطة",
-                        "french": "Kherrata"
-                    },
-                    {
-                        "arabic": "ذراع القايد",
-                        "french": "Draâ El Kaïd"
-                    }
-                ]
-            },
-            {
-                "arabic": "أوزلاقن",
-                "french": "Ouzellaguen",
-                "Baladiyas": [
-                    {
-                        "arabic": "أوزلاقن",
-                        "french": "Ouzellaguen"
-                    }
-                ]
-            },
-            {
-                "arabic": "صدوق",
-                "french": "Seddouk",
-                "Baladiyas": [
-                    {
-                        "arabic": "صدوق",
-                        "french": "Seddouk"
-                    },
-                    {
-                        "arabic": "أمالو",
-                        "french": "Amalou"
-                    },
-                    {
-                        "arabic": "بوحمزة",
-                        "french": "Bouhamza"
-                    },
-                    {
-                        "arabic": "مسيسنة",
-                        "french": "M'cisna"
-                    }
-                ]
-            },
-            {
-                "arabic": "تيشي",
-                "french": "Tichy",
-                "Baladiyas": [
-                    {
-                        "arabic": "تيشي",
-                        "french": "Tichy"
-                    },
-                    {
-                        "arabic": "بوخليفة",
-                        "french": "Boukhelifa"
-                    },
-                    {
-                        "arabic": "تالة حمزة",
-                        "french": "Tala Hamza"
-                    }
-                ]
-            },
-            {
-                "arabic": "سوق الإثنين",
-                "french": "Souk El-Ténine",
-                "Baladiyas": [
-                    {
-                        "arabic": "سوق الإثنين",
-                        "french": "Souk El-Ténine"
-                    },
-                    {
-                        "arabic": "ملبو",
-                        "french": "Melbou"
-                    },
-                    {
-                        "arabic": "تامريجت",
-                        "french": "Tamridjet"
-                    }
-                ]
-            },
-            {
-                "arabic": "سيدي عيش",
-                "french": "Sidi-Aïch",
-                "Baladiyas": [
-                    {
-                        "arabic": "سيدي عيش",
-                        "french": "Sidi-Aïch"
-                    },
-                    {
-                        "arabic": "لفلاي",
-                        "french": "Leflaye"
-                    },
-                    {
-                        "arabic": "تينبذار",
-                        "french": "Tinabdher"
-                    },
-                    {
-                        "arabic": "تيفرة",
-                        "french": "Tifra"
-                    },
-                    {
-                        "arabic": "سيدي عياد",
-                        "french": "Sidi Ayad"
-                    }
-                ]
-            },
-            {
-                "arabic": "تيمزريت",
-                "french": "Timezrit",
-                "Baladiyas": [
-                    {
-                        "arabic": "تيمزريت",
-                        "french": "Timezrit"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "arabic": "بسكرة",
-        "french": "Biskra",
-        "matricule": "07",
-        "phoneCodes": ["33"],
-        "Dairas": [
-            {
-                "arabic": "بسكرة",
-                "french": "Biskra",
-                "Baladiyas": [
-                    {
-                        "arabic": "بسكرة",
-                        "french": "Biskra"
-                    },
-                    {
-                        "arabic": "الحاجب",
-                        "french": "El Hadjeb"
-                    }
-                ]
-            },
-            {
-                "arabic": "جمورة",
-                "french": "Djemorah",
-                "Baladiyas": [
-                    {
-                        "arabic": "جمورة",
-                        "french": "Djemorah"
-                    },
-                    {
-                        "arabic": "البرانس",
-                        "french": "Branis"
-                    }
-                ]
-            },
-            {
-                "arabic": "القنطرة",
-                "french": "El Kantara",
-                "Baladiyas": [
-                    {
-                        "arabic": "القنطرة",
-                        "french": "El Kantara"
-                    },
-                    {
-                        "arabic": "عين زعطوط",
-                        "french": "Ain Zaatout"
-                    }
-                ]
-            },
-            {
-                "arabic": "مشونش",
-                "french": "M'Chouneche",
-                "Baladiyas": [
-                    {
-                        "arabic": "مشونش",
-                        "french": "M'Chouneche"
-                    }
-                ]
-            },
-            {
-                "arabic": "سيدي عقبة",
-                "french": "Sidi Okba",
-                "Baladiyas": [
-                    {
-                        "arabic": "سيدي عقبة",
-                        "french": "Sidi Okba"
-                    },
-                    {
-                        "arabic": "شتمة",
-                        "french": "Chetma"
-                    },
-                    {
-                        "arabic": "الحوش",
-                        "french": "El Haouch"
-                    },
-                    {
-                        "arabic": "عين الناقة",
-                        "french": "Aïn Naga"
-                    }
-                ]
-            },
-            {
-                "arabic": "زربية الوادى",
-                "french": "Zeribet El Oued",
-                "Baladiyas": [
-                    {
-                        "arabic": "زربية الوادى",
-                        "french": "Zeribet El Oued"
-                    },
-                    {
-                        "arabic": "المزيرعة",
-                        "french": "El Mizaraa"
-                    },
-                    {
-                        "arabic": "الفيض",
-                        "french": "El Feidh"
-                    },
-                    {
-                        "arabic": "خنقة سيدي ناجى",
-                        "french": "Khenguet Sidi Nadji"
-                    }
-                ]
-            },
-            {
-                "arabic": "طولقة",
-                "french": "Tolga",
-                "Baladiyas": [
-                    {
-                        "arabic": "طولقة",
-                        "french": "Tolga"
-                    },
-                    {
-                        "arabic": "بوشقرون",
-                        "french": "Bouchagroune"
-                    },
-                    {
-                        "arabic": "برج بن عزوز",
-                        "french": "Bordj Ben Azzouz"
-                    },
-                    {
-                        "arabic": "لشانة",
-                        "french": "Lichana"
-                    }
-                ]
-            },
-            {
-                "arabic": "أولاد جلال",
-                "french": "Ouled Djellal",
-                "Baladiyas": [
-                    {
-                        "arabic": "أولاد جلال",
-                        "french": "Ouled Djellal"
-                    },
-                    {
-                        "arabic": "أولاد رحمة",
-                        "french": "Ech Chaïba"
-                    },
-                    {
-                        "arabic": "دوسان",
-                        "french": "Doucen"
-                    }
-                ]
-            },
-            {
-                "arabic": "سيدي خالد",
-                "french": "Sidi Khaled",
-                "Baladiyas": [
-                    {
-                        "arabic": "سيدي خالد",
-                        "french": "Sidi Khaled"
-                    },
-                    {
-                        "arabic": "بسبس",
-                        "french": "Besbes"
-                    },
-                    {
-                        "arabic": "راس الميعاد",
-                        "french": "Ras El Miaad"
-                    }
-                ]
-            },
-            {
-                "arabic": "فوغالة",
-                "french": "Foughala",
-                "Baladiyas": [
-                    {
-                        "arabic": "فوغالة",
-                        "french": "Foughala"
-                    },
-                    {
-                        "arabic": "الغروس",
-                        "french": "El Ghrous"
-                    }
-                ]
-            },
-            {
-                "arabic": "الوطاية",
-                "french": "El Outaya",
-                "Baladiyas": [
-                    {
-                        "arabic": "الوطاية",
-                        "french": "El Outaya"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "arabic": "بشار",
-        "french": "Bechar",
-        "matricule": "08",
-        "phoneCodes": ["49"],
-        "Dairas": [
-        ]
-    },
-    {
-        "arabic": "البليدة",
-        "french": "Blida",
-        "matricule": "09",
-        "phoneCodes": ["25"],
-        "Dairas": [
-        ]
-    },
-    {
-        "arabic": "البويرة",
-        "french": "Bouira",
-        "matricule": "10",
-        "phoneCodes": ["26"],
-        "Dairas": []
-    },
-    {
-        "arabic": "تمنراست‎",
-        "french": "Tamanrasset",
-        "matricule": "11",
-        "phoneCodes": ["29"],
-        "Dairas": []
-    },
-    {
-        "arabic": "تبسة‎",
-        "french": "Tebessa",
-        "matricule": "12",
-        "phoneCodes": ["37"],
-        "Dairas": []
-    },
-    {
-        "arabic": "تلمسان‎",
-        "french": "Tlemcen",
-        "matricule": "13",
-        "phoneCodes": ["43"],
-        "Dairas": []
-    },
-    {
-        "arabic": "تيارت‎",
-        "french": "Tiaret",
-        "matricule": "14",
-        "phoneCodes": ["46"],
-        "Dairas": []
-    },
-    {
-        "arabic": "ثيزي وزو",
-        "french": "Tizi Ouzou",
-        "matricule": "15",
-        "phoneCodes": ["26"],
-        "Dairas": []
-    },
-    {
-        "arabic": "الجزائر",
-        "french": "Alger",
-        "matricule": "16",
-        "phoneCodes": [
-            "21",
-            "23"
-        ],
-        "Dairas": [
-            {
-                "arabic": "سيدي امحمد",
-                "french": "Sidi M'Hamed",
-                "Baladiyas": [
-                    {
-                        "arabic": "الجزائر الوسطى",
-                        "french": "Alger-Centre"
-                    },
-                    {
-                        "arabic": "سيدي امحمد",
-                        "french": "Sidi M'Hamed"
-                    },
-                    {
-                        "arabic": "المدنية",
-                        "french": "El Madania"
-                    },
-                    {
-                        "arabic": "المرادية",
-                        "french": "El Mouradia"
-                    }
-                ]
-            },
-            {
-                "arabic": "باب الوادى",
-                "french": "Bab El Oued",
-                "Baladiyas": [
-                    {
-                        "arabic": "باب الوادى",
-                        "french": "Bab El Oued"
-                    },
-                    {
-                        "arabic": "بولوغين",
-                        "french": "Bologhine"
-                    },
-                    {
-                        "arabic": "القصبة",
-                        "french": "Casbah"
-                    },
-                    {
-                        "arabic": "وادي قريش",
-                        "french": "Oued Koriche"
-                    },
-                    {
-                        "arabic": "الرايس حميدو",
-                        "french": "Raïs Hamidou"
-                    }
-                ]
-            },
-            {
-                "arabic": "حسين داي",
-                "french": "Hussein Dey",
-                "Baladiyas": [
-                    {
-                        "arabic": "بلوزداد",
-                        "french": "Belouizdad"
-                    },
-                    {
-                        "arabic": "حسين داي",
-                        "french": "Hussein Dey"
-                    },
-                    {
-                        "arabic": "القبة",
-                        "french": "Kouba"
-                    },
-                    {
-                        "arabic": "المقرية",
-                        "french": "El Magharia"
-                    }
-                ]
-            },
-            {
-                "arabic": "بير مراد رايس",
-                "french": "Bir Mourad Raïs",
-                "Baladiyas": [
-                    {
-                        "arabic": "بير مراد رايس",
-                        "french": "Bir Mourad Raïs"
-                    },
-                    {
-                        "arabic": "بئر خادم",
-                        "french": "Birkhadem"
-                    },
-                    {
-                        "arabic": "جسر قسنطينة",
-                        "french": "Djasr Kasentina"
-                    },
-                    {
-                        "arabic": "حيدرة",
-                        "french": "Hydra"
-                    },
-                    {
-                        "arabic": "سحاولة",
-                        "french": "Saoula"
-                    }
-                ]
-            },
-            {
-                "arabic": "بوزريعة",
-                "french": "Bouzareah",
-                "Baladiyas": [
-                    {
-                        "arabic": "الأبيار",
-                        "french": "El Biar"
-                    },
-                    {
-                        "arabic": "بوزريعة",
-                        "french": "Bouzareah"
-                    },
-                    {
-                        "arabic": "بن عكنون",
-                        "french": "Ben Aknoun"
-                    },
-                    {
-                        "arabic": "بني مسوس",
-                        "french": "Beni Messous"
-                    }
-                ]
-            },
-            {
-                "arabic": "الحراش",
-                "french": "El Harrach",
-                "Baladiyas": [
-                    {
-                        "arabic": "الحراش",
-                        "french": "El Harrach"
-                    },
-                    {
-                        "arabic": "وادي سمار",
-                        "french": "Oued Smar"
-                    },
-                    {
-                        "arabic": "باش جراح",
-                        "french": "Bachdjerrah"
-                    },
-                    {
-                        "arabic": "بوروبة",
-                        "french": "Bourouba"
-                    }
-                ]
-            },
-            {
-                "arabic": "براقي",
-                "french": "Baraki",
-                "Baladiyas": [
-                    {
-                        "arabic": "براقي",
-                        "french": "Baraki"
-                    },
-                    {
-                        "arabic": "الكليتوس",
-                        "french": "Les Eucalyptus"
-                    },
-                    {
-                        "arabic": "سيدي موسى",
-                        "french": "Sidi Moussa"
-                    }
-                ]
-            },
-            {
-                "arabic": "الدار البيضاء",
-                "french": "Dar El Beïda",
-                "Baladiyas": [
-                    {
-                        "arabic": "الدار البيضاء",
-                        "french": "Dar El Beïda"
-                    },
-                    {
-                        "arabic": "باب الزوار",
-                        "french": "Bab Ezzouar"
-                    },
-                    {
-                        "arabic": "المحمدية",
-                        "french": "Mohammadia"
-                    },
-                    {
-                        "arabic": "برج الكيفان",
-                        "french": "Bordj El Kiffan"
-                    },
-                    {
-                        "arabic": "عين طايه",
-                        "french": "Aïn Taya"
-                    },
-                    {
-                        "arabic": "برج البحري",
-                        "french": "Bordj El Bahri"
-                    },
-                    {
-                        "arabic": "المرسى",
-                        "french": "El Marsa"
-                    }
-                ]
-            },
-            {
-                "arabic": "الشراقة",
-                "french": "Chéraga",
-                "Baladiyas": [
-                    {
-                        "arabic": "دالي إبراھيم",
-                        "french": "Dely Ibrahim"
-                    },
-                    {
-                        "arabic": "باب الزوار",
-                        "french": "El Hammamet"
-                    },
-                    {
-                        "arabic": "عين البنيان",
-                        "french": "Aïn Benian"
-                    },
-                    {
-                        "arabic": "الشراقة",
-                        "french": "Cheraga"
-                    },
-                    {
-                        "arabic": "أولاد فايت",
-                        "french": "Ouled Fayet"
-                    }
-                ]
-            },
-            {
-                "arabic": "بئر توتة",
-                "french": "Birtouta",
-                "Baladiyas": [
-                    {
-                        "arabic": "بئر توتة",
-                        "french": "Birtouta"
-                    },
-                    {
-                        "arabic": "تسالة المرجى",
-                        "french": "Tessala El Merdja"
-                    },
-                    {
-                        "arabic": "أولاد الشبل",
-                        "french": "Ouled Chebel"
-                    }
-                ]
-            },
-            {
-                "arabic": "الرويبة",
-                "french": "Rouïba",
-                "Baladiyas": [
-                    {
-                        "arabic": "الهراوة",
-                        "french": "H'raoua"
-                    },
-                    {
-                        "arabic": "الرويبة",
-                        "french": "Rouïba"
-                    },
-                    {
-                        "arabic": "الرغاية",
-                        "french": "Reghaïa"
-                    }
-                ]
-            },
-            {
-                "arabic": "زرالدة",
-                "french": "Zéralda",
-                "Baladiyas": [
-                    {
-                        "arabic": "سطاوالي",
-                        "french": "Staoueli"
-                    },
-                    {
-                        "arabic": "زرالدة",
-                        "french": "Zéralda"
-                    },
-                    {
-                        "arabic": "محالمة",
-                        "french": "Mahelma"
-                    },
-                    {
-                        "arabic": "الرحمانية",
-                        "french": "Rahmania"
-                    },
-                    {
-                        "arabic": "السويدانية",
-                        "french": "Souidania"
-                    }
-                ]
-            },
-            {
-                "arabic": "درارية",
-                "french": "Draria",
-                "Baladiyas": [
-                    {
-                        "arabic": "العاشور",
-                        "french": "El Achour"
-                    },
-                    {
-                        "arabic": "درارية",
-                        "french": "Draria"
-                    },
-                    {
-                        "arabic": "الدويرة",
-                        "french": "Douera"
-                    },
-                    {
-                        "arabic": "بابا حسن",
-                        "french": "Baba Hassen"
-                    },
-                    {
-                        "arabic": "الخرايصية",
-                        "french": "Khraicia"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "arabic": "الجلفة",
-        "french": "Djelfa",
-        "matricule": "17",
-        "phoneCodes": ["27"],
-        "Dairas": [
-            {
-                "arabic": "الجلفة",
-                "french": "Djelfa",
-                "Baladiyas": [
-                    {
-                        "arabic": "الجلفة",
-                        "french": "Djelfa"
-                    }
-                ]
-            },
-            {
-                "arabic": "عين وسارة",
-                "french": "َAin Oussera",
-                "Baladiyas": [
-                    {
-                        "arabic": "عين وسارة",
-                        "french": "Ain Oussera"
-                    },
-                    {
-                        "arabic": "القرنيني",
-                        "french": "Guernini"
-                    }
-                ]
-            },
-            {
-                "arabic": "البيرين",
-                "french": "Birine",
-                "Baladiyas": [
-                    {
-                        "arabic": "البيرين",
-                        "french": "Birine"
-                    },
-                    {
-                        "arabic": "بنهار",
-                        "french": "Benhar"
-                    }
-                ]
-            },
-            {
-                "arabic": "سيدي لعجال",
-                "french": "Sidi Laadjel",
-                "Baladiyas": [
-                    {
-                        "arabic": "سيدي لعجال",
-                        "french": "Sidi Laadjel"
-                    },
-                    {
-                        "arabic": "الخميس",
-                        "french": "El Khemis"
-                    },
-                    {
-                        "arabic": "حاسي فدول",
-                        "french": "Hassi Fedoul"
-                    }
-                ]
-            },
-            {
-                "arabic": "حد الصحاري",
-                "french": "Had Esahari",
-                "Baladiyas": [
-                    {
-                        "arabic": "حد الصحاري",
-                        "french": "Had Esahari"
-                    },
-                    {
-                        "arabic": "بويرة الأحداب",
-                        "french": "Bouiret lahdab"
-                    },
-                    {
-                        "arabic": "عين أفقه",
-                        "french": "Ain F'kah"
-                    }
-                ]
-            },
-            {
-                "arabic": "حاسي بحبح",
-                "french": "Hassi Bahbah",
-                "Baladiyas": [
-                    {
-                        "arabic": "حاسي بحبح",
-                        "french": "Hassi Bahbah"
-                    },
-                    {
-                        "arabic": "الزعفران",
-                        "french": "ًZaafrane"
-                    },
-                    {
-                        "arabic": "حاسي العش",
-                        "french": "Hassi Elach"
-                    },
-                    {
-                        "arabic": "عين معبد",
-                        "french": "Ain Maabed"
-                    }
-                ]
-            },
-            {
-                "arabic": "دار الشيوخ",
-                "french": "Dar Echioukh",
-                "Baladiyas": [
-                    {
-                        "arabic": "دار الشيوخ",
-                        "french": "Dar Echioukh"
-                    },
-                    {
-                        "arabic": "المليليحة",
-                        "french": "Mliliha"
-                    },
-                    {
-                        "arabic": "سيدي بايزيد",
-                        "french": "Sidi Baizid"
-                    }
-                ]
-            },
-            {
-                "arabic": "الشارف",
-                "french": "Charef",
-                "Baladiyas": [
-                    {
-                        "arabic": "الشارف",
-                        "french": "Charef"
-                    },
-                    {
-                        "arabic": "القديد",
-                        "french": "Guedid"
-                    },
-                    {
-                        "arabic": "بن يعقوب",
-                        "french": "Ben Yagoub"
-                    }
-                ]
-            },
-            {
-                "arabic": "الإدريسية",
-                "french": "Idrissia",
-                "Baladiyas": [
-                    {
-                        "arabic": "الإدريسية",
-                        "french": "Idrissia"
-                    },
-                    {
-                        "arabic": "الدويس",
-                        "french": "Douis"
-                    },
-                    {
-                        "arabic": "عين الشهداء",
-                        "french": "Ain Chouhada"
-                    }
-                ]
-            },
-            {
-                "arabic": "عين الابل",
-                "french": "Ain Elbel",
-                "Baladiyas": [
-                    {
-                        "arabic": "عين الابل",
-                        "french": "Ain Elbel"
-                    },
-                    {
-                        "arabic": "مجبارة",
-                        "french": "Moudjbara"
-                    },
-                    {
-                        "arabic": "تعضميت",
-                        "french": "Taadmit"
-                    },
-                    {
-                        "arabic": "زكار",
-                        "french": "Zekkar"
-                    }
-                ]
-            },
-            {
-                "arabic": "مسعد",
-                "french": "Tinerkouk",
-                "Baladiyas": [
-                    {
-                        "arabic": "مسعد",
-                        "french": "Messaad"
-                    },
-                    {
-                        "arabic": "دلدول",
-                        "french": "Deldoul"
-                    },
-                    {
-                        "arabic": "سلمانة",
-                        "french": "Salmana"
-                    },
-                    {
-                        "arabic": "سد رحال",
-                        "french": "Sad Rahal"
-                    },
-                    {
-                        "arabic": "قطارة",
-                        "french": "Guettara"
-                    }
-                ]
-            },
-            {
-                "arabic": "فيض البطمة",
-                "french": "Feid Elbotma",
-                "Baladiyas": [
-                    {
-                        "arabic": "فيض البطمة",
-                        "french": "Feid Elbotma"
-                    },
-                    {
-                        "arabic": "عمورة",
-                        "french": "Amoura"
-                    },
-                    {
-                        "arabic": "أم العظام",
-                        "french": "Oum Laadam"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "arabic": "جيجل", 
-        "french": "Jijel",
-        "matricule": "18",
-        "phoneCodes": ["34"],
-        "Dairas": []
-    },
-    {
-        "arabic": "سطيف",
-        "french": "Setif",
-        "matricule": "19",
-        "phoneCodes": ["36"],
-        "Dairas": []
-    },
-    {
-        "arabic": "سعيدة‎",
-        "french": "Saida",
-        "matricule": "20",
-        "phoneCodes": ["48"],
-        "Dairas": []
-    },
-    {
-        "arabic": "سكيكدة",
-        "french": "Skikda",
-        "matricule": "21",
-        "phoneCodes": ["38"],
-        "Dairas": []
-    },
-    {
-        "arabic": "سيدي بلعباس",
-        "french": "Sidi bel abbes",
-        "matricule": "22",
-        "phoneCodes": ["48"],
-        "Dairas": [
-        ]
-    },
-    {
-        "arabic": "عنّابة‎",
-        "french": "Annaba",
-        "matricule": "23",
-        "phoneCodes": ["38"],
-        "Dairas": []
-    },
-    {
-        "arabic": "قالمة‎‎",
-        "french": "Guelma",
-        "matricule": "24",
-        "phoneCodes": ["37"],
-        "Dairas": []
-    },
-    {
-        "arabic": "قسنطينة",
-        "french": "Constantine",
-        "matricule": "25",
-        "phoneCodes": ["31"],
-        "Dairas": []
-    },
-    {
-        "arabic": "المدية",
-        "french": "Medea",
-        "matricule": "26",
-        "phoneCodes": ["25"],
-        "Dairas": [
-        ]
-    },
-    {
-        "arabic": "مستغانم",
-        "french": "Mostaghanem",
-        "matricule": "27",
-        "phoneCodes": ["45"],
-        "Dairas": [
-        ]
-    },
-    {
-        "arabic": "المسيلة",
-        "french": "Msila",
-        "matricule": "28",
-        "phoneCodes": ["35"],
-        "Dairas": [
-        ]
-    },
-    {
-        "arabic": "معسكر",
-        "french": "Mascara",
-        "matricule": "29",
-        "phoneCodes": ["45"],
-        "Dairas": [
-        ]
-    },
-    {
-        "arabic": "ورقلة",
-        "french": "Ouargla",
-        
-        "matricule": "30",
-        "phoneCodes": ["29"],
-        "Dairas": [
-        ]
-    },
-    {
-        "arabic": "وهران",
-        "french": "Oran",
-        "matricule": "31",
-        "phoneCodes": ["41"],
-        "Dairas": [
-            {
-                "arabic": "أرزيو",
-                "french": "ARZEW",
-                "Baladiyas": [
-                    {
-                        "arabic": "أرزيو",
-                        "french": "ARZEW"
-                    },
-                    {
-                        "arabic": "سيدي بن يبقى",
-                        "french": "SIDI BEN YEBKA"
-                    }
-                ]
-            },
-            {
-                "arabic": "بطيوة",
-                "french": "BETHIOUA",
-                "Baladiyas": [
-                    {
-                        "arabic": "عين البية",
-                        "french": "AIN BIYA"
-                    },
-                    {
-                        "arabic": "بطيوة",
-                        "french": "BETHIOUA"
-                    },
-                    {
-                        "arabic": "مرسى الحجاج",
-                        "french": "MARSAT EL HADJADJ"
-                    }
-                ]
-            },
-            {
-                "arabic": "بئر الجير",
-                "french": "BIR EL DJIR",
-                "Baladiyas": [
-                    {
-                        "arabic": "بئر الجير",
-                        "french": "BIR EL DJIR"
-                    },
-                    {
-                        "arabic": "حاسي بن عقبة",
-                        "french": "HASSI BEN OKBA"
-                    },
-                    {
-                        "arabic": "حاسي بونيف",
-                        "french": "HASSI BOUNIF"
-                    }
-                ]
-            },
-            {
-                "arabic": "بوتليليس",
-                "french": "BOUTLELIS",
-                "Baladiyas": [
-                    {
-                        "arabic": "عين الكرمة",
-                        "french": "AIN KERMA"
-                    },
-                    {
-                        "arabic": "بوتليليس",
-                        "french": "BOUTLELIS"
-                    },
-                    {
-                        "arabic": "مسرغين",
-                        "french": "MESSERGHIN"
-                    }
-                ]
-            },
-            {
-                "arabic": "السانية",
-                "french": "ES SENIA",
-                "Baladiyas": [
-                    {
-                        "arabic": "الكرمة",
-                        "french": "EL KERMA"
-                    },
-                    {
-                        "arabic": "السانية",
-                        "french": "ES SENIA"
-                    },
-                    {
-                        "arabic": "سيدي الشحمي",
-                        "french": "SIDI CHAMI"
-                    }
-                ]
-            },
-            {
-                "arabic": "قديل",
-                "french": "GDYEL",
-                "Baladiyas": [
-                    {
-                        "arabic": "بن فريحة",
-                        "french": "BEN FREHA"
-                    },
-                    {
-                        "arabic": "قديل",
-                        "french": "GDYEL"
-                    },
-                    {
-                        "arabic": "حاسي مفسوخ",
-                        "french": "HASSI MEFSOUKH"
-                    }
-                ]
-            },
-            {
-                "arabic": "وهران",
-                "french": "ORAN",
-                "Baladiyas": [
-                    {
-                        "arabic": "وهران",
-                        "french": "ORAN"
-                    }
-                ]
-            },
-            {
-                "arabic": "واد تليلات",
-                "french": "OUED TLELAT",
-                "Baladiyas": [
-                    {
-                        "arabic": "بوفاطيس",
-                        "french": "BOUFATIS"
-                    },
-                    {
-                        "arabic": "البرية",
-                        "french": "EL BRAYA"
-                    },
-                    {
-                        "arabic": "واد تليلات",
-                        "french": "OUED TLELAT"
-                    },
-                    {
-                        "arabic": "طفراوي",
-                        "french": "TAFRAOUI"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "arabic": "البيض",
-        "french": "El Bayadh",
-        "matricule": "32",
-        "phoneCodes": ["49"],
-        "Dairas": []
-    },
-    {
-        "arabic": "اليزي",
-        "french": "Illizi",
-        "matricule": "33",
-        "phoneCodes": ["29"],
-        "Dairas": [
-        ]
-    },
-    {
-        "arabic": "برج بوعريريج",
-        "french": "Bordj Bou Arreridj",
-        "matricule": "34",
-        "phoneCodes": ["35"],
-        "Dairas": [
-            {
-                "arabic": "برج بوعريريج",
-                "french": "Bordj Bou Arreridj",
-                "Baladiyas": [
-                    {
-                        "arabic": "برج بوعريريج",
-                        "french": "Bordj Bou Arreridj"
-                    }
-                ]
-            },
-            {
-                "arabic": "رأس الوادي",
-                "french": "ٌRas El Oued",
-                "Baladiyas": [
-                    {
-                        "arabic": "رأس الوادي",
-                        "french": "ٌRas El Oued"
-                    },
-                    {
-                        "arabic": "عين تسرة",
-                        "french": "Ain Tesra"
-                    },
-                    {
-                        "arabic": "أولاد براهم",
-                        "french": "Ouled Brahem"
-                    }
-                ]
-            },
-            {
-                "arabic": "برج زمورة",
-                "french": "Bordj Zemora",
-                "Baladiyas": [
-                    {
-                        "arabic": "برج زمورة",
-                        "french": "Bordj Zemora"
-                    },
-                    {
-                        "arabic": "أولاد دحمان",
-                        "french": "Ouled Dahmane"
-                    },
-                    {
-                        "arabic": "تاسمرت",
-                        "french": "Tesmart"
-                    }
-                ]
-            },
-            {
-                "arabic": "المنصورة",
-                "french": "Mansoura",
-                "Baladiyas": [
-                    {
-                        "arabic": "المنصورة",
-                        "french": "Mansoura"
-                    },
-                    {
-                        "arabic": "أولاد سيدي إبراهيم",
-                        "french": "Ouled Sidi-Brahim"
-                    },
-                    {
-                        "arabic": "المهير",
-                        "french": "El M'hir"
-                    },
-                    {
-                        "arabic": "بن داود",
-                        "french": "Ben Daoud"
-                    },
-                    {
-                        "arabic": "حرازة",
-                        "french": "Haraza"
-                    }
-                ]
-            },
-            {
-                "arabic": "مجانة",
-                "french": "Medjana",
-                "Baladiyas": [
-                    {
-                        "arabic": "مجانة",
-                        "french": "Medjana"
-                    },
-                    {
-                        "arabic": "ثنية النصر",
-                        "french": "Teniet En Nasr"
-                    },
-                    {
-                        "arabic": "حسناوة",
-                        "french": "Hasnaoua"
-                    },
-                    {
-                        "arabic": "اليشير",
-                        "french": "El Achir"
-                    }
-                ]
-            },
-            {
-                "arabic": "الحمادية",
-                "french": "El Hamadia",
-                "Baladiyas": [
-                    {
-                        "arabic": "الحمادية",
-                        "french": "El Hamadia"
-                    },
-                    {
-                        "arabic": "الرابطة",
-                        "french": "Rabta"
-                    },
-                    {
-                        "arabic": "العش",
-                        "french": "El Ach"
-                    },
-                    {
-                        "arabic": "القصور",
-                        "french": "Ksour"
-                    }
-                ]
-            },
-            {
-                "arabic": "عين تاغروت",
-                "french": "Ain Taghrout",
-                "Baladiyas": [
-                    {
-                        "arabic": "عين تاغروت",
-                        "french": "Ain Taghrout"
-                    },
-                    {
-                        "arabic": "تكستار",
-                        "french": "Tixter"
-                    }
-                ]
-            },
-            {
-                "arabic": "بئر قاصد علي",
-                "french": "Bir Kasd Ali",
-                "Baladiyas": [
-                    {
-                        "arabic": "بئر قاصد علي",
-                        "french": "Bir Kasd Ali"
-                    },
-                    {
-                        "arabic": "خليل",
-                        "french": "Khelil"
-                    },
-                    {
-                        "arabic": "سيدي امبارك",
-                        "french": "Sidi-Embarek"
-                    }
-                ]
-            },
-            {
-                "arabic": "الجعافرة",
-                "french": "Djaafra",
-                "Baladiyas": [
-                    {
-                        "arabic": "الجعافرة",
-                        "french": "Djaafra"
-                    },
-                    {
-                        "arabic": "القلة",
-                        "french": "Colla"
-                    },
-                    {
-                        "arabic": "تفرق",
-                        "french": "Tafreg"
-                    },
-                    {
-                        "arabic": "الماين",
-                        "french": "El Main"
-                    }
-                ]
-            },
-            {
-                "arabic": "برج الغدير",
-                "french": "Bordj Ghdir",
-                "Baladiyas": [
-                    {
-                        "arabic": "برج الغدير",
-                        "french": "Bordj Ghdir"
-                    },
-                    {
-                        "arabic": "تقلعيت",
-                        "french": "Taglait"
-                    },
-                    {
-                        "arabic": "غيلاسة",
-                        "french": "Ghilassa"
-                    },
-                    {
-                        "arabic": "بليمور",
-                        "french": "Belimour"
-                    },
-                    {
-                        "arabic": "العناصر",
-                        "french": "El Anseur"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "arabic": "بومرداس",
-        "french": "Boumerdes",
-        "matricule": "35",
-        "phoneCodes": ["24"],
-        "Dairas": [
-        ]
-    },
-    {
-        "arabic": "الطارف",
-        "french": "El Taref",
-        "matricule": "36",
-        "phoneCodes": ["38"],
-        "Dairas": [
-        ]
-    },
-    {
-        "arabic": "تندوف",
-        "french": "Tindouf",
-        "matricule": "37",
-        "phoneCodes": ["49"],
-        "Dairas": []
-    },
-    {
-        "arabic":"تسمسيلت",
-        "french": "Tissemsilt",
-        "matricule": "38",
-        "phoneCodes": ["46"],
-        "Dairas": []
-    },
-    {
-        "arabic":"الوادي",
-        "french": "El Oued",
-
-        "matricule": "39",
-        "phoneCodes": ["32"],
-        "Dairas": []
-    },
-    {
-        "arabic": "خنشلة",
-        "french": "Khenchla",
-        "matricule": "40",
-        "phoneCodes": ["32"],
-        "Dairas": []
-    },
-    {
-        "arabic": "سوق أهراس",
-        "french": "Souk Ahras",
-        "matricule": "41",
-        "phoneCodes": ["37"],
-        "Dairas": []
-    },
-    {
-        "arabic": "تيبازة",
-        "french": "Tipaza",
-        "matricule": "42",
-        "phoneCodes": ["24"],
-        "Dairas": [
-
-        ]
-    },
-    {
-        "arabic": "ميلة",
-        "french": "Mila",
-        "matricule": "43",
-        "phoneCodes": ["31"],
-        "Dairas": []
-    },
-    {
-        "arabic": "عين الدفلى",
-        "french": "Ain Defla",
-        "matricule": "44",
-        "phoneCodes": ["27"],
-        "Dairas": []
-    },
-    {
-        "arabic": "النعامة",
-        "french": "Naama",
-        "matricule": "45",
-        "phoneCodes": ["49"],
-        "Dairas": []
-    },
-    {
-        "arabic": "عين تموشنت",
-        "french": "Ain Timouchent",
-        "matricule": "46",
-        "phoneCodes": ["43"],
-        "Dairas": []
-    },
-    {
-        "arabic": "غرداية",
-        "french": "Ghardaïa",
-        "matricule": "47",
-        "phoneCodes": ["29"],
-        "Dairas": [
-            {
-                "arabic": "غرداية",
-                "french": "Ghardaïa",
-                "Baladiyas": [
-                    {
-                        "arabic": "غرداية",
-                        "french": "Ghardaïa"
-                    }
-                ]
-            },
-            {
-                "arabic": "المنيعة",
-                "french": "Meniaa",
-                "Baladiyas": [
-                    {
-                        "arabic": "المنيعة",
-                        "french": "Meniaa"
-                    },
-                    {
-                        "arabic": "حاسي قارة",
-                        "french": "Hassi Gara"
-                    }
-                ]
-            },
-            {
-                "arabic": "متليلي الشعانبة",
-                "french": "Metlili",
-                "Baladiyas": [
-                    {
-                        "arabic": "متليلي الشعانبة",
-                        "french": "Metlili"
-                    },
-                    {
-                        "arabic": "سبسب",
-                        "french": "Sebseb"
-                    }
-                ]
-            },
-            {
-                "arabic": "بريان",
-                "french": "Berriane",
-                "Baladiyas": [
-                    {
-                        "arabic": "بريان",
-                        "french": "Berriane"
-                    }
-                ]
-            },
-            {
-                "arabic": "ضاية بن ضحوة",
-                "french": "Dhayet Bendhahoua",
-                "Baladiyas": [
-                    {
-                        "arabic": "ضاية ين ضحوة",
-                        "french": "Dhayet Bendhahoua"
-                    }
-                ]
-            },
-            {
-                "arabic": "المنصورة",
-                "french": "Mansoura",
-                "Baladiyas": [
-                    {
-                        "arabic": "المنصورة",
-                        "french": "Mansoura"
-                    },
-                    {
-                        "arabic": "حاسي الفحل",
-                        "french": "Hassi Fehal"
-                    }
-                ]
-            },
-            {
-                "arabic": "زلقانة",
-                "french": "Zelfana",
-                "Baladiyas": [
-                    {
-                        "arabic": "زلفانة",
-                        "french": "Zelfana"
-                    }
-                ]
-            },
-            {
-                "arabic": "القراراة",
-                "french": "El Guerrara",
-                "Baladiyas": [
-                    {
-                        "arabic": "القرارة",
-                        "french": "El Guerrara"
-                    }
-                ]
-            },
-            {
-                "arabic": "بنورة",
-                "french": "Bounoura",
-                "Baladiyas": [
-                    {
-                        "arabic": "بونورة",
-                        "french": "Bounoura"
-                    },
-                    {
-                        "arabic": "العطف",
-                        "french": "El Atteuf"
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "arabic": "غليزان",
-        "french": "Relizane",
-        "matricule": "48",
-        "phoneCodes": ["46"],
-        "Dairas": [
-            {
-                "arabic": "غليزان",
-                "french": "Relizane",
-                "Baladiyas": [
-                    {
-                        "arabic": "غليزان",
-                        "french": "Relizane"
-                    },
-                    {
-                        "arabic": "بن داود",
-                        "french": "Bendaoud"
-                    }
-                ]
-            },
-            {
-                "arabic": "زمورة",
-                "french": "Zemmora",
-                "Baladiyas": [
-                    {
-                        "arabic": "زمورة",
-                        "french": "Zemmora"
-                    },
-                    {
-                        "arabic": "بني درقن",
-                        "french": "Beni Dergoun"
-                    },
-                    {
-                        "arabic": "دار بن عبد الله",
-                        "french": "Dar Ben Abdellah"
-                    }
-                ]
-            },
-            {
-                "arabic": "الحمادنة",
-                "french": "El Hamadna",
-                "Baladiyas": [
-                    {
-                        "arabic": "الحمادنة",
-                        "french": "El Hamadna"
-                    },
-                    {
-                        "arabic": "واد الجمعة",
-                        "french": "Oued El Djemaa"
-                    }
-                ]
-            },
-            {
-                "arabic": "المطمر",
-                "french": "El Matmar",
-                "Baladiyas": [
-                    {
-                        "arabic": "المطمر",
-                        "french": "El Matmar"
-                    },
-                    {
-                        "arabic": "سيدي امحمد بن عودة",
-                        "french": "Sidi M'Hamed Benaouda"
-                    },
-                    {
-                        "arabic": "بلعسل بوزقزة",
-                        "french": "Belassel Bouzegza"
-                    },
-                    {
-                        "arabic": "سيدي خطاب",
-                        "french": "Sidi Khettab"
-                    }
-                ]
-            },
-            {
-                "arabic": "يلل",
-                "french": "Yellel",
-                "Baladiyas": [
-                    {
-                        "arabic": "يلل",
-                        "french": "Yellel"
-                    },
-                    {
-                        "arabic": "عين الرحمة",
-                        "french": "Aïn Rahma"
-                    },
-                    {
-                        "arabic": "القلعة",
-                        "french": "Kalaa"
-                    },
-                    {
-                        "arabic": "سيدي سعادة",
-                        "french": "Sidi Saada"
-                    }
-                ]
-            },
-            {
-                "arabic": "منداس",
-                "french": "Mendes",
-                "Baladiyas": [
-                    {
-                        "arabic": "منداس",
-                        "french": "Mendes"
-                    },
-                    {
-                        "arabic": "واد السلام",
-                        "french": "Oued Essalem"
-                    },
-                    {
-                        "arabic": "سيدي لزرق",
-                        "french": "Sidi Lazreg"
-                    }
-                ]
-            },
-            {
-                "arabic": "الرمكة",
-                "french": "Ramka",
-                "Baladiyas": [
-                    {
-                        "arabic": "الرمكة",
-                        "french": "Ramka"
-                    },
-                    {
-                        "arabic": "سوق الحد",
-                        "french": "Souk El Had"
-                    }
-                ]
-            },
-            {
-                "arabic": "جديوية",
-                "french": "Djidioua",
-                "Baladiyas": [
-                    {
-                        "arabic": "جديوية",
-                        "french": "Djidioua"
-                    },
-                    {
-                        "arabic": "حمري",
-                        "french": "Hamri"
-                    },
-                    {
-                        "arabic": "اولاد سيدي الميهوب",
-                        "french": "Ouled Sidi Mihoub"
-                    }
-                ]
-            },
-            {
-                "arabic": "عمي موسى",
-                "french": "Ammi Moussa",
-                "Baladiyas": [
-                    {
-                        "arabic": "عمي موسى",
-                        "french": "Ammi Moussa"
-                    },
-                    {
-                        "arabic": "الولجة",
-                        "french": "El Hassi"
-                    },
-                    {
-                        "arabic": "الحاسي",
-                        "french": "El Ouldja"
-                    },
-                    {
-                        "arabic": "اولاد يعيش",
-                        "french": "Ouled Aiche"
-                    }
-                ]
-            },
-            {
-                "arabic": "عين طارق",
-                "french": "Aïn Tarek",
-                "Baladiyas": [
-                    {
-                        "arabic": "عين طارق",
-                        "french": "Aïn Tarek"
-                    },
-                    {
-                        "arabic": "حد الشكالة",
-                        "french": "Had Echkalla"
-                    }
-                ]
-            },
-            {
-                "arabic": "وادي ارهيو",
-                "french": "Oued Rhiou",
-                "Baladiyas": [
-                    {
-                        "arabic": "وادي ارهيو",
-                        "french": "Oued Rhiou"
-                    },
-                    {
-                        "arabic": "مرجة سيدي عابد",
-                        "french": "Merdja Sidi Abed"
-                    },
-                    {
-                        "arabic": "واريزان",
-                        "french": "Ouarizane"
-                    },
-                    {
-                        "arabic": "لحلاف",
-                        "french": "Lahlef"
-                    }
-                ]
-            },
-            {
-                "arabic": "مازونة",
-                "french": "Mazouna",
-                "Baladiyas": [
-                    {
-                        "arabic": "مازونة",
-                        "french": "Mazouna"
-                    },
-                    {
-                        "arabic": "القطار",
-                        "french": "El Guettar"
-                    }
-                ]
-            },
-            {
-                "arabic": "سيدي امحمد بن علي",
-                "french": "Sidi M'Hamed Ben Ali",
-                "Baladiyas": [
-                    {
-                        "arabic": "سيدي امحمد بن علي",
-                        "french": "Sidi M'Hamed Ben Ali"
-                    },
-                    {
-                        "arabic": "بني زنطيس",
-                        "french": "Beni Zentis"
-                    },
-                    {
-                        "arabic": "مديونة",
-                        "french": "Mediouna"
-                    }
-                ]
-            }
-        ]
-    }
+	{
+		"arabic": "ادرار",
+		"french": "Adrar",
+		"matricule": "01",
+		"phoneCodes": [
+			"49"
+		],
+		"Dairas": [
+			{
+				"french": "Adrar",
+				"arabic": "ادرار",
+				"Baladiyas": [
+					{
+						"arabic": "ادرار",
+						"french": "Adrar",
+						"latitude": 27.9716342,
+						"longitude": -0.1869644
+					},
+					{
+						"arabic": "بودة",
+						"french": "Bouda",
+						"latitude": 0,
+						"longitude": 0
+					},
+					{
+						"arabic": "أولاد أحمد تيمى",
+						"french": "Ouled Ahmed Tammi",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 27.9716342,
+				"longitude": -0.1869644
+			},
+			{
+				"french": "Aoulef",
+				"arabic": "أولف",
+				"Baladiyas": [
+					{
+						"arabic": "أولف",
+						"french": "Aoulef",
+						"latitude": 26.9752935,
+						"longitude": 1.0729818
+					},
+					{
+						"arabic": "أقبلى",
+						"french": "Akabli",
+						"latitude": 26.7018955,
+						"longitude": 1.3613923
+					},
+					{
+						"arabic": "تمقتن",
+						"french": "Timekten",
+						"latitude": 27.0225931,
+						"longitude": 1.0442502
+					},
+					{
+						"arabic": "تيت",
+						"french": "Tit",
+						"latitude": 22.9650091,
+						"longitude": 5.194688699999999
+					}
+				],
+				"latitude": 26.9752935,
+				"longitude": 1.0729818
+			},
+			{
+				"french": "Aougrout",
+				"arabic": "أوقروت",
+				"Baladiyas": [
+					{
+						"arabic": "أوقروت",
+						"french": "Aougrout",
+						"latitude": 28.708501,
+						"longitude": 0.3384735
+					},
+					{
+						"arabic": "دلدول",
+						"french": "Deldoul",
+						"latitude": 0,
+						"longitude": 0
+					},
+					{
+						"arabic": "المطارفة",
+						"french": "Metarfa",
+						"latitude": 28.5972281,
+						"longitude": -0.1448182
+					}
+				],
+				"latitude": 28.708501,
+				"longitude": 0.3384735
+			},
+			{
+				"french": "Bordj Badji Mokhtar",
+				"arabic": "برج باجي مختار",
+				"Baladiyas": [
+					{
+						"arabic": "برج باجي مختار",
+						"french": "Bordj Badji Mokhtar",
+						"latitude": 23.760643,
+						"longitude": -0.9056623
+					},
+					{
+						"arabic": "تيمياوين",
+						"french": "Timiaouine",
+						"latitude": 20.8948062,
+						"longitude": 1.6760691
+					}
+				],
+				"latitude": 23.760643,
+				"longitude": -0.9056623
+			},
+			{
+				"french": "Charouine",
+				"arabic": "شروين",
+				"Baladiyas": [
+					{
+						"arabic": "شروين",
+						"french": "Charouine",
+						"latitude": 29.0195565,
+						"longitude": -0.259657
+					},
+					{
+						"arabic": "أولاد عيسى",
+						"french": "Ouled Aissa",
+						"latitude": 36.79634679999999,
+						"longitude": 3.8146526
+					},
+					{
+						"arabic": "طالمين",
+						"french": "Talmine",
+						"latitude": 29.3058956,
+						"longitude": -0.5292015
+					}
+				],
+				"latitude": 29.0195565,
+				"longitude": -0.259657
+			},
+			{
+				"french": "Fenoughil",
+				"arabic": "فنوغيل",
+				"Baladiyas": [
+					{
+						"arabic": "فنوغيل",
+						"french": "Fenoughil",
+						"latitude": 27.6490194,
+						"longitude": -0.3042778
+					},
+					{
+						"arabic": "تامنطيت",
+						"french": "Tamantit",
+						"latitude": 27.7664008,
+						"longitude": -0.266699
+					},
+					{
+						"arabic": "تأماست",
+						"french": "Tamest",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 27.6490194,
+				"longitude": -0.3042778
+			},
+			{
+				"french": "Reggane",
+				"arabic": "رقان",
+				"Baladiyas": [
+					{
+						"arabic": "رقان",
+						"french": "Reggane",
+						"latitude": 24.7015808,
+						"longitude": -0.0000027
+					},
+					{
+						"arabic": "سالى",
+						"french": "Sali",
+						"latitude": 27.0363493,
+						"longitude": -0.0877444
+					}
+				],
+				"latitude": 24.7015808,
+				"longitude": -0.0000027
+			},
+			{
+				"french": "Timimoun",
+				"arabic": "تيميمون",
+				"Baladiyas": [
+					{
+						"arabic": "تيميمون",
+						"french": "Timimoun",
+						"latitude": 29.2609217,
+						"longitude": 0.2385387
+					},
+					{
+						"arabic": "أولاد سعيد",
+						"french": "Ouled Saïd",
+						"latitude": 29.4206093,
+						"longitude": 0.2455769
+					}
+				],
+				"latitude": 29.2609217,
+				"longitude": 0.2385387
+			},
+			{
+				"french": "Tinerkouk",
+				"arabic": "تنيركوك",
+				"Baladiyas": [
+					{
+						"arabic": "تنيركوك",
+						"french": "Tinerkouk",
+						"latitude": 29.711749,
+						"longitude": 0.7105267
+					},
+					{
+						"arabic": "قصر قدور",
+						"french": "Ksar Kaddour",
+						"latitude": 29.5827395,
+						"longitude": 0.3724815
+					}
+				],
+				"latitude": 29.711749,
+				"longitude": 0.7105267
+			},
+			{
+				"french": "Tsabit",
+				"arabic": "تسابيت",
+				"Baladiyas": [
+					{
+						"arabic": "تسابيت",
+						"french": "Tsabit",
+						"latitude": 28.3504036,
+						"longitude": -0.2186041
+					},
+					{
+						"arabic": "السبع",
+						"french": "Sebaa",
+						"latitude": 28.211617,
+						"longitude": -0.1729106
+					}
+				],
+				"latitude": 28.3504036,
+				"longitude": -0.2186041
+			},
+			{
+				"french": "Zaouiet Kounta",
+				"arabic": "زاوية كنتة",
+				"Baladiyas": [
+					{
+						"arabic": "زاوية كنتة",
+						"french": "Zaouiet Kounta",
+						"latitude": 27.2263135,
+						"longitude": -0.2010233
+					},
+					{
+						"arabic": "ان زغمير",
+						"french": "In Zghmir",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 27.2263135,
+				"longitude": -0.2010233
+			},
+			{
+				"french": "Zaouiet Kounta",
+				"arabic": "زاوية كنتة",
+				"Baladiyas": [
+					{
+						"arabic": "زاوية كنتة",
+						"french": "Zaouiet Kounta",
+						"latitude": 27.2263135,
+						"longitude": -0.2010233
+					},
+					{
+						"arabic": "ان زغمير",
+						"french": "In Zghmir",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 27.2263135,
+				"longitude": -0.2010233
+			}
+		],
+		"latitude": 27.9716342,
+		"longitude": -0.1869644
+	},
+	{
+		"arabic": "الشلف",
+		"french": "Chlef",
+		"matricule": "02",
+		"phoneCodes": [
+			"27"
+		],
+		"Dairas": [
+			{
+				"french": "Chlef",
+				"arabic": "الشلف",
+				"Baladiyas": [
+					{
+						"arabic": "الشلف",
+						"french": "الشلف",
+						"latitude": 36.1693515,
+						"longitude": 1.2891036
+					},
+					{
+						"arabic": "سنجاس",
+						"french": "Sendjas",
+						"latitude": 36.0591718,
+						"longitude": 1.4241426
+					}
+				],
+				"latitude": 36.1693515,
+				"longitude": 1.2891036
+			},
+			{
+				"french": "Oued Fodda",
+				"arabic": "وادي الفضة",
+				"Baladiyas": [
+					{
+						"arabic": "وادي الفضة",
+						"french": "Oued Fodda",
+						"latitude": 36.1988388,
+						"longitude": 1.5499211
+					},
+					{
+						"arabic": "بني راشد",
+						"french": "Beni Rached",
+						"latitude": 36.2753891,
+						"longitude": 1.5015009
+					},
+					{
+						"arabic": "أولاد عباس",
+						"french": "Ouled Abbes",
+						"latitude": 36.2212775,
+						"longitude": 1.4918235
+					}
+				],
+				"latitude": 36.1988388,
+				"longitude": 1.5499211
+			},
+			{
+				"french": "El Karimia",
+				"arabic": "الكريمية",
+				"Baladiyas": [
+					{
+						"arabic": "الكريمية",
+						"french": "El Karimia",
+						"latitude": 36.08997910000001,
+						"longitude": 1.5693045
+					},
+					{
+						"arabic": "حرشون",
+						"french": "Harchoun",
+						"latitude": 36.1126987,
+						"longitude": 1.4918235
+					},
+					{
+						"arabic": "بني بوعتاب",
+						"french": "Beni Bouateb",
+						"latitude": 36.0019469,
+						"longitude": 1.6469253
+					}
+				],
+				"latitude": 36.08997910000001,
+				"longitude": 1.5693045
+			},
+			{
+				"french": "Zeboudja",
+				"arabic": "زبوجة",
+				"Baladiyas": [
+					{
+						"arabic": "زبوجة",
+						"french": "Zeboudja",
+						"latitude": 36.4058679,
+						"longitude": 1.4628042
+					},
+					{
+						"arabic": "بنايرية",
+						"french": "Bénairia",
+						"latitude": 36.3540039,
+						"longitude": 1.374987
+					},
+					{
+						"arabic": "بوزغاية",
+						"french": "Bouzeghaia",
+						"latitude": 36.3397492,
+						"longitude": 1.2417743
+					}
+				],
+				"latitude": 36.4058679,
+				"longitude": 1.4628042
+			},
+			{
+				"french": "Ouled Fares",
+				"arabic": "أولاد فارس",
+				"Baladiyas": [
+					{
+						"arabic": "أولاد فارس",
+						"french": "Ouled Fares",
+						"latitude": 36.2316052,
+						"longitude": 1.236999
+					},
+					{
+						"arabic": "شطّية",
+						"french": "Chettia",
+						"latitude": 36.1589988,
+						"longitude": 1.2409799
+					},
+					{
+						"arabic": "لبيض مجاجة",
+						"french": "Labiod Medjadja",
+						"latitude": 36.2767832,
+						"longitude": 1.3855161
+					}
+				],
+				"latitude": 36.2316052,
+				"longitude": 1.236999
+			},
+			{
+				"french": "Boukadir",
+				"arabic": "بوقادير",
+				"Baladiyas": [
+					{
+						"arabic": "بوقادير",
+						"french": "Boukadir",
+						"latitude": 36.0569401,
+						"longitude": 1.1209121
+					},
+					{
+						"arabic": "واد سلي",
+						"french": "Oued Sly",
+						"latitude": 36.1047797,
+						"longitude": 1.2313618
+					},
+					{
+						"arabic": "صبحة",
+						"french": "Sobha",
+						"latitude": 36.1100346,
+						"longitude": 1.110123
+					}
+				],
+				"latitude": 36.0569401,
+				"longitude": 1.1209121
+			},
+			{
+				"french": "Ouled Ben Abdelkader",
+				"arabic": "أولاد بن عبد القادر",
+				"Baladiyas": [
+					{
+						"arabic": "أولاد بن عبد القادر",
+						"french": "Ouled Ben Abdelkader",
+						"latitude": 36.0173924,
+						"longitude": 1.2698475
+					},
+					{
+						"arabic": "الحجّاج",
+						"french": "El Hadjadj",
+						"latitude": 36.0165552,
+						"longitude": 1.3469247
+					}
+				],
+				"latitude": 36.0173924,
+				"longitude": 1.2698475
+			},
+			{
+				"french": "Taougrite",
+				"arabic": "تاوقريت",
+				"Baladiyas": [
+					{
+						"arabic": "تاوقريت",
+						"french": "Taougrite",
+						"latitude": 36.2459846,
+						"longitude": 0.9223635999999998
+					},
+					{
+						"arabic": "الظهرة",
+						"french": "Dahra",
+						"latitude": 36.25736,
+						"longitude": 0.8508345
+					}
+				],
+				"latitude": 36.2459846,
+				"longitude": 0.9223635999999998
+			},
+			{
+				"french": "Aïn Merane",
+				"arabic": "عين مران",
+				"Baladiyas": [
+					{
+						"arabic": "عين مران",
+						"french": "Aïn Merane",
+						"latitude": 36.1608508,
+						"longitude": 0.9778686
+					},
+					{
+						"arabic": "الهرانفة",
+						"french": "Harenfa",
+						"latitude": 36.2449244,
+						"longitude": 1.0514312
+					}
+				],
+				"latitude": 36.1608508,
+				"longitude": 0.9778686
+			},
+			{
+				"french": "Ténès",
+				"arabic": "تنس",
+				"Baladiyas": [
+					{
+						"arabic": "تنس",
+						"french": "Ténès",
+						"latitude": 36.5049038,
+						"longitude": 1.3180042
+					},
+					{
+						"arabic": "سيدي عكّاشة",
+						"french": "Sidi Akkacha",
+						"latitude": 36.4505105,
+						"longitude": 1.3469247
+					},
+					{
+						"arabic": "سيدي عبد الرّحمان",
+						"french": "Sidi Abderrahmane",
+						"latitude": 34.7992061,
+						"longitude": 1.1329034
+					}
+				],
+				"latitude": 36.5049038,
+				"longitude": 1.3180042
+			},
+			{
+				"french": "Abou El Hassan",
+				"arabic": "أبو الحسن",
+				"Baladiyas": [
+					{
+						"arabic": "أبو الحسن",
+						"french": "Abou El Hassan",
+						"latitude": 36.4088563,
+						"longitude": 1.1929114
+					},
+					{
+						"arabic": "تلعصة",
+						"french": "Talassa",
+						"latitude": 36.4288223,
+						"longitude": 1.0849592
+					},
+					{
+						"arabic": "تاجنة",
+						"french": "Tadjena",
+						"latitude": 36.3254557,
+						"longitude": 1.1377008
+					}
+				],
+				"latitude": 36.4088563,
+				"longitude": 1.1929114
+			},
+			{
+				"french": "El Marsa",
+				"arabic": "المرسى",
+				"Baladiyas": [
+					{
+						"arabic": "المرسى",
+						"french": "El Marsa",
+						"latitude": 36.8111249,
+						"longitude": 3.2448731
+					},
+					{
+						"arabic": "مصدّق",
+						"french": "Moussadek",
+						"latitude": 36.3536988,
+						"longitude": 1.0083637
+					}
+				],
+				"latitude": 37.0094161,
+				"longitude": 7.286867999999999
+			},
+			{
+				"french": "Beni Haoua",
+				"arabic": "بني حوّاء",
+				"Baladiyas": [
+					{
+						"arabic": "بني حوّاء",
+						"french": "Beni Haoua",
+						"latitude": 36.4914417,
+						"longitude": 1.5402327
+					},
+					{
+						"arabic": "بريرة",
+						"french": "Breira",
+						"latitude": 36.447678,
+						"longitude": 1.5789994
+					},
+					{
+						"arabic": "واد غوسين",
+						"french": "Oued Goussine",
+						"latitude": 36.5033408,
+						"longitude": 1.4531355
+					}
+				],
+				"latitude": 36.4914417,
+				"longitude": 1.5402327
+			}
+		],
+		"latitude": 36.1548171,
+		"longitude": 1.3256957
+	},
+	{
+		"arabic": "الأغواط",
+		"french": "Laghouat",
+		"matricule": "03",
+		"phoneCodes": [
+			"29"
+		],
+		"Dairas": [
+			{
+				"french": "Aflou",
+				"arabic": "آفلو",
+				"Baladiyas": [
+					{
+						"arabic": "آفلو",
+						"french": "Aflou",
+						"latitude": 34.10748640000001,
+						"longitude": 2.1008486
+					},
+					{
+						"arabic": "سبقاق",
+						"french": "Sebgag",
+						"latitude": 34.3574933,
+						"longitude": 2.0060778
+					},
+					{
+						"arabic": "سيدي بوزيد",
+						"french": "Sidi Bouzid",
+						"latitude": 35.9496788,
+						"longitude": 0.4505253
+					}
+				],
+				"latitude": 34.10748640000001,
+				"longitude": 2.1008486
+			},
+			{
+				"french": "Aïn Madhi",
+				"arabic": "عين ماضي",
+				"Baladiyas": [
+					{
+						"arabic": "عين ماضي",
+						"french": "Aïn Madhi",
+						"latitude": 33.7946585,
+						"longitude": 2.2999821
+					},
+					{
+						"arabic": "تاجموت",
+						"french": "Tadjemout",
+						"latitude": 0,
+						"longitude": 0
+					},
+					{
+						"arabic": "تاجرونة",
+						"french": "Tadjrouna",
+						"latitude": 33.5017476,
+						"longitude": 2.1082083
+					},
+					{
+						"arabic": "الحوايطة",
+						"french": "El Houaita",
+						"latitude": 33.6464873,
+						"longitude": 2.4529976
+					},
+					{
+						"arabic": "الخنق",
+						"french": "Kheneg",
+						"latitude": 33.7453939,
+						"longitude": 2.7954106
+					}
+				],
+				"latitude": 33.7946585,
+				"longitude": 2.2999821
+			},
+			{
+				"french": "Brida",
+				"arabic": "بريدة",
+				"Baladiyas": [
+					{
+						"arabic": "بريدة",
+						"french": "Brida",
+						"latitude": 33.9500722,
+						"longitude": 1.7502311
+					},
+					{
+						"arabic": "تاويالة",
+						"french": "Taouila",
+						"latitude": 33.8689577,
+						"longitude": 1.8635409
+					}
+				],
+				"latitude": 33.9049713,
+				"longitude": 1.7842236
+			},
+			{
+				"french": "El Ghicha",
+				"arabic": "الغيشة",
+				"Baladiyas": [
+					{
+						"arabic": "الغيشة",
+						"french": "El Ghicha",
+						"latitude": 33.9299401,
+						"longitude": 2.1437968
+					}
+				],
+				"latitude": 33.9299401,
+				"longitude": 2.1437968
+			},
+			{
+				"french": "Gueltet Sidi Saâd",
+				"arabic": "قلتة سيدي سعد",
+				"Baladiyas": [
+					{
+						"arabic": "قلتة سيدي سعد",
+						"french": "Gueltat Sidi Saad",
+						"latitude": 34.2962822,
+						"longitude": 1.9416877
+					},
+					{
+						"arabic": "عين سيدي على",
+						"french": "Aïn Sidi Ali",
+						"latitude": 34.1578047,
+						"longitude": 1.5417337
+					},
+					{
+						"arabic": "حاج مشري",
+						"french": "Hadj Mechri",
+						"latitude": 33.9571296,
+						"longitude": 1.5992068
+					},
+					{
+						"arabic": "بيضاء",
+						"french": "Beidha",
+						"latitude": 35.8941421,
+						"longitude": 5.666313
+					}
+				],
+				"latitude": 34.2962822,
+				"longitude": 1.9416877
+			},
+			{
+				"french": "Hassi R'Mel",
+				"arabic": "حاسى الرمل",
+				"Baladiyas": [
+					{
+						"arabic": "حاسى الرمل",
+						"french": "Hassi R'Mel",
+						"latitude": 32.9349916,
+						"longitude": 3.2684215
+					},
+					{
+						"arabic": "حاسى دلاعة",
+						"french": "Hassi Delaa",
+						"latitude": 33.4186197,
+						"longitude": 3.5483781
+					}
+				],
+				"latitude": 32.9349916,
+				"longitude": 3.2684215
+			},
+			{
+				"french": "Ksar El Hirane",
+				"arabic": "قصر الحيران",
+				"Baladiyas": [
+					{
+						"arabic": "قصر الحيران",
+						"french": "Ksar El Hirane",
+						"latitude": 33.7847662,
+						"longitude": 3.1328011
+					},
+					{
+						"arabic": "بن ناصر بن شهرة",
+						"french": "Bennasser Benchohra",
+						"latitude": 33.7516533,
+						"longitude": 3.0050628
+					}
+				],
+				"latitude": 33.7847662,
+				"longitude": 3.1328011
+			},
+			{
+				"french": "Laghouat",
+				"arabic": "الاغواط",
+				"Baladiyas": [
+					{
+						"arabic": "الاغواط",
+						"french": "Laghouat",
+						"latitude": 33.8001282,
+						"longitude": 2.8697104
+					}
+				],
+				"latitude": 33.8001282,
+				"longitude": 2.8697104
+			},
+			{
+				"french": "Oued Morra",
+				"arabic": "واد مرة",
+				"Baladiyas": [
+					{
+						"arabic": "واد مرة",
+						"french": "Oued Morra",
+						"latitude": 34.1662498,
+						"longitude": 2.3246016
+					},
+					{
+						"arabic": "واد مزي",
+						"french": "Oued M'Zi",
+						"latitude": 33.9236042,
+						"longitude": 2.4345938
+					}
+				],
+				"latitude": 34.1662498,
+				"longitude": 2.3246016
+			},
+			{
+				"french": "Sidi Makhlouf",
+				"arabic": "سيدي مخلوف",
+				"Baladiyas": [
+					{
+						"arabic": "سيدي مخلوف",
+						"french": "Sidi Makhlouf",
+						"latitude": 34.127625,
+						"longitude": 3.014781
+					},
+					{
+						"arabic": "العاسفية",
+						"french": "El Assafia",
+						"latitude": 33.824559,
+						"longitude": 2.990057
+					}
+				],
+				"latitude": 34.127625,
+				"longitude": 3.014781
+			}
+		],
+		"latitude": 33.8001282,
+		"longitude": 2.8697104
+	},
+	{
+		"arabic": "أم البواقي",
+		"french": "Oum El Bouaghi",
+		"matricule": "04",
+		"phoneCodes": [
+			"32"
+		],
+		"Dairas": [
+			{
+				"french": "Oum El Bouaghi",
+				"arabic": "أم البواقي",
+				"Baladiyas": [
+					{
+						"arabic": "أم البواقي",
+						"french": "Oum El Bouaghi",
+						"latitude": 35.7881449,
+						"longitude": 7.179025999999999
+					},
+					{
+						"arabic": "عين الزيتون",
+						"french": "Aïn Zitoun",
+						"latitude": 35.6842651,
+						"longitude": 6.935674
+					}
+				],
+				"latitude": 35.873056,
+				"longitude": 7.1197867
+			},
+			{
+				"french": "Aïn Babouche",
+				"arabic": "عين ببوش",
+				"Baladiyas": [
+					{
+						"arabic": "عين ببوش",
+						"french": "Aïn Babouche",
+						"latitude": 35.9425396,
+						"longitude": 7.181719999999999
+					},
+					{
+						"arabic": "عين الديس",
+						"french": "Aïn Diss",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 35.9425396,
+				"longitude": 7.181719999999999
+			},
+			{
+				"french": "Ksar Sbahi",
+				"arabic": "قصر الصباحى",
+				"Baladiyas": [
+					{
+						"arabic": "قصر الصباحى",
+						"french": "Ksar Sbahi",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 0,
+				"longitude": 0
+			},
+			{
+				"french": "Aïn Béïda",
+				"arabic": "عين البيضاء",
+				"Baladiyas": [
+					{
+						"arabic": "عين البيضاء",
+						"french": "Aïn Béïda",
+						"latitude": 35.7981327,
+						"longitude": 7.392173400000001
+					},
+					{
+						"arabic": "الزرق",
+						"french": "Zorg",
+						"latitude": 35.8392803,
+						"longitude": 7.4704445
+					},
+					{
+						"arabic": "بريش",
+						"french": "Berriche",
+						"latitude": 35.9144973,
+						"longitude": 7.3759671
+					}
+				],
+				"latitude": 35.7981327,
+				"longitude": 7.392173400000001
+			},
+			{
+				"french": "Fkirina",
+				"arabic": "فكيرينة",
+				"Baladiyas": [
+					{
+						"arabic": "فكيرينة",
+						"french": "Fkirina",
+						"latitude": 35.6640497,
+						"longitude": 7.300360400000001
+					},
+					{
+						"arabic": "وادى نينى",
+						"french": "Oued Nini",
+						"latitude": 35.5700761,
+						"longitude": 7.347604800000001
+					}
+				],
+				"latitude": 35.6640497,
+				"longitude": 7.300360400000001
+			},
+			{
+				"french": "Ain M’lila",
+				"arabic": "عين مليلة",
+				"Baladiyas": [
+					{
+						"arabic": "عين مليلة",
+						"french": "Ain M’lila",
+						"latitude": 36.0189518,
+						"longitude": 6.556988199999999
+					},
+					{
+						"arabic": "أولاد قاسم",
+						"french": "Ouled Gacem",
+						"latitude": 36.4858668,
+						"longitude": 3.5502751
+					},
+					{
+						"arabic": "أولاد حملة",
+						"french": "Ouled Hamla",
+						"latitude": 36.0669135,
+						"longitude": 6.471658
+					}
+				],
+				"latitude": 36.0189518,
+				"longitude": 6.556988199999999
+			},
+			{
+				"french": "Souk Naamane",
+				"arabic": "سوق نعمان",
+				"Baladiyas": [
+					{
+						"arabic": "سوق نعمان",
+						"french": "Souk Naamane",
+						"latitude": 35.9414231,
+						"longitude": 6.386442799999999
+					},
+					{
+						"arabic": "بئر الشهداء",
+						"french": "Bir Chouhada",
+						"latitude": 35.8966254,
+						"longitude": 6.2925058
+					},
+					{
+						"arabic": "اولاد زواي",
+						"french": "Ouled Zouaï",
+						"latitude": 35.8477341,
+						"longitude": 6.5143087
+					}
+				],
+				"latitude": 35.9414231,
+				"longitude": 6.386442799999999
+			},
+			{
+				"french": "Aïn Fakroun",
+				"arabic": "عين فكرون",
+				"Baladiyas": [
+					{
+						"arabic": "عين فكرون",
+						"french": "Aïn Fakroun",
+						"latitude": 35.9736892,
+						"longitude": 6.8708486
+					},
+					{
+						"arabic": "",
+						"french": "El Fedjouz Boughrara Saoudi",
+						"latitude": 35.7091676,
+						"longitude": 6.821031899999999
+					}
+				],
+				"latitude": 35.9736892,
+				"longitude": 6.8708486
+			},
+			{
+				"french": "Sigus",
+				"arabic": "سيقوس",
+				"Baladiyas": [
+					{
+						"arabic": "",
+						"french": "Sigus",
+						"latitude": 36.09368440000001,
+						"longitude": 6.770813800000001
+					},
+					{
+						"arabic": "",
+						"french": "El Amiria",
+						"latitude": 35.5259362,
+						"longitude": -1.0179304
+					}
+				],
+				"latitude": 36.09368440000001,
+				"longitude": 6.770813800000001
+			},
+			{
+				"french": "Ain Kercha",
+				"arabic": "عين كرشة",
+				"Baladiyas": [
+					{
+						"arabic": "عين كرشة",
+						"french": "Ain Kercha",
+						"latitude": 35.9302835,
+						"longitude": 6.6905458
+					},
+					{
+						"arabic": "الحرملية",
+						"french": "El Harmilia",
+						"latitude": 35.9245726,
+						"longitude": 6.6223966
+					},
+					{
+						"arabic": "هنشير تومغانى",
+						"french": "Hanchir Toumghani",
+						"latitude": 35.9355726,
+						"longitude": 6.7413706
+					}
+				],
+				"latitude": 35.9302835,
+				"longitude": 6.6905458
+			},
+			{
+				"french": "Meskiana",
+				"arabic": "مسكيانة",
+				"Baladiyas": [
+					{
+						"arabic": "مسكيانة",
+						"french": "Meskiana",
+						"latitude": 35.6328262,
+						"longitude": 7.6710889
+					},
+					{
+						"arabic": "بحير الشرقي",
+						"french": "Behir Chergui",
+						"latitude": 35.7940171,
+						"longitude": 7.7185878
+					},
+					{
+						"arabic": "البلالة",
+						"french": "El Belala",
+						"latitude": 35.6653463,
+						"longitude": 7.788537400000001
+					},
+					{
+						"arabic": "الراحية",
+						"french": "Rahia",
+						"latitude": 35.7120348,
+						"longitude": 7.665158399999999
+					}
+				],
+				"latitude": 35.6328262,
+				"longitude": 7.6710889
+			},
+			{
+				"french": "Dhalaa",
+				"arabic": "الضلعة",
+				"Baladiyas": [
+					{
+						"arabic": "الضلعة",
+						"french": "Dhalaa",
+						"latitude": 35.4582557,
+						"longitude": 7.549096999999999
+					},
+					{
+						"arabic": "الجازية",
+						"french": "El Djazia",
+						"latitude": 35.6635514,
+						"longitude": 7.507127099999999
+					}
+				],
+				"latitude": 35.4582557,
+				"longitude": 7.549096999999999
+			}
+		],
+		"latitude": 35.7881449,
+		"longitude": 7.179025999999999
+	},
+	{
+		"arabic": "باتنة",
+		"french": "Batna",
+		"matricule": "05",
+		"phoneCodes": [
+			"33"
+		],
+		"Dairas": [
+			{
+				"french": "Ain Djasser",
+				"arabic": "عين جاسر",
+				"Baladiyas": [
+					{
+						"arabic": "عين جاسر",
+						"french": "Ain Djasser",
+						"latitude": 35.8308281,
+						"longitude": 6.0044121
+					},
+					{
+						"arabic": "الحاسى",
+						"french": "El Hassi",
+						"latitude": 35.7790971,
+						"longitude": 5.951539899999999
+					}
+				],
+				"latitude": 35.8308281,
+				"longitude": 6.0044121
+			},
+			{
+				"french": "Aïn Touta",
+				"arabic": "عين التوتة",
+				"Baladiyas": [
+					{
+						"arabic": "عين التوتة",
+						"french": "Aïn Touta",
+						"latitude": 35.3991089,
+						"longitude": 5.9198387
+					},
+					{
+						"arabic": "بنى فضالة الحقانية",
+						"french": "Ben Foudhala El Hakania",
+						"latitude": 35.3928288,
+						"longitude": 6.0467429
+					},
+					{
+						"arabic": "معافة",
+						"french": "Maafa",
+						"latitude": 35.269936,
+						"longitude": 5.8775964
+					},
+					{
+						"arabic": "أولاد عوف",
+						"french": "Ouled Aouf",
+						"latitude": 35.450956,
+						"longitude": 5.751047499999999
+					}
+				],
+				"latitude": 35.3991089,
+				"longitude": 5.9198387
+			},
+			{
+				"french": "Arris",
+				"arabic": "أريس",
+				"Baladiyas": [
+					{
+						"arabic": "أريس",
+						"french": "Arris",
+						"latitude": 35.3005374,
+						"longitude": 6.354516900000001
+					},
+					{
+						"arabic": "تغانمين",
+						"french": "Tighanimine",
+						"latitude": 35.1955527,
+						"longitude": 6.2694608
+					}
+				],
+				"latitude": 35.3005374,
+				"longitude": 6.354516900000001
+			},
+			{
+				"french": "Barika",
+				"arabic": "بريكة",
+				"Baladiyas": [
+					{
+						"arabic": "بريكة",
+						"french": "Barika",
+						"latitude": 35.3845934,
+						"longitude": 5.2893433
+					},
+					{
+						"arabic": "أمدوكل",
+						"french": "M'doukel",
+						"latitude": 35.1270837,
+						"longitude": 5.1640605
+					},
+					{
+						"arabic": "بيطام",
+						"french": "Bitam",
+						"latitude": 35.1408805,
+						"longitude": 5.3520876
+					}
+				],
+				"latitude": 35.3845934,
+				"longitude": 5.2893433
+			},
+			{
+				"french": "Batna",
+				"arabic": "باتنة",
+				"Baladiyas": [
+					{
+						"arabic": "باتنة",
+						"french": "Batna",
+						"latitude": 35.5610218,
+						"longitude": 6.173911599999999
+					},
+					{
+						"arabic": "فسديس",
+						"french": "Fesdis",
+						"latitude": 35.6127845,
+						"longitude": 6.2269763
+					},
+					{
+						"arabic": "وادى الشعبة",
+						"french": "Oued Chaaba",
+						"latitude": 35.5238393,
+						"longitude": 6.0467429
+					}
+				],
+				"latitude": 35.5610218,
+				"longitude": 6.173911599999999
+			},
+			{
+				"french": "Bouzina",
+				"arabic": "بوزينة",
+				"Baladiyas": [
+					{
+						"arabic": "بوزينة",
+						"french": "Bouzina",
+						"latitude": 35.26989530000001,
+						"longitude": 6.0996978
+					},
+					{
+						"arabic": "لارباع",
+						"french": "Larbaâ",
+						"latitude": 36.5893036,
+						"longitude": 3.1578875
+					}
+				],
+				"latitude": 35.26989530000001,
+				"longitude": 6.0996978
+			},
+			{
+				"french": "Chemora",
+				"arabic": "شمرة",
+				"Baladiyas": [
+					{
+						"arabic": "شمرة",
+						"french": "Chemora",
+						"latitude": 35.6256226,
+						"longitude": 6.5996963
+					},
+					{
+						"arabic": "بولهيلات",
+						"french": "Boulhilat",
+						"latitude": 35.7538128,
+						"longitude": 6.642433
+					}
+				],
+				"latitude": 35.6256226,
+				"longitude": 6.5996963
+			},
+			{
+				"french": "Djezzar",
+				"arabic": "الجزار",
+				"Baladiyas": [
+					{
+						"arabic": "الجزار",
+						"french": "Djezzar",
+						"latitude": 35.51389229999999,
+						"longitude": 5.3311652
+					},
+					{
+						"arabic": "أولاد عمار",
+						"french": "Ouled Ammar",
+						"latitude": 35.4774579,
+						"longitude": 5.1640605
+					},
+					{
+						"arabic": "عزيل عبد القادر",
+						"french": "Abdelkader Azil",
+						"latitude": 35.3304811,
+						"longitude": 5.018246
+					}
+				],
+				"latitude": 35.51389229999999,
+				"longitude": 5.3311652
+			},
+			{
+				"french": "El Madher",
+				"arabic": "المعذر",
+				"Baladiyas": [
+					{
+						"arabic": "المعذر",
+						"french": "El Madher",
+						"latitude": 35.6371149,
+						"longitude": 6.386442799999999
+					},
+					{
+						"arabic": "عين ياقوت",
+						"french": "Aïn Yagout",
+						"latitude": 35.8088781,
+						"longitude": 6.429036
+					},
+					{
+						"arabic": "بومية",
+						"french": "Boumia",
+						"latitude": 35.7173264,
+						"longitude": 6.5143087
+					},
+					{
+						"arabic": "جرمة",
+						"french": "Djerma",
+						"latitude": 35.6851412,
+						"longitude": 6.3013432
+					}
+				],
+				"latitude": 35.6371149,
+				"longitude": 6.386442799999999
+			},
+			{
+				"french": "Ichmoul",
+				"arabic": "إيشمول",
+				"Baladiyas": [
+					{
+						"arabic": "إيشمول",
+						"french": "Ichmoul",
+						"latitude": 35.285666,
+						"longitude": 6.429036
+					},
+					{
+						"arabic": "فم الطوب",
+						"french": "Foum Toub",
+						"latitude": 35.368536,
+						"longitude": 6.5143087
+					},
+					{
+						"arabic": "اينوغيسن",
+						"french": "Inoughissen",
+						"latitude": 35.2684424,
+						"longitude": 6.5463156
+					}
+				],
+				"latitude": 35.285666,
+				"longitude": 6.429036
+			},
+			{
+				"french": "Menaa",
+				"arabic": "منعة",
+				"Baladiyas": [
+					{
+						"arabic": "منعة",
+						"french": "Menaa",
+						"latitude": 35.1280608,
+						"longitude": 6.089103199999999
+					},
+					{
+						"arabic": "تغرغار",
+						"french": "Tigherghar",
+						"latitude": 35.0905115,
+						"longitude": 5.9621106
+					}
+				],
+				"latitude": 35.1280608,
+				"longitude": 6.089103199999999
+			},
+			{
+				"french": "Merouana",
+				"arabic": "مروانة",
+				"Baladiyas": [
+					{
+						"arabic": "مروانة",
+						"french": "Merouana",
+						"latitude": 35.6287744,
+						"longitude": 5.909275399999999
+					},
+					{
+						"arabic": "وادى الماء",
+						"french": "Oued El Ma",
+						"latitude": 35.6567552,
+						"longitude": 6.0044121
+					},
+					{
+						"arabic": "قصر بلازمة",
+						"french": "Ksar Bellezma",
+						"latitude": 35.706563,
+						"longitude": 5.8775964
+					},
+					{
+						"arabic": "حيدوسة",
+						"french": "Hidoussa",
+						"latitude": 35.5301294,
+						"longitude": 5.9198387
+					}
+				],
+				"latitude": 35.6287744,
+				"longitude": 5.909275399999999
+			},
+			{
+				"french": "N'Gaous",
+				"arabic": "نقاوس",
+				"Baladiyas": [
+					{
+						"arabic": "نقاوس",
+						"french": "N'Gaous",
+						"latitude": 35.5566128,
+						"longitude": 5.593239
+					},
+					{
+						"arabic": "بومقر",
+						"french": "Boumague",
+						"latitude": 35.4930629,
+						"longitude": 5.551228
+					},
+					{
+						"arabic": "سفيان",
+						"french": "Sefiane",
+						"latitude": 35.4255853,
+						"longitude": 5.593239
+					}
+				],
+				"latitude": 35.5566128,
+				"longitude": 5.593239
+			},
+			{
+				"french": "Ouled Si Slimane",
+				"arabic": "أولاد سى سليمان",
+				"Baladiyas": [
+					{
+						"arabic": "أولاد سى سليمان",
+						"french": "Ouled Si Slimane",
+						"latitude": 35.5859034,
+						"longitude": 5.6668306
+					},
+					{
+						"arabic": "تاكسلانت",
+						"french": "Taxlent",
+						"latitude": 35.5799027,
+						"longitude": 5.7932008
+					},
+					{
+						"arabic": "لمسان",
+						"french": "Lemsane",
+						"latitude": 35.6349128,
+						"longitude": 5.7826597
+					}
+				],
+				"latitude": 35.5859034,
+				"longitude": 5.6668306
+			},
+			{
+				"french": "Ras El Aioun",
+				"arabic": "رأس العيون",
+				"Baladiyas": [
+					{
+						"arabic": "رأس العيون",
+						"french": "Ras Ei Aioun",
+						"latitude": 35.6770224,
+						"longitude": 5.5827334
+					},
+					{
+						"arabic": "القصبات",
+						"french": "Gosbat",
+						"latitude": 35.6391967,
+						"longitude": 5.456813299999999
+					},
+					{
+						"arabic": "قيقبة",
+						"french": "Guigba",
+						"latitude": 35.73196009999999,
+						"longitude": 5.572229699999999
+					},
+					{
+						"arabic": "الرحبات",
+						"french": "Rahbat",
+						"latitude": 35.7280419,
+						"longitude": 5.6563119
+					},
+					{
+						"arabic": "تالخمت",
+						"french": "Talkhamt",
+						"latitude": 35.71267030000001,
+						"longitude": 5.751047499999999
+					},
+					{
+						"arabic": "",
+						"french": "Ouled Sellam",
+						"latitude": 35.8411857,
+						"longitude": 5.7932008
+					}
+				],
+				"latitude": 35.6770224,
+				"longitude": 5.5827334
+			},
+			{
+				"french": "Seggana",
+				"arabic": "أولاد سلام",
+				"Baladiyas": [
+					{
+						"arabic": "رقانة",
+						"french": "Seggana",
+						"latitude": 35.3295911,
+						"longitude": 5.5407299
+					},
+					{
+						"arabic": "تيلاطو",
+						"french": "Tilatou",
+						"latitude": 35.28194149999999,
+						"longitude": 5.624766999999999
+					}
+				],
+				"latitude": 35.8411857,
+				"longitude": 5.7932008
+			},
+			{
+				"french": "Seriana",
+				"arabic": "سريانة",
+				"Baladiyas": [
+					{
+						"arabic": "سريانة",
+						"french": "Seriana",
+						"latitude": 35.6917406,
+						"longitude": 6.173911599999999
+					},
+					{
+						"arabic": "لازرو",
+						"french": "Lazrou",
+						"latitude": 35.7721622,
+						"longitude": 6.3013432
+					},
+					{
+						"arabic": "زانة البيضاء",
+						"french": "Zanat El Beida",
+						"latitude": 35.8037586,
+						"longitude": 6.1102943
+					}
+				],
+				"latitude": 35.6917406,
+				"longitude": 6.173911599999999
+			},
+			{
+				"french": "Tazoult",
+				"arabic": "تازولت",
+				"Baladiyas": [
+					{
+						"arabic": "تازولت",
+						"french": "Tazoult",
+						"latitude": 35.5130278,
+						"longitude": 6.258836899999999
+					},
+					{
+						"arabic": "عيون العصافير",
+						"french": "Ouyoun El Assafir",
+						"latitude": 35.552203,
+						"longitude": 6.3438785
+					}
+				],
+				"latitude": 35.5130278,
+				"longitude": 6.258836899999999
+			},
+			{
+				"french": "Teniet El Abed",
+				"arabic": "ثنية العابد",
+				"Baladiyas": [
+					{
+						"arabic": "ثنية العابد",
+						"french": "Teniet El Abed",
+						"latitude": 35.2842005,
+						"longitude": 6.2482149
+					},
+					{
+						"arabic": "وادي الطاقة",
+						"french": "Oued Taga",
+						"latitude": 35.4212867,
+						"longitude": 6.3438785
+					},
+					{
+						"arabic": "شير",
+						"french": "Chir",
+						"latitude": 35.2135627,
+						"longitude": 6.131492799999999
+					}
+				],
+				"latitude": 35.2842005,
+				"longitude": 6.2482149
+			},
+			{
+				"french": "Timgad",
+				"arabic": "تيمقاد",
+				"Baladiyas": [
+					{
+						"arabic": "تيمقاد",
+						"french": "Timgad",
+						"latitude": 35.4995081,
+						"longitude": 6.5143087
+					},
+					{
+						"arabic": "أولاد فاضل",
+						"french": "Ouled Fadel",
+						"latitude": 35.5337671,
+						"longitude": 6.685198199999999
+					}
+				],
+				"latitude": 35.4995081,
+				"longitude": 6.5143087
+			},
+			{
+				"french": "T'kout",
+				"arabic": "تكوت",
+				"Baladiyas": [
+					{
+						"arabic": "تكوت",
+						"french": "T'Kout",
+						"latitude": 35.1588259,
+						"longitude": 6.3438785
+					},
+					{
+						"arabic": "كيمل",
+						"french": "Kimmel",
+						"latitude": 34.9766508,
+						"longitude": 6.471658
+					},
+					{
+						"arabic": "غسيرة",
+						"french": "Ghassira",
+						"latitude": 35.0777543,
+						"longitude": 6.2163597
+					}
+				],
+				"latitude": 35.1588259,
+				"longitude": 6.3438785
+			}
+		],
+		"latitude": 35.5610218,
+		"longitude": 6.173911599999999
+	},
+	{
+		"arabic": "بجاية",
+		"french": "Béjaïa",
+		"matricule": "06",
+		"phoneCodes": [
+			"34"
+		],
+		"Dairas": [
+			{
+				"french": "Béjaïa",
+				"arabic": "بجاية",
+				"Baladiyas": [
+					{
+						"arabic": "بجاية",
+						"french": "Béjaïa",
+						"latitude": 36.7508896,
+						"longitude": 5.056733299999999
+					},
+					{
+						"arabic": "وادي غير",
+						"french": "Oued ghir",
+						"latitude": 36.7093915,
+						"longitude": 4.9795489
+					}
+				],
+				"latitude": 36.7508896,
+				"longitude": 5.056733299999999
+			},
+			{
+				"french": "Adekar",
+				"arabic": "ادكار",
+				"Baladiyas": [
+					{
+						"arabic": "ادكار",
+						"french": "Adekar",
+						"latitude": 36.6942103,
+						"longitude": 4.669073
+					},
+					{
+						"arabic": "تاوريرت اغيل",
+						"french": "Taourirt Ighil",
+						"latitude": 36.72021549999999,
+						"longitude": 4.738101299999999
+					},
+					{
+						"arabic": "بنى كسيلة",
+						"french": "Beni Ksila",
+						"latitude": 36.839681,
+						"longitude": 4.707061599999999
+					}
+				],
+				"latitude": 36.6942103,
+				"longitude": 4.669073
+			},
+			{
+				"french": "Akbou",
+				"arabic": "أقبو",
+				"Baladiyas": [
+					{
+						"arabic": "أقبو",
+						"french": "Akbou",
+						"latitude": 36.45901610000001,
+						"longitude": 4.5334783
+					},
+					{
+						"arabic": "شلاطة",
+						"french": "Chellata",
+						"latitude": 36.5135502,
+						"longitude": 4.5108862
+					},
+					{
+						"arabic": "اغرام",
+						"french": "Ighram",
+						"latitude": 36.4624661,
+						"longitude": 4.5048939
+					},
+					{
+						"arabic": "تمقرة",
+						"french": "Tamokra",
+						"latitude": 36.3983738,
+						"longitude": 4.667343199999999
+					}
+				],
+				"latitude": 36.45901610000001,
+				"longitude": 4.5334783
+			},
+			{
+				"french": "Amizour",
+				"arabic": "أميزور",
+				"Baladiyas": [
+					{
+						"arabic": "أميزور",
+						"french": "Amizour",
+						"latitude": 36.6421159,
+						"longitude": 4.903334
+					},
+					{
+						"arabic": "بني جليل",
+						"french": "Beni Djellil",
+						"latitude": 36.5729271,
+						"longitude": 4.810767999999999
+					},
+					{
+						"arabic": "سمعون",
+						"french": "Semaoun",
+						"latitude": 36.61496100000001,
+						"longitude": 4.823662
+					},
+					{
+						"arabic": "فرعون",
+						"french": "Ferraoun",
+						"latitude": 36.55740470000001,
+						"longitude": 4.8647019
+					}
+				],
+				"latitude": 36.6421159,
+				"longitude": 4.903334
+			},
+			{
+				"french": "Aokas",
+				"arabic": "أوقاس",
+				"Baladiyas": [
+					{
+						"arabic": "أوقاس",
+						"french": "Aokas",
+						"latitude": 36.6369535,
+						"longitude": 5.2440622
+					},
+					{
+						"arabic": "تيزي أنبربار",
+						"french": "Tizi N'Berber",
+						"latitude": 36.6134619,
+						"longitude": 5.2176317
+					}
+				],
+				"latitude": 36.6369535,
+				"longitude": 5.2440622
+			},
+			{
+				"french": "Barbacha",
+				"arabic": "برباشة",
+				"Baladiyas": [
+					{
+						"arabic": "برباشة",
+						"french": "Barbacha",
+						"latitude": 36.5729398,
+						"longitude": 4.971239
+					},
+					{
+						"arabic": "كنديرة",
+						"french": "Kendira",
+						"latitude": 36.5404083,
+						"longitude": 5.0268199
+					}
+				],
+				"latitude": 36.5729398,
+				"longitude": 4.971239
+			},
+			{
+				"french": "Beni Maouche",
+				"arabic": "بني معوش",
+				"Baladiyas": [
+					{
+						"arabic": "بني معوش",
+						"french": "Beni Maouche",
+						"latitude": 36.5070785,
+						"longitude": 4.7578312
+					}
+				],
+				"latitude": 36.5070785,
+				"longitude": 4.7578312
+			},
+			{
+				"french": "Chemini",
+				"arabic": "شميني",
+				"Baladiyas": [
+					{
+						"arabic": "شميني",
+						"french": "Chemini",
+						"latitude": 36.5956868,
+						"longitude": 4.6152308
+					},
+					{
+						"arabic": "طيبان",
+						"french": "Tibane",
+						"latitude": 36.6127223,
+						"longitude": 4.6513509
+					},
+					{
+						"arabic": "سوق أوفلة",
+						"french": "Souk Oufella",
+						"latitude": 36.6114371,
+						"longitude": 4.6295394
+					},
+					{
+						"arabic": "أكفادو",
+						"french": "Akfadou",
+						"latitude": 36.6307165,
+						"longitude": 4.6243989
+					}
+				],
+				"latitude": 36.5956868,
+				"longitude": 4.6152308
+			},
+			{
+				"french": "Tazmalt",
+				"arabic": "تازمالت",
+				"Baladiyas": [
+					{
+						"arabic": "تازمالت",
+						"french": "Tazmalt",
+						"latitude": 36.3878041,
+						"longitude": 4.4079213
+					},
+					{
+						"arabic": "بني مليكش",
+						"french": "Beni Mellikeche",
+						"latitude": 36.4463751,
+						"longitude": 4.414018899999999
+					},
+					{
+						"arabic": "بوجليل",
+						"french": "Boudjellil",
+						"latitude": 36.3506738,
+						"longitude": 4.4111706
+					}
+				],
+				"latitude": 36.3878041,
+				"longitude": 4.4079213
+			},
+			{
+				"french": "Darguina",
+				"arabic": "درقينة",
+				"Baladiyas": [
+					{
+						"arabic": "درقينة",
+						"french": "Darguina",
+						"latitude": 36.5646323,
+						"longitude": 5.305989600000001
+					},
+					{
+						"arabic": "آيت سماعيل",
+						"french": "Aït Smail",
+						"latitude": 36.5463433,
+						"longitude": 5.2302325
+					},
+					{
+						"arabic": "تاسكريوت",
+						"french": "Taskriout",
+						"latitude": 36.5519437,
+						"longitude": 5.284117699999999
+					}
+				],
+				"latitude": 36.5646323,
+				"longitude": 5.305989600000001
+			},
+			{
+				"french": "El Kseur",
+				"arabic": "القصر",
+				"Baladiyas": [
+					{
+						"arabic": "القصر",
+						"french": "El Kseur",
+						"latitude": 36.6775642,
+						"longitude": 4.8493244
+					},
+					{
+						"arabic": "فناية الماثن",
+						"french": "Fenaïa Ilmaten",
+						"latitude": 36.6691075,
+						"longitude": 4.768057499999999
+					},
+					{
+						"arabic": "توجة",
+						"french": "Toudja",
+						"latitude": 36.7490754,
+						"longitude": 4.8899903
+					}
+				],
+				"latitude": 36.6775642,
+				"longitude": 4.8493244
+			},
+			{
+				"french": "Ighil Ali",
+				"arabic": "إغيل علي",
+				"Baladiyas": [
+					{
+						"arabic": "إغيل علي",
+						"french": "Ighil Ali",
+						"latitude": 36.3379865,
+						"longitude": 4.4702131
+					},
+					{
+						"arabic": "آيت أرزين",
+						"french": "Aït R'zine",
+						"latitude": 36.3831907,
+						"longitude": 4.5315029
+					}
+				],
+				"latitude": 36.3379865,
+				"longitude": 4.4702131
+			},
+			{
+				"french": "Kherrata",
+				"arabic": "خراطة",
+				"Baladiyas": [
+					{
+						"arabic": "خراطة",
+						"french": "Kherrata",
+						"latitude": 36.4931377,
+						"longitude": 5.278127599999999
+					},
+					{
+						"arabic": "ذراع القايد",
+						"french": "Draâ El Kaïd",
+						"latitude": 36.4295337,
+						"longitude": 5.2475518
+					}
+				],
+				"latitude": 36.4931377,
+				"longitude": 5.278127599999999
+			},
+			{
+				"french": "Ouzellaguen",
+				"arabic": "أوزلاقن",
+				"Baladiyas": [
+					{
+						"arabic": "أوزلاقن",
+						"french": "Ouzellaguen",
+						"latitude": 36.554343,
+						"longitude": 4.572759800000001
+					}
+				],
+				"latitude": 36.554343,
+				"longitude": 4.572759800000001
+			},
+			{
+				"french": "Seddouk",
+				"arabic": "صدوق",
+				"Baladiyas": [
+					{
+						"arabic": "صدوق",
+						"french": "Seddouk",
+						"latitude": 36.5446668,
+						"longitude": 4.6868666
+					},
+					{
+						"arabic": "أمالو",
+						"french": "Amalou",
+						"latitude": 36.4774626,
+						"longitude": 4.632585300000001
+					},
+					{
+						"arabic": "بوحمزة",
+						"french": "Bouhamza",
+						"latitude": 36.4452822,
+						"longitude": 4.6853713
+					},
+					{
+						"arabic": "مسيسنة",
+						"french": "M'cisna",
+						"latitude": 36.56340700000001,
+						"longitude": 4.710368
+					}
+				],
+				"latitude": 36.5446668,
+				"longitude": 4.6868666
+			},
+			{
+				"french": "Tichy",
+				"arabic": "تيشي",
+				"Baladiyas": [
+					{
+						"arabic": "تيشي",
+						"french": "Tichy",
+						"latitude": 36.6682721,
+						"longitude": 5.1550882
+					},
+					{
+						"arabic": "بوخليفة",
+						"french": "Boukhelifa",
+						"latitude": 36.6698411,
+						"longitude": 5.0880839
+					},
+					{
+						"arabic": "تالة حمزة",
+						"french": "Tala Hamza",
+						"latitude": 36.68767950000001,
+						"longitude": 5.0078451
+					}
+				],
+				"latitude": 36.6682721,
+				"longitude": 5.1550882
+			},
+			{
+				"french": "Souk El-Ténine",
+				"arabic": "سوق الإثنين",
+				"Baladiyas": [
+					{
+						"arabic": "سوق الإثنين",
+						"french": "Souk El-Ténine",
+						"latitude": 36.6256524,
+						"longitude": 5.3360215
+					},
+					{
+						"arabic": "ملبو",
+						"french": "Melbou",
+						"latitude": 36.6282747,
+						"longitude": 5.3834854
+					},
+					{
+						"arabic": "تامريجت",
+						"french": "Tamridjet",
+						"latitude": 36.5833119,
+						"longitude": 5.4253757
+					}
+				],
+				"latitude": 36.6256524,
+				"longitude": 5.3360215
+			},
+			{
+				"french": "Sidi-Aïch",
+				"arabic": "سيدي عيش",
+				"Baladiyas": [
+					{
+						"arabic": "سيدي عيش",
+						"french": "Sidi-Aïch",
+						"latitude": 36.6090172,
+						"longitude": 4.691548399999999
+					},
+					{
+						"arabic": "لفلاي",
+						"french": "Leflaye",
+						"latitude": 36.6090298,
+						"longitude": 4.6714261
+					},
+					{
+						"arabic": "تينبذار",
+						"french": "Tinabdher",
+						"latitude": 36.6301547,
+						"longitude": 4.70189
+					},
+					{
+						"arabic": "تيفرة",
+						"french": "Tifra",
+						"latitude": 36.6667365,
+						"longitude": 4.6963496
+					},
+					{
+						"arabic": "سيدي عياد",
+						"french": "Sidi Ayad",
+						"latitude": 36.6122273,
+						"longitude": 4.7159414
+					}
+				],
+				"latitude": 36.6090172,
+				"longitude": 4.691548399999999
+			},
+			{
+				"french": "Timezrit",
+				"arabic": "تيمزريت",
+				"Baladiyas": [
+					{
+						"arabic": "تيمزريت",
+						"french": "Timezrit",
+						"latitude": 36.6151583,
+						"longitude": 4.7749158
+					}
+				],
+				"latitude": 36.662278,
+				"longitude": 3.7993992
+			}
+		],
+		"latitude": 36.7508896,
+		"longitude": 5.056733299999999
+	},
+	{
+		"arabic": "بسكرة",
+		"french": "Biskra",
+		"matricule": "07",
+		"phoneCodes": [
+			"33"
+		],
+		"Dairas": [
+			{
+				"french": "Biskra",
+				"arabic": "بسكرة",
+				"Baladiyas": [
+					{
+						"arabic": "بسكرة",
+						"french": "Biskra",
+						"latitude": 34.8370347,
+						"longitude": 5.751047499999999
+					},
+					{
+						"arabic": "الحاجب",
+						"french": "El Hadjeb",
+						"latitude": 34.7989056,
+						"longitude": 5.624766999999999
+					}
+				],
+				"latitude": 34.8370347,
+				"longitude": 5.751047499999999
+			},
+			{
+				"french": "Djemorah",
+				"arabic": "جمورة",
+				"Baladiyas": [
+					{
+						"arabic": "جمورة",
+						"french": "Djemorah",
+						"latitude": 35.1026843,
+						"longitude": 5.7089241
+					},
+					{
+						"arabic": "البرانس",
+						"french": "Branis",
+						"latitude": 34.9669667,
+						"longitude": 5.7932008
+					}
+				],
+				"latitude": 35.1026843,
+				"longitude": 5.7089241
+			},
+			{
+				"french": "El Kantara",
+				"arabic": "القنطرة",
+				"Baladiyas": [
+					{
+						"arabic": "القنطرة",
+						"french": "El Kantara",
+						"latitude": 35.192365,
+						"longitude": 5.6668306
+					},
+					{
+						"arabic": "عين زعطوط",
+						"french": "Ain Zaatout",
+						"latitude": 35.1843701,
+						"longitude": 5.8353837
+					}
+				],
+				"latitude": 35.192365,
+				"longitude": 5.6668306
+			},
+			{
+				"french": "M'Chouneche",
+				"arabic": "مشونش",
+				"Baladiyas": [
+					{
+						"arabic": "مشونش",
+						"french": "M'Chouneche",
+						"latitude": 34.9337006,
+						"longitude": 6.0255738
+					}
+				],
+				"latitude": 34.9337006,
+				"longitude": 6.0255738
+			},
+			{
+				"french": "Sidi Okba",
+				"arabic": "سيدي عقبة",
+				"Baladiyas": [
+					{
+						"arabic": "سيدي عقبة",
+						"french": "Sidi Okba",
+						"latitude": 34.7849283,
+						"longitude": 5.9198387
+					},
+					{
+						"arabic": "شتمة",
+						"french": "Chetma",
+						"latitude": 34.87499,
+						"longitude": 5.8775964
+					},
+					{
+						"arabic": "الحوش",
+						"french": "El Haouch",
+						"latitude": 34.5813972,
+						"longitude": 6.0255738
+					},
+					{
+						"arabic": "عين الناقة",
+						"french": "Aïn Naga",
+						"latitude": 34.6611164,
+						"longitude": 6.195132
+					}
+				],
+				"latitude": 34.7849283,
+				"longitude": 5.9198387
+			},
+			{
+				"french": "Zeribet El Oued",
+				"arabic": "زربية الوادى",
+				"Baladiyas": [
+					{
+						"arabic": "زربية الوادى",
+						"french": "Zeribet El Oued",
+						"latitude": 34.6878171,
+						"longitude": 6.5038787
+					},
+					{
+						"arabic": "المزيرعة",
+						"french": "El Mizaraa",
+						"latitude": 34.8328954,
+						"longitude": 6.2800864
+					},
+					{
+						"arabic": "الفيض",
+						"french": "El Feidh",
+						"latitude": 34.4668996,
+						"longitude": 6.5356449
+					},
+					{
+						"arabic": "خنقة سيدي ناجى",
+						"french": "Khenguet Sidi Nadji",
+						"latitude": 34.821721,
+						"longitude": 6.6958939
+					}
+				],
+				"latitude": 34.6878171,
+				"longitude": 6.5038787
+			},
+			{
+				"french": "Tolga",
+				"arabic": "طولقة",
+				"Baladiyas": [
+					{
+						"arabic": "طولقة",
+						"french": "Tolga",
+						"latitude": 34.7291803,
+						"longitude": 5.3802134
+					},
+					{
+						"arabic": "بوشقرون",
+						"french": "Bouchagroune",
+						"latitude": 34.7208281,
+						"longitude": 5.4665823
+					},
+					{
+						"arabic": "برج بن عزوز",
+						"french": "Bordj Ben Azzouz",
+						"latitude": 34.7062854,
+						"longitude": 5.3573194
+					},
+					{
+						"arabic": "لشانة",
+						"french": "Lichana",
+						"latitude": 34.7528735,
+						"longitude": 5.4253757
+					}
+				],
+				"latitude": 34.7291803,
+				"longitude": 5.3802134
+			},
+			{
+				"french": "Ouled Djellal",
+				"arabic": "أولاد جلال",
+				"Baladiyas": [
+					{
+						"arabic": "أولاد جلال",
+						"french": "Ouled Djellal",
+						"latitude": 34.4466834,
+						"longitude": 5.1015225
+					},
+					{
+						"arabic": "أولاد رحمة",
+						"french": "Ech Chaïba",
+						"latitude": 34.679416,
+						"longitude": 4.8105955
+					},
+					{
+						"arabic": "دوسان",
+						"french": "Doucen",
+						"latitude": 34.6234715,
+						"longitude": 5.1015225
+					}
+				],
+				"latitude": 34.4466834,
+				"longitude": 5.1015225
+			},
+			{
+				"french": "Sidi Khaled",
+				"arabic": "سيدي خالد",
+				"Baladiyas": [
+					{
+						"arabic": "سيدي خالد",
+						"french": "Sidi Khaled",
+						"latitude": 34.3862694,
+						"longitude": 4.9558696
+					},
+					{
+						"arabic": "بسبس",
+						"french": "Besbes",
+						"latitude": 36.7195675,
+						"longitude": 7.806885100000001
+					},
+					{
+						"arabic": "راس الميعاد",
+						"french": "Ras El Miaad",
+						"latitude": 33.9767317,
+						"longitude": 4.645035
+					}
+				],
+				"latitude": 34.3862694,
+				"longitude": 4.9558696
+			},
+			{
+				"french": "Foughala",
+				"arabic": "فوغالة",
+				"Baladiyas": [
+					{
+						"arabic": "فوغالة",
+						"french": "Foughala",
+						"latitude": 34.7583947,
+						"longitude": 5.299795899999999
+					},
+					{
+						"arabic": "الغروس",
+						"french": "El Ghrous",
+						"latitude": 34.705819,
+						"longitude": 5.284393
+					}
+				],
+				"latitude": 34.7583947,
+				"longitude": 5.299795899999999
+			},
+			{
+				"french": "El Outaya",
+				"arabic": "الوطاية",
+				"Baladiyas": [
+					{
+						"arabic": "الوطاية",
+						"french": "El Outaya",
+						"latitude": 34.9768124,
+						"longitude": 5.5827334
+					}
+				],
+				"latitude": 34.9768124,
+				"longitude": 5.5827334
+			}
+		],
+		"latitude": 34.8370347,
+		"longitude": 5.751047499999999
+	},
+	{
+		"arabic": "بشار",
+		"french": "Bechar",
+		"matricule": "08",
+		"phoneCodes": [
+			"49"
+		],
+		"Dairas": [],
+		"latitude": 31.6167026,
+		"longitude": -2.2194864
+	},
+	{
+		"arabic": "البليدة",
+		"french": "Blida",
+		"matricule": "09",
+		"phoneCodes": [
+			"25"
+		],
+		"Dairas": [],
+		"latitude": 36.4757929,
+		"longitude": 2.8297576
+	},
+	{
+		"arabic": "البويرة",
+		"french": "Bouira",
+		"matricule": "10",
+		"phoneCodes": [
+			"26"
+		],
+		"Dairas": [],
+		"latitude": 36.3739318,
+		"longitude": 3.898756799999999
+	},
+	{
+		"arabic": "تمنراست‎",
+		"french": "Tamanrasset",
+		"matricule": "11",
+		"phoneCodes": [
+			"29"
+		],
+		"Dairas": [],
+		"latitude": 22.7997243,
+		"longitude": 5.5242227
+	},
+	{
+		"arabic": "تبسة‎",
+		"french": "Tebessa",
+		"matricule": "12",
+		"phoneCodes": [
+			"37"
+		],
+		"Dairas": [],
+		"latitude": 35.4142494,
+		"longitude": 8.101092000000001
+	},
+	{
+		"arabic": "تلمسان‎",
+		"french": "Tlemcen",
+		"matricule": "13",
+		"phoneCodes": [
+			"43"
+		],
+		"Dairas": [],
+		"latitude": 34.88840620000001,
+		"longitude": -1.3180042
+	},
+	{
+		"arabic": "تيارت‎",
+		"french": "Tiaret",
+		"matricule": "14",
+		"phoneCodes": [
+			"46"
+		],
+		"Dairas": [],
+		"latitude": 35.3673553,
+		"longitude": 1.3220322
+	},
+	{
+		"arabic": "ثيزي وزو",
+		"french": "Tizi Ouzou",
+		"matricule": "15",
+		"phoneCodes": [
+			"26"
+		],
+		"Dairas": [],
+		"latitude": 36.7118213,
+		"longitude": 4.0517169
+	},
+	{
+		"arabic": "الجزائر",
+		"french": "Alger",
+		"matricule": "16",
+		"phoneCodes": [
+			"21",
+			"23"
+		],
+		"Dairas": [
+			{
+				"french": "Sidi M'Hamed",
+				"arabic": "سيدي امحمد",
+				"Baladiyas": [
+					{
+						"arabic": "الجزائر الوسطى",
+						"french": "Alger-Centre",
+						"latitude": 36.7724841,
+						"longitude": 3.0551159
+					},
+					{
+						"arabic": "سيدي امحمد",
+						"french": "Sidi M'Hamed",
+						"latitude": 36.7563368,
+						"longitude": 3.0551159
+					},
+					{
+						"arabic": "المدنية",
+						"french": "El Madania",
+						"latitude": 36.7411788,
+						"longitude": 3.0688896
+					},
+					{
+						"arabic": "المرادية",
+						"french": "El Mouradia",
+						"latitude": 36.7497677,
+						"longitude": 3.0488564
+					}
+				],
+				"latitude": 36.7563368,
+				"longitude": 3.0551159
+			},
+			{
+				"french": "Bab El Oued",
+				"arabic": "باب الوادى",
+				"Baladiyas": [
+					{
+						"arabic": "باب الوادى",
+						"french": "Bab El Oued",
+						"latitude": 36.7927594,
+						"longitude": 3.0513601
+					},
+					{
+						"arabic": "بولوغين",
+						"french": "Bologhine",
+						"latitude": 36.8052793,
+						"longitude": 3.0350884
+					},
+					{
+						"arabic": "القصبة",
+						"french": "Casbah",
+						"latitude": 36.7844961,
+						"longitude": 3.058872
+					},
+					{
+						"arabic": "وادي قريش",
+						"french": "Oued Koriche",
+						"latitude": 36.7836306,
+						"longitude": 3.0400945
+					},
+					{
+						"arabic": "الرايس حميدو",
+						"french": "Raïs Hamidou",
+						"latitude": 36.8112925,
+						"longitude": 3.0100658
+					}
+				],
+				"latitude": 36.7927594,
+				"longitude": 3.0513601
+			},
+			{
+				"french": "Hussein Dey",
+				"arabic": "حسين داي",
+				"Baladiyas": [
+					{
+						"arabic": "بلوزداد",
+						"french": "Belouizdad",
+						"latitude": 36.7505682,
+						"longitude": 3.070142
+					},
+					{
+						"arabic": "حسين داي",
+						"french": "Hussein Dey",
+						"latitude": 36.744147,
+						"longitude": 3.1102345
+					},
+					{
+						"arabic": "القبة",
+						"french": "Kouba",
+						"latitude": 36.7266729,
+						"longitude": 3.0814946
+					},
+					{
+						"arabic": "المقرية",
+						"french": "El Magharia",
+						"latitude": 36.7319999,
+						"longitude": 3.1114879
+					}
+				],
+				"latitude": 36.744147,
+				"longitude": 3.1102345
+			},
+			{
+				"french": "Bir Mourad Raïs",
+				"arabic": "بير مراد رايس",
+				"Baladiyas": [
+					{
+						"arabic": "بير مراد رايس",
+						"french": "Bir Mourad Raïs",
+						"latitude": 36.7353493,
+						"longitude": 3.0503737
+					},
+					{
+						"arabic": "بئر خادم",
+						"french": "Birkhadem",
+						"latitude": 36.7162726,
+						"longitude": 3.0425977
+					},
+					{
+						"arabic": "جسر قسنطينة",
+						"french": "Djasr Kasentina",
+						"latitude": 36.6978776,
+						"longitude": 3.079263
+					},
+					{
+						"arabic": "حيدرة",
+						"french": "Hydra",
+						"latitude": 36.7409507,
+						"longitude": 3.0250778
+					},
+					{
+						"arabic": "سحاولة",
+						"french": "Saoula",
+						"latitude": 36.6897194,
+						"longitude": 3.0275802
+					}
+				],
+				"latitude": 36.7353493,
+				"longitude": 3.0503737
+			},
+			{
+				"french": "Bouzareah",
+				"arabic": "بوزريعة",
+				"Baladiyas": [
+					{
+						"arabic": "الأبيار",
+						"french": "El Biar",
+						"latitude": 36.7690092,
+						"longitude": 3.0309946
+					},
+					{
+						"arabic": "بوزريعة",
+						"french": "Bouzareah",
+						"latitude": 36.7816379,
+						"longitude": 3.0125674
+					},
+					{
+						"arabic": "بن عكنون",
+						"french": "Ben Aknoun",
+						"latitude": 36.7574811,
+						"longitude": 3.0100658
+					},
+					{
+						"arabic": "بني مسوس",
+						"french": "Beni Messous",
+						"latitude": 36.782641,
+						"longitude": 2.9725563
+					}
+				],
+				"latitude": 36.7816379,
+				"longitude": 3.0125674
+			},
+			{
+				"french": "El Harrach",
+				"arabic": "الحراش",
+				"Baladiyas": [
+					{
+						"arabic": "الحراش",
+						"french": "El Harrach",
+						"latitude": 36.7029047,
+						"longitude": 3.1428341
+					},
+					{
+						"arabic": "وادي سمار",
+						"french": "Oued Smar",
+						"latitude": 36.6993487,
+						"longitude": 3.1754557
+					},
+					{
+						"arabic": "باش جراح",
+						"french": "Bachdjerrah",
+						"latitude": 36.7261506,
+						"longitude": 3.1180085
+					},
+					{
+						"arabic": "بوروبة",
+						"french": "Bourouba",
+						"latitude": 36.7117069,
+						"longitude": 3.1152484
+					}
+				],
+				"latitude": 36.7029047,
+				"longitude": 3.1428341
+			},
+			{
+				"french": "Baraki",
+				"arabic": "براقي",
+				"Baladiyas": [
+					{
+						"arabic": "براقي",
+						"french": "Baraki",
+						"latitude": 36.6672951,
+						"longitude": 3.0985796
+					},
+					{
+						"arabic": "الكليتوس",
+						"french": "Les Eucalyptus",
+						"latitude": 36.6645264,
+						"longitude": 3.1679257
+					},
+					{
+						"arabic": "سيدي موسى",
+						"french": "Sidi Moussa",
+						"latitude": 36.6229795,
+						"longitude": 3.1077277
+					}
+				],
+				"latitude": 36.6672951,
+				"longitude": 3.0985796
+			},
+			{
+				"french": "Dar El Beïda",
+				"arabic": "الدار البيضاء",
+				"Baladiyas": [
+					{
+						"arabic": "الدار البيضاء",
+						"french": "Dar El Beïda",
+						"latitude": 36.70601449999999,
+						"longitude": 3.2281983
+					},
+					{
+						"arabic": "باب الزوار",
+						"french": "Bab Ezzouar",
+						"latitude": 36.7206251,
+						"longitude": 3.1854975
+					},
+					{
+						"arabic": "المحمدية",
+						"french": "Mohammadia",
+						"latitude": 35.5876568,
+						"longitude": 0.05599390000000001
+					},
+					{
+						"arabic": "برج الكيفان",
+						"french": "Bordj El Kiffan",
+						"latitude": 36.747187,
+						"longitude": 3.190432
+					},
+					{
+						"arabic": "عين طايه",
+						"french": "Aïn Taya",
+						"latitude": 36.7852529,
+						"longitude": 3.2835137
+					},
+					{
+						"arabic": "برج البحري",
+						"french": "Bordj El Bahri",
+						"latitude": 36.7791328,
+						"longitude": 3.2404681
+					},
+					{
+						"arabic": "المرسى",
+						"french": "El Marsa",
+						"latitude": 36.8111249,
+						"longitude": 3.2448731
+					}
+				],
+				"latitude": 36.70601449999999,
+				"longitude": 3.2281983
+			},
+			{
+				"french": "Chéraga",
+				"arabic": "الشراقة",
+				"Baladiyas": [
+					{
+						"arabic": "دالي إبراھيم",
+						"french": "Dely Ibrahim",
+						"latitude": 36.7528506,
+						"longitude": 2.9800558
+					},
+					{
+						"arabic": "باب الزوار",
+						"french": "El Hammamet",
+						"latitude": 36.8041635,
+						"longitude": 2.9725563
+					},
+					{
+						"arabic": "عين البنيان",
+						"french": "Aïn Benian",
+						"latitude": 36.7965083,
+						"longitude": 2.9337917
+					},
+					{
+						"arabic": "الشراقة",
+						"french": "Cheraga",
+						"latitude": 36.7623459,
+						"longitude": 2.9225893
+					},
+					{
+						"arabic": "أولاد فايت",
+						"french": "Ouled Fayet",
+						"latitude": 36.7295502,
+						"longitude": 2.9425698
+					}
+				],
+				"latitude": 36.7623459,
+				"longitude": 2.9225893
+			},
+			{
+				"french": "Birtouta",
+				"arabic": "بئر توتة",
+				"Baladiyas": [
+					{
+						"arabic": "بئر توتة",
+						"french": "Birtouta",
+						"latitude": 36.6460945,
+						"longitude": 3.0476046
+					},
+					{
+						"arabic": "تسالة المرجى",
+						"french": "Tessala El Merdja",
+						"latitude": 36.6222556,
+						"longitude": 2.9225893
+					},
+					{
+						"arabic": "أولاد الشبل",
+						"french": "Ouled Chebel",
+						"latitude": 36.6044691,
+						"longitude": 2.9875565
+					}
+				],
+				"latitude": 36.6460945,
+				"longitude": 3.0476046
+			},
+			{
+				"french": "Rouïba",
+				"arabic": "الرويبة",
+				"Baladiyas": [
+					{
+						"arabic": "الهراوة",
+						"french": "H'raoua",
+						"latitude": 36.7684157,
+						"longitude": 3.3086778
+					},
+					{
+						"arabic": "الرويبة",
+						"french": "Rouïba",
+						"latitude": 36.7259091,
+						"longitude": 3.2885455
+					},
+					{
+						"arabic": "الرغاية",
+						"french": "Reghaïa",
+						"latitude": 36.7431477,
+						"longitude": 3.3387368
+					}
+				],
+				"latitude": 36.7259091,
+				"longitude": 3.2885455
+			},
+			{
+				"french": "Zéralda",
+				"arabic": "زرالدة",
+				"Baladiyas": [
+					{
+						"arabic": "سطاوالي",
+						"french": "Staoueli",
+						"latitude": 36.7516507,
+						"longitude": 2.8881795
+					},
+					{
+						"arabic": "زرالدة",
+						"french": "Zéralda",
+						"latitude": 36.6946148,
+						"longitude": 2.8277963
+					},
+					{
+						"arabic": "محالمة",
+						"french": "Mahelma",
+						"latitude": 36.65054629999999,
+						"longitude": 2.8676861
+					},
+					{
+						"arabic": "الرحمانية",
+						"french": "Rahmania",
+						"latitude": 36.6764115,
+						"longitude": 2.9126022
+					},
+					{
+						"arabic": "السويدانية",
+						"french": "Souidania",
+						"latitude": 36.7089832,
+						"longitude": 2.9026172
+					}
+				],
+				"latitude": 36.6946148,
+				"longitude": 2.8277963
+			},
+			{
+				"french": "Draria",
+				"arabic": "درارية",
+				"Baladiyas": [
+					{
+						"arabic": "العاشور",
+						"french": "El Achour",
+						"latitude": 36.7285583,
+						"longitude": 2.9825559
+					},
+					{
+						"arabic": "درارية",
+						"french": "Draria",
+						"latitude": 36.7172858,
+						"longitude": 3.0025615
+					},
+					{
+						"arabic": "الدويرة",
+						"french": "Douera",
+						"latitude": 36.6490943,
+						"longitude": 2.9275836
+					},
+					{
+						"arabic": "بابا حسن",
+						"french": "Baba Hassen",
+						"latitude": 36.6943775,
+						"longitude": 2.9731072
+					},
+					{
+						"arabic": "الخرايصية",
+						"french": "Khraicia",
+						"latitude": 36.6636569,
+						"longitude": 2.9925577
+					}
+				],
+				"latitude": 36.7172858,
+				"longitude": 3.0025615
+			}
+		],
+		"latitude": 36.753768,
+		"longitude": 3.0587561
+	},
+	{
+		"arabic": "الجلفة",
+		"french": "Djelfa",
+		"matricule": "17",
+		"phoneCodes": [
+			"27"
+		],
+		"Dairas": [
+			{
+				"french": "Djelfa",
+				"arabic": "الجلفة",
+				"Baladiyas": [
+					{
+						"arabic": "الجلفة",
+						"french": "Djelfa",
+						"latitude": 34.6703956,
+						"longitude": 3.2503761
+					}
+				],
+				"latitude": 34.6703956,
+				"longitude": 3.2503761
+			},
+			{
+				"french": "َAin Oussera",
+				"arabic": "عين وسارة",
+				"Baladiyas": [
+					{
+						"arabic": "عين وسارة",
+						"french": "Ain Oussera",
+						"latitude": 35.4542653,
+						"longitude": 2.9076094
+					},
+					{
+						"arabic": "القرنيني",
+						"french": "Guernini",
+						"latitude": 35.2003683,
+						"longitude": 2.6822356
+					}
+				],
+				"latitude": 35.4542653,
+				"longitude": 2.9076094
+			},
+			{
+				"french": "Birine",
+				"arabic": "البيرين",
+				"Baladiyas": [
+					{
+						"arabic": "البيرين",
+						"french": "Birine",
+						"latitude": 35.6267216,
+						"longitude": 3.2231727
+					},
+					{
+						"arabic": "بنهار",
+						"french": "Benhar",
+						"latitude": 35.4859395,
+						"longitude": 3.0113166
+					}
+				],
+				"latitude": 35.6267216,
+				"longitude": 3.2231727
+			},
+			{
+				"french": "Sidi Laadjel",
+				"arabic": "سيدي لعجال",
+				"Baladiyas": [
+					{
+						"arabic": "سيدي لعجال",
+						"french": "Sidi Laadjel",
+						"latitude": 35.435674,
+						"longitude": 2.514842
+					},
+					{
+						"arabic": "الخميس",
+						"french": "El Khemis",
+						"latitude": 35.2886856,
+						"longitude": 2.5966036
+					},
+					{
+						"arabic": "حاسي فدول",
+						"french": "Hassi Fedoul",
+						"latitude": 35.4414554,
+						"longitude": 2.2187476
+					}
+				],
+				"latitude": 35.435674,
+				"longitude": 2.514842
+			},
+			{
+				"french": "Had Esahari",
+				"arabic": "حد الصحاري",
+				"Baladiyas": [
+					{
+						"arabic": "حد الصحاري",
+						"french": "Had Esahari",
+						"latitude": 0,
+						"longitude": 0
+					},
+					{
+						"arabic": "بويرة الأحداب",
+						"french": "Bouiret lahdab",
+						"latitude": 35.2429194,
+						"longitude": 3.1403256
+					},
+					{
+						"arabic": "عين أفقه",
+						"french": "Ain F'kah",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 35.3521531,
+				"longitude": 3.3615643
+			},
+			{
+				"french": "Hassi Bahbah",
+				"arabic": "حاسي بحبح",
+				"Baladiyas": [
+					{
+						"arabic": "حاسي بحبح",
+						"french": "Hassi Bahbah",
+						"latitude": 35.07822850000001,
+						"longitude": 3.0275802
+					},
+					{
+						"arabic": "الزعفران",
+						"french": "ًZaafrane",
+						"latitude": 34.8539773,
+						"longitude": 2.8502302
+					},
+					{
+						"arabic": "حاسي العش",
+						"french": "Hassi Elach",
+						"latitude": 30.416772,
+						"longitude": 5.393955099999999
+					},
+					{
+						"arabic": "عين معبد",
+						"french": "Ain Maabed",
+						"latitude": 34.8056891,
+						"longitude": 3.1328011
+					}
+				],
+				"latitude": 35.07822850000001,
+				"longitude": 3.0275802
+			},
+			{
+				"french": "Dar Echioukh",
+				"arabic": "دار الشيوخ",
+				"Baladiyas": [
+					{
+						"arabic": "دار الشيوخ",
+						"french": "Dar Echioukh",
+						"latitude": 34.8953668,
+						"longitude": 3.4851867
+					},
+					{
+						"arabic": "المليليحة",
+						"french": "Mliliha",
+						"latitude": 34.7562504,
+						"longitude": 3.4813978
+					},
+					{
+						"arabic": "سيدي بايزيد",
+						"french": "Sidi Baizid",
+						"latitude": 35.0592433,
+						"longitude": 3.4321679
+					}
+				],
+				"latitude": 34.8953668,
+				"longitude": 3.4851867
+			},
+			{
+				"french": "Charef",
+				"arabic": "الشارف",
+				"Baladiyas": [
+					{
+						"arabic": "الشارف",
+						"french": "Charef",
+						"latitude": 34.6176861,
+						"longitude": 2.8003916
+					},
+					{
+						"arabic": "القديد",
+						"french": "Guedid",
+						"latitude": 34.6495053,
+						"longitude": 2.6114849
+					},
+					{
+						"arabic": "بن يعقوب",
+						"french": "Ben Yagoub",
+						"latitude": 34.4679787,
+						"longitude": 2.7872746
+					}
+				],
+				"latitude": 34.6176861,
+				"longitude": 2.8003916
+			},
+			{
+				"french": "Idrissia",
+				"arabic": "الإدريسية",
+				"Baladiyas": [
+					{
+						"arabic": "الإدريسية",
+						"french": "Idrissia",
+						"latitude": 34.4548511,
+						"longitude": 2.5247449
+					},
+					{
+						"arabic": "الدويس",
+						"french": "Douis",
+						"latitude": 34.3654584,
+						"longitude": 2.700918
+					},
+					{
+						"arabic": "عين الشهداء",
+						"french": "Ain Chouhada",
+						"latitude": 34.2413281,
+						"longitude": 2.522269
+					}
+				],
+				"latitude": 34.4548511,
+				"longitude": 2.5247449
+			},
+			{
+				"french": "Ain Elbel",
+				"arabic": "عين الابل",
+				"Baladiyas": [
+					{
+						"arabic": "عين الابل",
+						"french": "Ain Elbel",
+						"latitude": 34.3525264,
+						"longitude": 3.2256855
+					},
+					{
+						"arabic": "مجبارة",
+						"french": "Moudjbara",
+						"latitude": 34.5065791,
+						"longitude": 3.4675075
+					},
+					{
+						"arabic": "تعضميت",
+						"french": "Taadmit",
+						"latitude": 34.2859718,
+						"longitude": 2.9875783
+					},
+					{
+						"arabic": "زكار",
+						"french": "Zekkar",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 34.3525264,
+				"longitude": 3.2256855
+			},
+			{
+				"french": "Tinerkouk",
+				"arabic": "مسعد",
+				"Baladiyas": [
+					{
+						"arabic": "مسعد",
+						"french": "Messaad",
+						"latitude": 34.1536688,
+						"longitude": 3.495292
+					},
+					{
+						"arabic": "دلدول",
+						"french": "Deldoul",
+						"latitude": 0,
+						"longitude": 0
+					},
+					{
+						"arabic": "سلمانة",
+						"french": "Salmana",
+						"latitude": 0,
+						"longitude": 0
+					},
+					{
+						"arabic": "سد رحال",
+						"french": "Sad Rahal",
+						"latitude": 0,
+						"longitude": 0
+					},
+					{
+						"arabic": "قطارة",
+						"french": "Guettara",
+						"latitude": 33.1610943,
+						"longitude": 4.6850858
+					}
+				],
+				"latitude": 34.1536688,
+				"longitude": 3.495292
+			},
+			{
+				"french": "Feid Elbotma",
+				"arabic": "فيض البطمة",
+				"Baladiyas": [
+					{
+						"arabic": "فيض البطمة",
+						"french": "Feid Elbotma",
+						"latitude": 34.5304864,
+						"longitude": 3.7816093
+					},
+					{
+						"arabic": "عمورة",
+						"french": "Amoura",
+						"latitude": 34.3547243,
+						"longitude": 3.8693481
+					},
+					{
+						"arabic": "أم العظام",
+						"french": "Oum Laadam",
+						"latitude": 33.7206099,
+						"longitude": 4.530214099999999
+					}
+				],
+				"latitude": 34.5304864,
+				"longitude": 3.7816093
+			}
+		],
+		"latitude": 34.6703956,
+		"longitude": 3.2503761
+	},
+	{
+		"arabic": "جيجل",
+		"french": "Jijel",
+		"matricule": "18",
+		"phoneCodes": [
+			"34"
+		],
+		"Dairas": [],
+		"latitude": 36.81673869999999,
+		"longitude": 5.749093299999999
+	},
+	{
+		"arabic": "سطيف",
+		"french": "Setif",
+		"matricule": "19",
+		"phoneCodes": [
+			"36"
+		],
+		"Dairas": [],
+		"latitude": 36.1969027,
+		"longitude": 5.4150871
+	},
+	{
+		"arabic": "سعيدة‎",
+		"french": "Saida",
+		"matricule": "20",
+		"phoneCodes": [
+			"48"
+		],
+		"Dairas": [],
+		"latitude": 34.8412014,
+		"longitude": 0.1484305
+	},
+	{
+		"arabic": "سكيكدة",
+		"french": "Skikda",
+		"matricule": "21",
+		"phoneCodes": [
+			"38"
+		],
+		"Dairas": [],
+		"latitude": 36.8715199,
+		"longitude": 6.910180599999999
+	},
+	{
+		"arabic": "سيدي بلعباس",
+		"french": "Sidi bel abbes",
+		"matricule": "22",
+		"phoneCodes": [
+			"48"
+		],
+		"Dairas": [],
+		"latitude": 35.2022249,
+		"longitude": -0.6298922
+	},
+	{
+		"arabic": "عنّابة‎",
+		"french": "Annaba",
+		"matricule": "23",
+		"phoneCodes": [
+			"38"
+		],
+		"Dairas": [],
+		"latitude": 36.9264582,
+		"longitude": 7.752535200000001
+	},
+	{
+		"arabic": "قالمة‎‎",
+		"french": "Guelma",
+		"matricule": "24",
+		"phoneCodes": [
+			"37"
+		],
+		"Dairas": [],
+		"latitude": 36.458976,
+		"longitude": 7.4327273
+	},
+	{
+		"arabic": "قسنطينة",
+		"french": "Constantine",
+		"matricule": "25",
+		"phoneCodes": [
+			"31"
+		],
+		"Dairas": [],
+		"latitude": 36.360155,
+		"longitude": 6.642433
+	},
+	{
+		"arabic": "المدية",
+		"french": "Medea",
+		"matricule": "26",
+		"phoneCodes": [
+			"25"
+		],
+		"Dairas": [],
+		"latitude": 36.2853847,
+		"longitude": 2.7680247
+	},
+	{
+		"arabic": "مستغانم",
+		"french": "Mostaghanem",
+		"matricule": "27",
+		"phoneCodes": [
+			"45"
+		],
+		"Dairas": [],
+		"latitude": 36.01312350000001,
+		"longitude": 0.1401381
+	},
+	{
+		"arabic": "المسيلة",
+		"french": "Msila",
+		"matricule": "28",
+		"phoneCodes": [
+			"35"
+		],
+		"Dairas": [],
+		"latitude": 35.316633,
+		"longitude": 4.2333355
+	},
+	{
+		"arabic": "معسكر",
+		"french": "Mascara",
+		"matricule": "29",
+		"phoneCodes": [
+			"45"
+		],
+		"Dairas": [],
+		"latitude": 35.3974554,
+		"longitude": 0.1388446
+	},
+	{
+		"arabic": "ورقلة",
+		"french": "Ouargla",
+		"matricule": "30",
+		"phoneCodes": [
+			"29"
+		],
+		"Dairas": [],
+		"latitude": 31.9526724,
+		"longitude": 5.333523599999999
+	},
+	{
+		"arabic": "وهران",
+		"french": "Oran",
+		"matricule": "31",
+		"phoneCodes": [
+			"41"
+		],
+		"Dairas": [
+			{
+				"french": "ARZEW",
+				"arabic": "أرزيو",
+				"Baladiyas": [
+					{
+						"arabic": "أرزيو",
+						"french": "ARZEW",
+						"latitude": 35.8602138,
+						"longitude": -0.3465971
+					},
+					{
+						"arabic": "سيدي بن يبقى",
+						"french": "SIDI BEN YEBKA",
+						"latitude": 35.8599738,
+						"longitude": -0.4219444
+					}
+				],
+				"latitude": 35.8602138,
+				"longitude": -0.3465971
+			},
+			{
+				"french": "BETHIOUA",
+				"arabic": "بطيوة",
+				"Baladiyas": [
+					{
+						"arabic": "عين البية",
+						"french": "AIN BIYA",
+						"latitude": 35.8081628,
+						"longitude": -0.2816754
+					},
+					{
+						"arabic": "بطيوة",
+						"french": "BETHIOUA",
+						"latitude": 35.7513806,
+						"longitude": -0.2338473
+					},
+					{
+						"arabic": "مرسى الحجاج",
+						"french": "MARSAT EL HADJADJ",
+						"latitude": 35.762407,
+						"longitude": -0.1682271
+					}
+				],
+				"latitude": 35.7513806,
+				"longitude": -0.2338473
+			},
+			{
+				"french": "BIR EL DJIR",
+				"arabic": "بئر الجير",
+				"Baladiyas": [
+					{
+						"arabic": "بئر الجير",
+						"french": "BIR EL DJIR",
+						"latitude": 35.7297279,
+						"longitude": -0.5557835
+					},
+					{
+						"arabic": "حاسي بن عقبة",
+						"french": "HASSI BEN OKBA",
+						"latitude": 35.7289564,
+						"longitude": -0.4676447
+					},
+					{
+						"arabic": "حاسي بونيف",
+						"french": "HASSI BOUNIF",
+						"latitude": 35.6851254,
+						"longitude": -0.4785495
+					}
+				],
+				"latitude": 35.7297279,
+				"longitude": -0.5557835
+			},
+			{
+				"french": "BOUTLELIS",
+				"arabic": "بوتليليس",
+				"Baladiyas": [
+					{
+						"arabic": "عين الكرمة",
+						"french": "AIN KERMA",
+						"latitude": 36.5644539,
+						"longitude": 8.1994276
+					},
+					{
+						"arabic": "بوتليليس",
+						"french": "BOUTLELIS",
+						"latitude": 35.5844234,
+						"longitude": -0.8865833999999999
+					},
+					{
+						"arabic": "مسرغين",
+						"french": "MESSERGHIN",
+						"latitude": 35.5852064,
+						"longitude": -0.7722973999999999
+					}
+				],
+				"latitude": 35.5844234,
+				"longitude": -0.8865833999999999
+			},
+			{
+				"french": "ES SENIA",
+				"arabic": "السانية",
+				"Baladiyas": [
+					{
+						"arabic": "الكرمة",
+						"french": "EL KERMA",
+						"latitude": 35.5972528,
+						"longitude": -0.5730713
+					},
+					{
+						"arabic": "السانية",
+						"french": "ES SENIA",
+						"latitude": 35.6406128,
+						"longitude": -0.6488505
+					},
+					{
+						"arabic": "سيدي الشحمي",
+						"french": "SIDI CHAMI",
+						"latitude": 35.673918,
+						"longitude": -0.5446911999999999
+					}
+				],
+				"latitude": 35.6406128,
+				"longitude": -0.6488505
+			},
+			{
+				"french": "GDYEL",
+				"arabic": "قديل",
+				"Baladiyas": [
+					{
+						"arabic": "بن فريحة",
+						"french": "BEN FREHA",
+						"latitude": 35.7292156,
+						"longitude": -0.3654204
+					},
+					{
+						"arabic": "قديل",
+						"french": "GDYEL",
+						"latitude": 35.8052667,
+						"longitude": -0.4691097
+					},
+					{
+						"arabic": "حاسي مفسوخ",
+						"french": "HASSI MEFSOUKH",
+						"latitude": 35.8010772,
+						"longitude": -0.374617
+					}
+				],
+				"latitude": 35.8052667,
+				"longitude": -0.4691097
+			},
+			{
+				"french": "ORAN",
+				"arabic": "وهران",
+				"Baladiyas": [
+					{
+						"arabic": "وهران",
+						"french": "ORAN",
+						"latitude": 35.6970697,
+						"longitude": -0.6307988
+					}
+				],
+				"latitude": 35.6970697,
+				"longitude": -0.6307988
+			},
+			{
+				"french": "OUED TLELAT",
+				"arabic": "واد تليلات",
+				"Baladiyas": [
+					{
+						"arabic": "بوفاطيس",
+						"french": "BOUFATIS",
+						"latitude": 35.6307787,
+						"longitude": -0.3936722
+					},
+					{
+						"arabic": "البرية",
+						"french": "EL BRAYA",
+						"latitude": 35.6194616,
+						"longitude": -0.4974359
+					},
+					{
+						"arabic": "واد تليلات",
+						"french": "OUED TLELAT",
+						"latitude": 35.5539698,
+						"longitude": -0.4596721
+					},
+					{
+						"arabic": "طفراوي",
+						"french": "TAFRAOUI",
+						"latitude": 35.4550561,
+						"longitude": -0.5446911999999999
+					}
+				],
+				"latitude": 35.5539698,
+				"longitude": -0.4596721
+			}
+		],
+		"latitude": 35.6970697,
+		"longitude": -0.6307988
+	},
+	{
+		"arabic": "البيض",
+		"french": "El Bayadh",
+		"matricule": "32",
+		"phoneCodes": [
+			"49"
+		],
+		"Dairas": [],
+		"latitude": 0,
+		"longitude": 0
+	},
+	{
+		"arabic": "اليزي",
+		"french": "Illizi",
+		"matricule": "33",
+		"phoneCodes": [
+			"29"
+		],
+		"Dairas": [],
+		"latitude": 26.5094346,
+		"longitude": 8.4732718
+	},
+	{
+		"arabic": "برج بوعريريج",
+		"french": "Bordj Bou Arreridj",
+		"matricule": "34",
+		"phoneCodes": [
+			"35"
+		],
+		"Dairas": [
+			{
+				"french": "Bordj Bou Arreridj",
+				"arabic": "برج بوعريريج",
+				"Baladiyas": [
+					{
+						"arabic": "برج بوعريريج",
+						"french": "Bordj Bou Arreridj",
+						"latitude": 36.0704188,
+						"longitude": 4.7564046
+					}
+				],
+				"latitude": 36.0735002,
+				"longitude": 4.754739499999999
+			},
+			{
+				"french": "ٌRas El Oued",
+				"arabic": "رأس الوادي",
+				"Baladiyas": [
+					{
+						"arabic": "رأس الوادي",
+						"french": "ٌRas El Oued",
+						"latitude": 35.947031,
+						"longitude": 5.0356951
+					},
+					{
+						"arabic": "عين تسرة",
+						"french": "Ain Tesra",
+						"latitude": 36.0367494,
+						"longitude": 5.002327
+					},
+					{
+						"arabic": "أولاد براهم",
+						"french": "Ouled Brahem",
+						"latitude": 35.8733817,
+						"longitude": 5.080691799999999
+					}
+				],
+				"latitude": 35.947031,
+				"longitude": 5.0356951
+			},
+			{
+				"french": "Bordj Zemora",
+				"arabic": "برج زمورة",
+				"Baladiyas": [
+					{
+						"arabic": "برج زمورة",
+						"french": "Bordj Zemora",
+						"latitude": 36.2612267,
+						"longitude": 4.883185
+					},
+					{
+						"arabic": "أولاد دحمان",
+						"french": "Ouled Dahmane",
+						"latitude": 36.2214873,
+						"longitude": 4.7701642
+					},
+					{
+						"arabic": "تاسمرت",
+						"french": "Tesmart",
+						"latitude": 36.2645778,
+						"longitude": 4.800233299999999
+					}
+				],
+				"latitude": 36.2612267,
+				"longitude": 4.883185
+			},
+			{
+				"french": "Mansoura",
+				"arabic": "المنصورة",
+				"Baladiyas": [
+					{
+						"arabic": "المنصورة",
+						"french": "Mansoura",
+						"latitude": 34.8659187,
+						"longitude": -1.3565692
+					},
+					{
+						"arabic": "أولاد سيدي إبراهيم",
+						"french": "Ouled Sidi-Brahim",
+						"latitude": 35.3420781,
+						"longitude": 4.1309067
+					},
+					{
+						"arabic": "المهير",
+						"french": "El M'hir",
+						"latitude": 36.1184335,
+						"longitude": 4.3895593
+					},
+					{
+						"arabic": "بن داود",
+						"french": "Ben Daoud",
+						"latitude": 35.7150028,
+						"longitude": 0.5186938
+					},
+					{
+						"arabic": "حرازة",
+						"french": "Haraza",
+						"latitude": 36.1660564,
+						"longitude": 4.2538452
+					}
+				],
+				"latitude": 36.1376769,
+				"longitude": 4.43879
+			},
+			{
+				"french": "Medjana",
+				"arabic": "مجانة",
+				"Baladiyas": [
+					{
+						"arabic": "مجانة",
+						"french": "Medjana",
+						"latitude": 36.1340533,
+						"longitude": 4.6714821
+					},
+					{
+						"arabic": "ثنية النصر",
+						"french": "Teniet En Nasr",
+						"latitude": 36.2312193,
+						"longitude": 4.6001675
+					},
+					{
+						"arabic": "حسناوة",
+						"french": "Hasnaoua",
+						"latitude": 36.1520672,
+						"longitude": 4.7955348
+					},
+					{
+						"arabic": "اليشير",
+						"french": "El Achir",
+						"latitude": 36.0655916,
+						"longitude": 4.624375100000001
+					}
+				],
+				"latitude": 36.1340533,
+				"longitude": 4.6714821
+			},
+			{
+				"french": "El Hamadia",
+				"arabic": "الحمادية",
+				"Baladiyas": [
+					{
+						"arabic": "الحمادية",
+						"french": "El Hamadia",
+						"latitude": 35.983529,
+						"longitude": 4.7795149
+					},
+					{
+						"arabic": "الرابطة",
+						"french": "Rabta",
+						"latitude": 35.8965925,
+						"longitude": 4.7795149
+					},
+					{
+						"arabic": "العش",
+						"french": "El Ach",
+						"latitude": 35.8917787,
+						"longitude": 4.624375100000001
+					},
+					{
+						"arabic": "القصور",
+						"french": "Ksour",
+						"latitude": 35.9921303,
+						"longitude": 4.5956667
+					}
+				],
+				"latitude": 35.983529,
+				"longitude": 4.7795149
+			},
+			{
+				"french": "Ain Taghrout",
+				"arabic": "عين تاغروت",
+				"Baladiyas": [
+					{
+						"arabic": "عين تاغروت",
+						"french": "Ain Taghrout",
+						"latitude": 36.1321301,
+						"longitude": 5.1223608
+					},
+					{
+						"arabic": "تكستار",
+						"french": "Tixter",
+						"latitude": 36.0453882,
+						"longitude": 5.1223608
+					}
+				],
+				"latitude": 36.1321301,
+				"longitude": 5.1223608
+			},
+			{
+				"french": "Bir Kasd Ali",
+				"arabic": "بئر قاصد علي",
+				"Baladiyas": [
+					{
+						"arabic": "بئر قاصد علي",
+						"french": "Bir Kasd Ali",
+						"latitude": 36.1463398,
+						"longitude": 5.027662299999999
+					},
+					{
+						"arabic": "خليل",
+						"french": "Khelil",
+						"latitude": 36.2240477,
+						"longitude": 4.997446099999999
+					},
+					{
+						"arabic": "سيدي امبارك",
+						"french": "Sidi-Embarek",
+						"latitude": 36.0974673,
+						"longitude": 4.914323899999999
+					}
+				],
+				"latitude": 36.1463398,
+				"longitude": 5.027662299999999
+			},
+			{
+				"french": "Djaafra",
+				"arabic": "الجعافرة",
+				"Baladiyas": [
+					{
+						"arabic": "الجعافرة",
+						"french": "Djaafra",
+						"latitude": 36.2922699,
+						"longitude": 4.6628371
+					},
+					{
+						"arabic": "القلة",
+						"french": "Colla",
+						"latitude": 36.2374167,
+						"longitude": 4.6657027
+					},
+					{
+						"arabic": "تفرق",
+						"french": "Tafreg",
+						"latitude": 0,
+						"longitude": 0
+					},
+					{
+						"arabic": "الماين",
+						"french": "El Main",
+						"latitude": 36.3719865,
+						"longitude": 4.738017
+					}
+				],
+				"latitude": 36.2922699,
+				"longitude": 4.6628371
+			},
+			{
+				"french": "Bordj Ghdir",
+				"arabic": "برج الغدير",
+				"Baladiyas": [
+					{
+						"arabic": "برج الغدير",
+						"french": "Bordj Ghdir",
+						"latitude": 35.9124803,
+						"longitude": 4.9247074
+					},
+					{
+						"arabic": "تقلعيت",
+						"french": "Taglait",
+						"latitude": 35.8011473,
+						"longitude": 4.9870491
+					},
+					{
+						"arabic": "غيلاسة",
+						"french": "Ghilassa",
+						"latitude": 35.8480848,
+						"longitude": 4.9039424
+					},
+					{
+						"arabic": "بليمور",
+						"french": "Belimour",
+						"latitude": 35.9672331,
+						"longitude": 4.914323899999999
+					},
+					{
+						"arabic": "العناصر",
+						"french": "El Anseur",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 35.9124803,
+				"longitude": 4.9247074
+			}
+		],
+		"latitude": 36.0704188,
+		"longitude": 4.7564046
+	},
+	{
+		"arabic": "بومرداس",
+		"french": "Boumerdes",
+		"matricule": "35",
+		"phoneCodes": [
+			"24"
+		],
+		"Dairas": [],
+		"latitude": 36.7580109,
+		"longitude": 3.4851867
+	},
+	{
+		"arabic": "الطارف",
+		"french": "El Taref",
+		"matricule": "36",
+		"phoneCodes": [
+			"38"
+		],
+		"Dairas": [],
+		"latitude": 36.7558581,
+		"longitude": 8.2212979
+	},
+	{
+		"arabic": "تندوف",
+		"french": "Tindouf",
+		"matricule": "37",
+		"phoneCodes": [
+			"49"
+		],
+		"Dairas": [],
+		"latitude": 27.6761012,
+		"longitude": -8.1276526
+	},
+	{
+		"arabic": "تسمسيلت",
+		"french": "Tissemsilt",
+		"matricule": "38",
+		"phoneCodes": [
+			"46"
+		],
+		"Dairas": [],
+		"latitude": 35.6015182,
+		"longitude": 1.8074586
+	},
+	{
+		"arabic": "الوادي",
+		"french": "El Oued",
+		"matricule": "39",
+		"phoneCodes": [
+			"32"
+		],
+		"Dairas": [],
+		"latitude": 33.3713397,
+		"longitude": 6.8479682
+	},
+	{
+		"arabic": "خنشلة",
+		"french": "Khenchla",
+		"matricule": "40",
+		"phoneCodes": [
+			"32"
+		],
+		"Dairas": [],
+		"latitude": 35.4309947,
+		"longitude": 7.1467072
+	},
+	{
+		"arabic": "سوق أهراس",
+		"french": "Souk Ahras",
+		"matricule": "41",
+		"phoneCodes": [
+			"37"
+		],
+		"Dairas": [],
+		"latitude": 36.2695872,
+		"longitude": 7.948389799999999
+	},
+	{
+		"arabic": "تيبازة",
+		"french": "Tipaza",
+		"matricule": "42",
+		"phoneCodes": [
+			"24"
+		],
+		"Dairas": [],
+		"latitude": 36.6178786,
+		"longitude": 2.3912362
+	},
+	{
+		"arabic": "ميلة",
+		"french": "Mila",
+		"matricule": "43",
+		"phoneCodes": [
+			"31"
+		],
+		"Dairas": [],
+		"latitude": 36.4512301,
+		"longitude": 6.2535257
+	},
+	{
+		"arabic": "عين الدفلى",
+		"french": "Ain Defla",
+		"matricule": "44",
+		"phoneCodes": [
+			"27"
+		],
+		"Dairas": [],
+		"latitude": 36.26102059999999,
+		"longitude": 2.2343122
+	},
+	{
+		"arabic": "النعامة",
+		"french": "Naama",
+		"matricule": "45",
+		"phoneCodes": [
+			"49"
+		],
+		"Dairas": [],
+		"latitude": 33.4350615,
+		"longitude": -0.9056623
+	},
+	{
+		"arabic": "عين تموشنت",
+		"french": "Ain Timouchent",
+		"matricule": "46",
+		"phoneCodes": [
+			"43"
+		],
+		"Dairas": [],
+		"latitude": 35.3072501,
+		"longitude": -1.1424514
+	},
+	{
+		"arabic": "غرداية",
+		"french": "Ghardaïa",
+		"matricule": "47",
+		"phoneCodes": [
+			"29"
+		],
+		"Dairas": [
+			{
+				"french": "Ghardaïa",
+				"arabic": "غرداية",
+				"Baladiyas": [
+					{
+						"arabic": "غرداية",
+						"french": "Ghardaïa",
+						"latitude": 32.4902246,
+						"longitude": 3.6738412
+					}
+				],
+				"latitude": 32.4902246,
+				"longitude": 3.6738412
+			},
+			{
+				"french": "Meniaa",
+				"arabic": "المنيعة",
+				"Baladiyas": [
+					{
+						"arabic": "المنيعة",
+						"french": "Meniaa",
+						"latitude": 30.59958869999999,
+						"longitude": 2.8876436
+					},
+					{
+						"arabic": "حاسي قارة",
+						"french": "Hassi Gara",
+						"latitude": 30.5472849,
+						"longitude": 2.9126022
+					}
+				],
+				"latitude": 30.59958869999999,
+				"longitude": 2.8876436
+			},
+			{
+				"french": "Metlili",
+				"arabic": "متليلي الشعانبة",
+				"Baladiyas": [
+					{
+						"arabic": "متليلي الشعانبة",
+						"french": "Metlili",
+						"latitude": 32.2908262,
+						"longitude": 3.5989888
+					},
+					{
+						"arabic": "سبسب",
+						"french": "Sebseb",
+						"latitude": 32.1666038,
+						"longitude": 3.5838002
+					}
+				],
+				"latitude": 32.2908262,
+				"longitude": 3.5989888
+			},
+			{
+				"french": "Berriane",
+				"arabic": "بريان",
+				"Baladiyas": [
+					{
+						"arabic": "بريان",
+						"french": "Berriane",
+						"latitude": 32.8337669,
+						"longitude": 3.7718098
+					}
+				],
+				"latitude": 32.8337669,
+				"longitude": 3.7718098
+			},
+			{
+				"french": "Dhayet Bendhahoua",
+				"arabic": "ضاية بن ضحوة",
+				"Baladiyas": [
+					{
+						"arabic": "ضاية ين ضحوة",
+						"french": "Dhayet Bendhahoua",
+						"latitude": 32.5421541,
+						"longitude": 3.6116494
+					}
+				],
+				"latitude": 32.5421541,
+				"longitude": 3.6116494
+			},
+			{
+				"french": "Mansoura",
+				"arabic": "المنصورة",
+				"Baladiyas": [
+					{
+						"arabic": "المنصورة",
+						"french": "Mansoura",
+						"latitude": 34.8659187,
+						"longitude": -1.3565692
+					},
+					{
+						"arabic": "حاسي الفحل",
+						"french": "Hassi Fehal",
+						"latitude": 31.6027043,
+						"longitude": 3.6762683
+					}
+				],
+				"latitude": 36.1376769,
+				"longitude": 4.43879
+			},
+			{
+				"french": "Zelfana",
+				"arabic": "زلقانة",
+				"Baladiyas": [
+					{
+						"arabic": "زلفانة",
+						"french": "Zelfana",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 0,
+				"longitude": 0
+			},
+			{
+				"french": "El Guerrara",
+				"arabic": "القراراة",
+				"Baladiyas": [
+					{
+						"arabic": "القرارة",
+						"french": "El Guerrara",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 0,
+				"longitude": 0
+			},
+			{
+				"french": "Bounoura",
+				"arabic": "بنورة",
+				"Baladiyas": [
+					{
+						"arabic": "بونورة",
+						"french": "Bounoura",
+						"latitude": 32.4633255,
+						"longitude": 3.6015207
+					},
+					{
+						"arabic": "العطف",
+						"french": "El Atteuf",
+						"latitude": 32.4766504,
+						"longitude": 3.7471211
+					}
+				],
+				"latitude": 32.4633255,
+				"longitude": 3.6015207
+			}
+		],
+		"latitude": 32.4902246,
+		"longitude": 3.6738412
+	},
+	{
+		"arabic": "غليزان",
+		"french": "Relizane",
+		"matricule": "48",
+		"phoneCodes": [
+			"46"
+		],
+		"Dairas": [
+			{
+				"french": "Relizane",
+				"arabic": "غليزان",
+				"Baladiyas": [
+					{
+						"arabic": "غليزان",
+						"french": "Relizane",
+						"latitude": 35.7339361,
+						"longitude": 0.5588787
+					},
+					{
+						"arabic": "بن داود",
+						"french": "Bendaoud",
+						"latitude": 35.7150028,
+						"longitude": 0.5186938
+					}
+				],
+				"latitude": 35.7339361,
+				"longitude": 0.5588787
+			},
+			{
+				"french": "Zemmora",
+				"arabic": "زمورة",
+				"Baladiyas": [
+					{
+						"arabic": "زمورة",
+						"french": "Zemmora",
+						"latitude": 35.7247051,
+						"longitude": 0.7509045
+					},
+					{
+						"arabic": "بني درقن",
+						"french": "Beni Dergoun",
+						"latitude": 35.7980986,
+						"longitude": 0.7960805
+					},
+					{
+						"arabic": "دار بن عبد الله",
+						"french": "Dar Ben Abdellah",
+						"latitude": 35.6991649,
+						"longitude": 0.6832351
+					}
+				],
+				"latitude": 35.7247051,
+				"longitude": 0.7509045
+			},
+			{
+				"french": "El Hamadna",
+				"arabic": "الحمادنة",
+				"Baladiyas": [
+					{
+						"arabic": "الحمادنة",
+						"french": "El Hamadna",
+						"latitude": 35.90454769999999,
+						"longitude": 0.774675
+					},
+					{
+						"arabic": "واد الجمعة",
+						"french": "Oued El Djemaa",
+						"latitude": 35.7960821,
+						"longitude": 0.6796767000000001
+					}
+				],
+				"latitude": 35.90454769999999,
+				"longitude": 0.774675
+			},
+			{
+				"french": "El Matmar",
+				"arabic": "المطمر",
+				"Baladiyas": [
+					{
+						"arabic": "المطمر",
+						"french": "El Matmar",
+						"latitude": 35.731615,
+						"longitude": 0.4620313
+					},
+					{
+						"arabic": "سيدي امحمد بن عودة",
+						"french": "Sidi M'Hamed Benaouda",
+						"latitude": 35.6026539,
+						"longitude": 0.5872689999999999
+					},
+					{
+						"arabic": "بلعسل بوزقزة",
+						"french": "Belassel Bouzegza",
+						"latitude": 35.8528374,
+						"longitude": 0.5057015
+					},
+					{
+						"arabic": "سيدي خطاب",
+						"french": "Sidi Khettab",
+						"latitude": 35.9113884,
+						"longitude": 0.5139688
+					}
+				],
+				"latitude": 35.731615,
+				"longitude": 0.4620313
+			},
+			{
+				"french": "Yellel",
+				"arabic": "يلل",
+				"Baladiyas": [
+					{
+						"arabic": "يلل",
+						"french": "Yellel",
+						"latitude": 35.7210595,
+						"longitude": 0.3536548
+					},
+					{
+						"arabic": "عين الرحمة",
+						"french": "Aïn Rahma",
+						"latitude": 35.6246337,
+						"longitude": 0.3919059
+					},
+					{
+						"arabic": "القلعة",
+						"french": "Kalaa",
+						"latitude": 35.5803849,
+						"longitude": 0.3289585
+					},
+					{
+						"arabic": "سيدي سعادة",
+						"french": "Sidi Saada",
+						"latitude": 35.6760307,
+						"longitude": 0.3407167
+					}
+				],
+				"latitude": 35.7210595,
+				"longitude": 0.3536548
+			},
+			{
+				"french": "Mendes",
+				"arabic": "منداس",
+				"Baladiyas": [
+					{
+						"arabic": "منداس",
+						"french": "Mendes",
+						"latitude": 35.6474585,
+						"longitude": 0.8651302999999999
+					},
+					{
+						"arabic": "واد السلام",
+						"french": "Oued Essalem",
+						"latitude": 35.5800262,
+						"longitude": 0.9259434000000001
+					},
+					{
+						"arabic": "سيدي لزرق",
+						"french": "Sidi Lazreg",
+						"latitude": 35.6466822,
+						"longitude": 0.7782418
+					}
+				],
+				"latitude": 35.6474585,
+				"longitude": 0.8651302999999999
+			},
+			{
+				"french": "Ramka",
+				"arabic": "الرمكة",
+				"Baladiyas": [
+					{
+						"arabic": "الرمكة",
+						"french": "Ramka",
+						"latitude": 35.8675295,
+						"longitude": 1.2818815
+					},
+					{
+						"arabic": "سوق الحد",
+						"french": "Souk El Had",
+						"latitude": 36.69041170000001,
+						"longitude": 3.5863313
+					}
+				],
+				"latitude": 35.8675295,
+				"longitude": 1.2818815
+			},
+			{
+				"french": "Djidioua",
+				"arabic": "جديوية",
+				"Baladiyas": [
+					{
+						"arabic": "جديوية",
+						"french": "Djidioua",
+						"latitude": 35.9259567,
+						"longitude": 0.8317813000000001
+					},
+					{
+						"arabic": "حمري",
+						"french": "Hamri",
+						"latitude": 36.0200961,
+						"longitude": 0.6981318
+					},
+					{
+						"arabic": "اولاد سيدي الميهوب",
+						"french": "Ouled Sidi Mihoub",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 35.9259567,
+				"longitude": 0.8317813000000001
+			},
+			{
+				"french": "Ammi Moussa",
+				"arabic": "عمي موسى",
+				"Baladiyas": [
+					{
+						"arabic": "عمي موسى",
+						"french": "Ammi Moussa",
+						"latitude": 35.8692431,
+						"longitude": 1.1089244
+					},
+					{
+						"arabic": "الولجة",
+						"french": "El Hassi",
+						"latitude": 35.7790971,
+						"longitude": 5.951539899999999
+					},
+					{
+						"arabic": "الحاسي",
+						"french": "El Ouldja",
+						"latitude": 36.0520855,
+						"longitude": 5.9198387
+					},
+					{
+						"arabic": "اولاد يعيش",
+						"french": "Ouled Aiche",
+						"latitude": 35.8255092,
+						"longitude": 0.9641466999999999
+					}
+				],
+				"latitude": 35.8692431,
+				"longitude": 1.1089244
+			},
+			{
+				"french": "Aïn Tarek",
+				"arabic": "عين طارق",
+				"Baladiyas": [
+					{
+						"arabic": "عين طارق",
+						"french": "Aïn Tarek",
+						"latitude": 35.7762676,
+						"longitude": 1.1377008
+					},
+					{
+						"arabic": "حد الشكالة",
+						"french": "Had Echkalla",
+						"latitude": 35.6792524,
+						"longitude": 1.1484972
+					}
+				],
+				"latitude": 35.7762676,
+				"longitude": 1.1377008
+			},
+			{
+				"french": "Oued Rhiou",
+				"arabic": "وادي ارهيو",
+				"Baladiyas": [
+					{
+						"arabic": "وادي ارهيو",
+						"french": "Oued Rhiou",
+						"latitude": 35.9607107,
+						"longitude": 0.9199773
+					},
+					{
+						"arabic": "مرجة سيدي عابد",
+						"french": "Merdja Sidi Abed",
+						"latitude": 35.7422684,
+						"longitude": 1.7076637
+					},
+					{
+						"arabic": "واريزان",
+						"french": "Ouarizane",
+						"latitude": 36.0465615,
+						"longitude": 0.8996991999999999
+					},
+					{
+						"arabic": "لحلاف",
+						"french": "Lahlef",
+						"latitude": 35.8921599,
+						"longitude": 0.9796769999999999
+					}
+				],
+				"latitude": 35.9607107,
+				"longitude": 0.9199773
+			},
+			{
+				"french": "Mazouna",
+				"arabic": "مازونة",
+				"Baladiyas": [
+					{
+						"arabic": "مازونة",
+						"french": "Mazouna",
+						"latitude": 36.1187509,
+						"longitude": 0.8770473
+					},
+					{
+						"arabic": "القطار",
+						"french": "El Guettar",
+						"latitude": 36.091951,
+						"longitude": 0.8246386
+					}
+				],
+				"latitude": 36.1187509,
+				"longitude": 0.8770473
+			},
+			{
+				"french": "Sidi M'Hamed Ben Ali",
+				"arabic": "سيدي امحمد بن علي",
+				"Baladiyas": [
+					{
+						"arabic": "سيدي امحمد بن علي",
+						"french": "Sidi M'Hamed Ben Ali",
+						"latitude": 36.1434513,
+						"longitude": 0.8413067999999999
+					},
+					{
+						"arabic": "بني زنطيس",
+						"french": "Beni Zentis",
+						"latitude": 36.1106051,
+						"longitude": 0.6642606999999999
+					},
+					{
+						"arabic": "مديونة",
+						"french": "Mediouna",
+						"latitude": 36.1263731,
+						"longitude": 0.7544692000000001
+					}
+				],
+				"latitude": 36.1434513,
+				"longitude": 0.8413067999999999
+			}
+		],
+		"latitude": 35.7339361,
+		"longitude": 0.5588787
+	}
 ]

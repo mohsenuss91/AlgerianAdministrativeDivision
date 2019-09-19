@@ -19,6 +19,8 @@ describe("tests search functions for raw data", () => {
         const arValue = "بسكرة";
         const frValue = "Biskra";
         const matValue = "07";
+        const longitude = 5.751047499999999;
+        const latitude = 34.8370347;
         let wilaya = wilayas.getByMatricule(matValue);
 
         expect(wilaya.french).toEqual(frValue);
@@ -26,6 +28,8 @@ describe("tests search functions for raw data", () => {
         expect(wilaya.matricule).toEqual(matValue);
         expect(wilaya.Dairas.length).toEqual(11);
         expect(wilaya.phoneCodes[0]).toEqual("33");
+        expect(wilaya.longitude).toEqual(longitude);
+        expect(wilaya.latitude).toEqual(latitude);
     });
 
     it("test single callingCode for Setif", () => {
