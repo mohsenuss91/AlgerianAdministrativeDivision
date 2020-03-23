@@ -2466,9 +2466,106 @@
 		"phoneCodes": [
 			"37"
 		],
-		"Dairas": [],
-		"latitude": 35.4142494,
-		"longitude": 8.101092000000001
+		"Dairas": [
+			{
+				"arabic": "تبسة‎",
+				"french": "Tebessa",
+				"latitude": 35.3974637,
+				"longitude": 8.0077242,
+				"Baladiyas": [
+				]
+			},
+			{
+				"arabic": "الكويف‎",
+				"french": "El Kouif",
+				"latitude": 35.4953152,
+				"longitude": 8.1942038,
+				"Baladiyas": [
+				]
+			},
+			{
+				"arabic": "مرسط‎",
+				"french": "Morsott",
+				"latitude": 35.6753513,
+				"longitude": 7.8608357,
+				"Baladiyas": [
+				]
+			},
+			{
+				"arabic": "الماء الأبيض‎",
+				"french": "El Ma Labiodh",
+				"latitude": 35.2496907,
+				"longitude": 7.9728882,
+				"Baladiyas": [
+				]
+			},
+			{
+				"arabic": "العوينات‎",
+				"french": "Al Aouinet",
+				"latitude": 35.8653417,
+				"longitude": 7.7787353,
+				"Baladiyas": [
+				]
+			},
+			{
+				"arabic": "ونزة‎",
+				"french": "Ouenza",
+				"latitude": 35.9417067,
+				"longitude": 8.0940417,
+				"Baladiyas": [
+				]
+			},
+			{
+				"arabic": "بئر مقدم‎‎",
+				"french": "Bir Mokkadem",
+				"latitude": 35.4047065,
+				"longitude": 7.6934227,
+				"Baladiyas": [
+				]
+			},
+			{
+				"arabic": "بئر العاتر‎‎",
+				"french": "Bir el-Ater",
+				"latitude": 34.6827578,
+				"longitude": 7.7298318,
+				"Baladiyas": [
+				]
+			},
+			{
+				"arabic": "العقلة‎",
+				"french": "El Ogla",
+				"latitude": 35.3144647,
+				"longitude": 7.3755955,
+				"Baladiyas": [
+				]
+			},
+			{
+				"arabic": "أم علي‎",
+				"french": "Oum Ali",
+				"latitude": 35.0838849,
+				"longitude": 8.1667402,
+				"Baladiyas": [
+				]
+			},
+			{
+				"arabic": "نقرين‎",
+				"french": "Negrine",
+				"latitude": 34.3919343,
+				"longitude": 7.4683296,
+				"Baladiyas": [
+				]
+			},
+			{
+				"arabic": "الشريعة‎",
+				"french": "Cheria",
+				"latitude": 35.2458722,
+				"longitude": 7.6359821,
+				"Baladiyas": [
+				]
+			}
+		],
+		"latitude": 35.3974637,
+		"longitude": 8.0077242
 	},
 	{
 		"arabic": "تلمسان‎",
