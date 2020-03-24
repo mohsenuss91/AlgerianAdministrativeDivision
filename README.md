@@ -7,7 +7,7 @@ Administrative division of Algeria (Wilayas - Daïras - baladiyahs) XML/json fil
 ### How to contribute
 Any one can contribute in this projet by coding, translating or sharing documents and sources.
 1. Fork this repo to your account and clone it to your local machine from there **using SSH**.
-2. Run the command `npm run install`.
+2. Run the command `npm install`.
 3. Do your changes in the "Algeria.json" file. don't touch any other file except this one.
 4. Run the command `npm run convert` to convert the Algeria.json file to XML.
 5. Commit your changes and push them to your origin repositrory (the one in your account).
