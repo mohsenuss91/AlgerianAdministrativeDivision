@@ -4070,7 +4070,208 @@
 		"phoneCodes": [
 			"38"
 		],
-		"Dairas": [],
+		"Dairas": [
+			{
+				"french": "El Taref",
+				"arabic": "الطارف",
+				"Baladiyas": [
+					{
+						"arabic": "الطارف",
+						"french": "El taref",
+						"latitude": 36.671115,
+						"longitude": 8.0320602
+					},
+					{
+						"arabic": "عين العسل",
+						"french": "Aïn El Assel",
+						"longitude": 0,
+						"latitude": 0
+					},
+					{
+						"arabic": "بوقوس",
+						"french": "Bougous",
+						"longitude": 0,
+						"latitude": 0
+					},
+					{
+						"arabic": "الزيتونة",
+						"french": "Zitouna",
+						"longitude": 0,
+						"latitude": 0
+					}
+				],
+				"latitude": 36.671115,
+				"longitude": 8.0320602
+			},
+			{
+				"french": "Bouteldja",
+				"arabic": "بوثلجة",
+				"Baladiyas": [
+					{
+						"arabic": "بوثلجة",
+						"french": "Bouteldja",
+						"latitude":36.7817169,
+						"longitude": 8.1553881
+					},
+					{
+						"arabic": "بحيرة الطيور",
+						"french": "Lac des Oiseaux",
+						"latitude": 0,
+						"longitude": 0
+					},
+					{
+						"arabic": "الشافية",
+						"french": "Chefia",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 36.7817169,
+				"longitude": 8.1553881
+			},
+			{
+				"french": "Bouhadjar",
+				"arabic": "بوحجار",
+				"Baladiyas": [
+					{
+						"arabic": "بوحجار",
+						"french": "Bouhadjar",
+						"latitude": 36.5187773,
+						"longitude": 8.0761022
+					},
+					{
+						"arabic": "عين الكرمة",
+						"french": "Ain El Kerma",
+						"latitude": 0,
+						"longitude": 0
+					},
+					{
+						"arabic": "واد الزيتون",
+						"french": "Oued Zitoun",
+						"latitude": 0,
+						"longitude": 0
+					},
+					{
+						"arabic": "حمام بني صالح",
+						"french": "Hammam Beni Salah",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 36.5187773,
+				"longitude": 8.0761022
+			},
+			{
+				"french": "Dréan",
+				"arabic": "الذرعان",
+				"Baladiyas": [
+					{
+						"arabic": "الذرعان",
+						"french": "Dréan",
+						"latitude": 36.6849348,
+						"longitude": 7.682032
+					},
+					{
+						"arabic": "شبيطة مختار",
+						"french": "Chebaïta Mokhtar",
+						"latitude": 0,
+						"longitude": 0
+					},
+					{
+						"arabic": "الشيحاني",
+						"french": "Chihani",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 36.68849348,
+				"longitude": 7.682032
+			},
+			{
+				"french": "Besbes",
+				"arabic": "البسباس",
+				"Baladiyas": [
+					{
+						"arabic": "البسباس",
+						"french": "Besbes",
+						"latitude": 36.7202561,
+						"longitude": 7.7895381
+					},
+					{
+						"arabic": "عصفور",
+						"french": "Asfour",
+						"latitude": 0,
+						"longitude": 0
+					},
+					{
+						"arabic": "زريزر",
+						"french": "Zérizer",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 36.7202561,
+				"longitude": 7.7895381
+			},
+			{
+				"french": "Ben M'hidi",
+				"arabic": "بن مهيدي",
+				"Baladiyas": [
+					{
+						"arabic": "بن مهيدي",
+						"french": "Ben M'hidi",
+						"latitude": 36.7704099,
+						"longitude": 7.8990342
+					},
+					{
+						"arabic": "الشط",
+						"french": "Echatt",
+						"latitude": 0,
+						"longitude": 0
+					},
+					{
+						"arabic": "بريحان",
+						"french": "Berrihane",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 36.7704099,
+				"longitude": 7.8990342
+			},
+			{
+				"french": "El Kala",
+				"arabic": "القالة",
+				"Baladiyas": [
+					{
+						"arabic": "القالة",
+						"french": "El Kala",
+						"latitude": 36.8761617,
+						"longitude": 8.2697047
+					},
+					{
+						"arabic": "السوارخ",
+						"french": "Souarekh",
+						"latitude": 0,
+						"longitude": 0
+					},
+					{
+						"arabic": "رمل السوق",
+						"french": "Raml Souk",
+						"latitude": 0,
+						"longitude": 0
+					},
+					{
+						"arabic": "العيون",
+						"french": "El Aïoun",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 36.8761617,
+				"longitude": 8.2697047
+			}
+		],
 		"latitude": 36.7558581,
 		"longitude": 8.2212979
 	},
