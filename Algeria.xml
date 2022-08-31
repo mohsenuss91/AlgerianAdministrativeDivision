@@ -3096,6 +3096,96 @@
     <french>Annaba</french>
     <matricule>23</matricule>
     <phoneCodes>38</phoneCodes>
+    <Dairas>
+        <french>Annaba</french>
+        <arabic>عنابة</arabic>
+        <Baladiyas>
+            <arabic>عنابة</arabic>
+            <french>Annaba</french>
+            <latitude>36.9264582</latitude>
+            <longitude>7.752535200000001</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>سرايدي</arabic>
+            <french>Seraïdi</french>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+        </Baladiyas>
+        <latitude>36.9264582</latitude>
+        <longitude>7.752535200000001</longitude>
+    </Dairas>
+    <Dairas>
+        <french>Berrahal</french>
+        <arabic>برحال</arabic>
+        <Baladiyas>
+            <arabic>برحال</arabic>
+            <french>Berrahal</french>
+            <latitude>36.8105098</latitude>
+            <longitude>7.4525372</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>وادي العنب</arabic>
+            <french>Oued El Aneb</french>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>تريعات</arabic>
+            <french>Tréat</french>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+        </Baladiyas>
+        <latitude>36.8105098</latitude>
+        <longitude>7.45235372</longitude>
+    </Dairas>
+    <Dairas>
+        <french>El Bouni</french>
+        <arabic>البوني</arabic>
+        <Baladiyas>
+            <arabic>البوني</arabic>
+            <french>El Bouni</french>
+            <latitude>36.8390492</latitude>
+            <longitude>7.6729011</longitude>
+        </Baladiyas>
+        <latitude>36.8390492</latitude>
+        <longitude>7.6729011</longitude>
+    </Dairas>
+    <Dairas>
+        <french>Aïn Berda</french>
+        <arabic>عين الباردة</arabic>
+        <Baladiyas>
+            <arabic>عين الباردة</arabic>
+            <french>Aïn Berda</french>
+            <latitude>36.6721494</latitude>
+            <longitude>7.515939</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>الشرفة</arabic>
+            <french>Cheurfa</french>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>العلمة</arabic>
+            <french>Eulma</french>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+        </Baladiyas>
+        <latitude>36.6721494</latitude>
+        <longitude>7.515939</longitude>
+    </Dairas>
+    <Dairas>
+        <french>Chetaïbi</french>
+        <arabic>شطايبي</arabic>
+        <Baladiyas>
+            <arabic>شطايبي</arabic>
+            <french>Chetaïbi</french>
+            <latitude>37.0117464</latitude>
+            <longitude>7.3611537</longitude>
+        </Baladiyas>
+        <latitude>37.0117464</latitude>
+        <longitude>7.3611537</longitude>
+    </Dairas>
     <latitude>36.9264582</latitude>
     <longitude>7.752535200000001</longitude>
 </22>
@@ -3644,6 +3734,192 @@
     <french>El Taref</french>
     <matricule>36</matricule>
     <phoneCodes>38</phoneCodes>
+    <Dairas>
+        <french>El Taref</french>
+        <arabic>الطارف</arabic>
+        <Baladiyas>
+            <arabic>الطارف</arabic>
+            <french>El taref</french>
+            <latitude>36.671115</latitude>
+            <longitude>8.0320602</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>عين العسل</arabic>
+            <french>Aïn El Assel</french>
+            <longitude>0</longitude>
+            <latitude>0</latitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>بوقوس</arabic>
+            <french>Bougous</french>
+            <longitude>0</longitude>
+            <latitude>0</latitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>الزيتونة</arabic>
+            <french>Zitouna</french>
+            <longitude>0</longitude>
+            <latitude>0</latitude>
+        </Baladiyas>
+        <latitude>36.671115</latitude>
+        <longitude>8.0320602</longitude>
+    </Dairas>
+    <Dairas>
+        <french>Bouteldja</french>
+        <arabic>بوثلجة</arabic>
+        <Baladiyas>
+            <arabic>بوثلجة</arabic>
+            <french>Bouteldja</french>
+            <latitude>36.7817169</latitude>
+            <longitude>8.1553881</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>بحيرة الطيور</arabic>
+            <french>Lac des Oiseaux</french>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>الشافية</arabic>
+            <french>Chefia</french>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+        </Baladiyas>
+        <latitude>36.7817169</latitude>
+        <longitude>8.1553881</longitude>
+    </Dairas>
+    <Dairas>
+        <french>Bouhadjar</french>
+        <arabic>بوحجار</arabic>
+        <Baladiyas>
+            <arabic>بوحجار</arabic>
+            <french>Bouhadjar</french>
+            <latitude>36.5187773</latitude>
+            <longitude>8.0761022</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>عين الكرمة</arabic>
+            <french>Ain El Kerma</french>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>واد الزيتون</arabic>
+            <french>Oued Zitoun</french>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>حمام بني صالح</arabic>
+            <french>Hammam Beni Salah</french>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+        </Baladiyas>
+        <latitude>36.5187773</latitude>
+        <longitude>8.0761022</longitude>
+    </Dairas>
+    <Dairas>
+        <french>Dréan</french>
+        <arabic>الذرعان</arabic>
+        <Baladiyas>
+            <arabic>الذرعان</arabic>
+            <french>Dréan</french>
+            <latitude>36.6849348</latitude>
+            <longitude>7.682032</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>شبيطة مختار</arabic>
+            <french>Chebaïta Mokhtar</french>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>الشيحاني</arabic>
+            <french>Chihani</french>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+        </Baladiyas>
+        <latitude>36.68849348</latitude>
+        <longitude>7.682032</longitude>
+    </Dairas>
+    <Dairas>
+        <french>Besbes</french>
+        <arabic>البسباس</arabic>
+        <Baladiyas>
+            <arabic>البسباس</arabic>
+            <french>Besbes</french>
+            <latitude>36.7202561</latitude>
+            <longitude>7.7895381</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>عصفور</arabic>
+            <french>Asfour</french>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>زريزر</arabic>
+            <french>Zérizer</french>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+        </Baladiyas>
+        <latitude>36.7202561</latitude>
+        <longitude>7.7895381</longitude>
+    </Dairas>
+    <Dairas>
+        <french>Ben M'hidi</french>
+        <arabic>بن مهيدي</arabic>
+        <Baladiyas>
+            <arabic>بن مهيدي</arabic>
+            <french>Ben M'hidi</french>
+            <latitude>36.7704099</latitude>
+            <longitude>7.8990342</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>الشط</arabic>
+            <french>Echatt</french>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>بريحان</arabic>
+            <french>Berrihane</french>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+        </Baladiyas>
+        <latitude>36.7704099</latitude>
+        <longitude>7.8990342</longitude>
+    </Dairas>
+    <Dairas>
+        <french>El Kala</french>
+        <arabic>القالة</arabic>
+        <Baladiyas>
+            <arabic>القالة</arabic>
+            <french>El Kala</french>
+            <latitude>36.8761617</latitude>
+            <longitude>8.2697047</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>السوارخ</arabic>
+            <french>Souarekh</french>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>رمل السوق</arabic>
+            <french>Raml Souk</french>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+        </Baladiyas>
+        <Baladiyas>
+            <arabic>العيون</arabic>
+            <french>El Aïoun</french>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+        </Baladiyas>
+        <latitude>36.8761617</latitude>
+        <longitude>8.2697047</longitude>
+    </Dairas>
     <latitude>36.7558581</latitude>
     <longitude>8.2212979</longitude>
 </35>

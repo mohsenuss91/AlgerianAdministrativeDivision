@@ -3445,7 +3445,108 @@
 		"phoneCodes": [
 			"38"
 		],
-		"Dairas": [],
+		"Dairas": [
+			{
+				"french": "Annaba",
+				"arabic": "عنابة",
+				"Baladiyas": [
+					{
+						"arabic": "عنابة",
+						"french": "Annaba",
+						"latitude": 36.9264582,
+						"longitude": 7.752535200000001
+					},
+					{
+						"arabic": "سرايدي",
+						"french": "Seraïdi",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 36.9264582,
+				"longitude": 7.752535200000001
+			},
+			{
+				"french": "Berrahal",
+				"arabic": "برحال",
+				"Baladiyas": [
+					{
+						"arabic": "برحال",
+						"french": "Berrahal",
+						"latitude": 36.8105098,
+						"longitude": 7.4525372
+					},
+					{
+						"arabic": "وادي العنب",
+						"french": "Oued El Aneb",
+						"latitude": 0,
+						"longitude": 0
+					},
+					{
+						"arabic": "تريعات",
+						"french": "Tréat",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 36.8105098,
+				"longitude": 7.45235372
+			},
+			{
+				"french": "El Bouni",
+				"arabic": "البوني",
+				"Baladiyas": [
+					{
+						"arabic": "البوني",
+						"french": "El Bouni",
+						"latitude": 36.8390492,
+						"longitude": 7.6729011
+					}
+				],
+				"latitude": 36.8390492,
+				"longitude": 7.6729011
+			},
+			{
+				"french": "Aïn Berda",
+				"arabic": "عين الباردة",
+				"Baladiyas": [
+					{
+						"arabic": "عين الباردة",
+						"french": "Aïn Berda",
+						"latitude": 36.6721494,
+						"longitude": 7.515939
+					},
+					{
+						"arabic": "الشرفة",
+						"french": "Cheurfa",
+						"latitude": 0,
+						"longitude": 0
+					},
+					{
+						"arabic": "العلمة",
+						"french": "Eulma",
+						"latitude": 0,
+						"longitude": 0
+					}
+				],
+				"latitude": 36.6721494,
+				"longitude": 7.515939
+			},
+			{
+				"french": "Chetaïbi",
+				"arabic": "شطايبي",
+				"Baladiyas": [
+					{
+						"arabic": "شطايبي",
+						"french": "Chetaïbi",
+						"latitude": 37.0117464,
+						"longitude": 7.3611537
+					}
+				],
+				"latitude": 37.0117464,
+				"longitude": 7.3611537
+			}
+		],
 		"latitude": 36.9264582,
 		"longitude": 7.752535200000001
 	},
