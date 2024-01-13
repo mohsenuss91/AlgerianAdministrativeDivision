@@ -4689,5 +4689,95 @@
 		],
 		"latitude": 35.7339361,
 		"longitude": 0.5588787
-	}
+	},
+	{
+		"arabic": "تميمون",
+		"french": "Timimoun",
+		"matricule": "49",
+		"phoneCodes": [],
+		"Dairas": [],
+		"latitude": 29.244334,
+		"longitude": 0.2215884
+	},
+	{
+		"arabic": "برج بادجي مختار",
+		"french": "Bordj Badji Mokhtar",
+		"matricule": "50",
+		"phoneCodes": [],
+		"Dairas": [],
+		"latitude": 21.3306383,
+		"longitude": 0.9550876
+	},
+	{
+		"arabic": "أولاد جلال",
+		"french": "Ouled Djellal",
+		"matricule": "51",
+		"phoneCodes": [],
+		"Dairas": [],
+		"latitude": 34.425851,
+		"longitude": 5.0633071
+	},
+	{
+		"arabic": "بني عباس",
+		"french": "Béni Abbès",
+		"matricule": "52",
+		"phoneCodes": [],
+		"Dairas": [],
+		"latitude": 30.132688,
+		"longitude": -2.1659296
+	},
+	{
+		"arabic": "عين صالح",
+		"french": "In Salah",
+		"matricule": "53",
+		"phoneCodes": [],
+		"Dairas": [],
+		"latitude": 36.7037423,
+		"longitude": 6.8566068
+	},				
+	{
+		"arabic": "عين قزام",
+		"french": "In Guezzam",
+		"matricule": "54",
+		"phoneCodes": [],
+		"Dairas": [],
+		"latitude": 19.5700134,
+		"longitude": 5.7686313
+	},	
+	{
+		"arabic": "تقرت",
+		"french": "Touggourt",
+		"matricule": "55",
+		"phoneCodes": [],
+		"Dairas": [],
+		"latitude": 33.1043783,
+		"longitude": 6.0639978
+	},
+	{
+		"arabic": "جانت",
+		"french": "Djanet",
+		"matricule": "56",
+		"phoneCodes": [],
+		"Dairas": [],
+		"latitude": 24.5532015,
+		"longitude": 9.4841269
+	},
+	{
+		"arabic": "المغير",
+		"french": "El M'Ghair",
+		"matricule": "57",
+		"phoneCodes": [],
+		"Dairas": [],
+		"latitude": 33.9493234,
+		"longitude": 5.910158
+	},
+	{
+		"arabic": "المنيعة",
+		"french": "El Menia",
+		"matricule": "58",
+		"phoneCodes": [],
+		"Dairas": [],
+		"latitude": 30.5831671,
+		"longitude": 2.8823896
+	}				
 ]
